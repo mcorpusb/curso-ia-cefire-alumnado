@@ -3,6 +3,7 @@ layout: default
 title: "🎓 IA gratuita para estudiantes"
 parent: Inicio
 nav_order: 2
+nav_exclude: false
 description: "Guía actualizada para estudiantes universitarios sobre promociones educativas de Google Gemini y otras herramientas de inteligencia artificial en España."
 lang: es
 translation_key: ia-gratis-estudiantes

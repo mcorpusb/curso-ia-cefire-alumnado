@@ -105,7 +105,7 @@ Todas las sesiones son de **17:30 a 19:30 h** a través de la sala virtual del c
 ### Identidad digital y acceso
 {: id="1--identidad-digital-y-acceso" }
 
-Antes de nada, asegúrate de poder acceder a las plataformas del curso. Consulta la [guía de identidad digital](primeros-pasos/identidad-digital.md).
+Antes de nada, asegúrate de poder acceder a las plataformas del curso. Consulta la [guía de identidad digital]({{ '/primeros-pasos/identidad-digital.html' | relative_url }}).
 
 ### Acceder a Copilot Chat
 {: id="2--acceder-a-copilot-chat" }

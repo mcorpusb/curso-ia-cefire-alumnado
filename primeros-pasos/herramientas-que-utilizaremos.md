@@ -3,6 +3,7 @@ layout: default
 title: "🧰 Herramientas que utilizaremos"
 parent: Inicio
 nav_order: 1
+nav_exclude: false
 description: "Herramientas de IA del curso: cuentas, usos docentes, radar por tareas, acceso institucional, ventajas educativas para profesorado y privacidad."
 lang: es
 translation_key: herramientas-que-utilizaremos
