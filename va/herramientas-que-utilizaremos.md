@@ -415,7 +415,7 @@ Un centre que utilitza Microsoft 365, Teams o Outlook pot estudiar Workspace for
 
 **Important:** les funcions premium o institucionals poden requerir pagament. Una prova temporal de funcions superiors no converteix eixes funcions en part permanent del pla Basic.
 
-## 🎓 També eres estudiant?
+## 🎓 També eres estudiant o universitari?
 {: id="estudiants" }
 
 Algunes plataformes ofereixen plans educatius, descomptes o accés temporal a funcions premium. Google manté una promoció per a estudiants elegibles; comprova la compte requerida, la verificació, la vigència i les condicions de renovació abans de sol·licitar-la.
