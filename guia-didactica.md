@@ -329,7 +329,7 @@ Se valora especialmente:
 
 Para obtener la certificación:
 
-- Asistir a las sesiones síncronas según normativa CEFIRE.
+- ** Asistir a las sesiones síncronas obligatorias ** según normativa CEFIRE.
 - Entregar las actividades requeridas de los bloques.
 - Completar el proyecto final «Mi flujo docente con IA».
 - Demostrar aprovechamiento adecuado del itinerario.
