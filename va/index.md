@@ -85,21 +85,6 @@ La IA pot facilitar moltes tasques docents, però no sempre és la millor ferram
 
 ---
 
-## Calendari de sessions síncrones
-
-Totes les sessions són de **17:30 a 19:30 h** a través de la sala virtual del curs en Aules.
-
-<!-- CALENDARI — actualitzar ací en cada edició -->
-
-| Sessió | Data | Bloc | Contingut clau |
-|:------:|:-----:|:------:|:----------------|
-| 1 | **Dimarts 20/10/2026** | Bloc 1 | IA Col·laborativa i Gestió GVA |
-| 2 | **Dimarts 27/10/2026** | Bloc 2 | Prompting avançat i gestió documental |
-| 3 | **Dimarts 03/11/2026** | Bloc 3 | Generació Multimodal |
-| 4 | **Dimarts 10/11/2026** | Bloc 4 | Avaluació i Personalització |
-
----
-
 ## Primers passos abans de la primera sessió
 
 ### Identitat digital i accés

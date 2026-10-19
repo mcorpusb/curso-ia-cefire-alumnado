@@ -85,21 +85,6 @@ La IA puede facilitar muchas tareas docentes, pero no siempre es la mejor herram
 
 ---
 
-## Calendario de sesiones síncronas
-
-Todas las sesiones son de **17:30 a 19:30 h** a través de la sala virtual del curso en Aules.
-
-<!-- CALENDARIO — actualizar aquí en cada edición -->
-
-| Sesión | Fecha | Bloque | Contenido clave |
-|:------:|:-----:|:------:|:----------------|
-| 1 | **Martes 20/10/2026** | Bloque 1 | IA Colaborativa y Gestión GVA |
-| 2 | **Martes 27/10/2026** | Bloque 2 | Prompting avanzado y gestión documental |
-| 3 | **Martes 03/11/2026** | Bloque 3 | Generación Multimodal |
-| 4 | **Martes 10/11/2026** | Bloque 4 | Evaluación y Personalización |
-
----
-
 ## Primeros pasos antes de la primera sesión
 
 ### Identidad digital y acceso
