@@ -19,6 +19,11 @@ Diseña una actividad comunicativa multinivel con ayuda de Copilot, adaptada a d
 
 ---
 
+{: .callout .callout--privacidad }
+**IMPORTANTE: No introduzcas datos personales ni información sensible del alumnado, profesorado, familias u otras personas en las herramientas de inteligencia artificial utilizadas en este curso.** Utiliza ejemplos ficticios, información pública o materiales debidamente anonimizados. Comprueba siempre las condiciones del servicio y las instrucciones de tu centro y de la administración educativa.
+
+**GVA y NO GVA:** la cuenta `@edu.gva.es` identifica al profesorado en los servicios corporativos habilitados, según permisos y licencias; no garantiza acceso a toda la IA ni autoriza cualquier tratamiento de datos. Las cuentas personales son externas a GVA y sirven aquí para crear recursos sin datos personales reales. Registrarse con correo GVA, tener una cuenta universitaria o un plan Education, gratuito o de pago no equivale a autorización institucional.
+
 ## 🎯 Objetivo
 
 Utilizar Microsoft Copilot para diseñar una actividad o secuencia comunicativa multinivel para una clase real de la Escuela Oficial de Idiomas, con tres itinerarios de trabajo —apoyo, estándar y ampliación— y con andamiaje lingüístico ajustado al [IDIOMA], al [NIVEL MCER], al perfil del grupo y a la actividad de lengua que se quiere trabajar.
@@ -37,11 +42,11 @@ Diseñar a mano una actividad así —con input base, desarrollo paso a paso, ap
 
 ## ⚙️ Qué vas a hacer
 
-- Accede a Microsoft Copilot con tu cuenta @edu.gva.es y comprueba que aparece la insignia "Protegido"
+- Comprueba si **Copilot Chat** está habilitado y autorizado para esta tarea con tu cuenta `@edu.gva.es`, y revisa el perfil activo. Una insignia de protección no autoriza a introducir datos personales. Si no está disponible, utiliza una alternativa NO GVA del Radar con los mismos materiales ficticios, o analiza un ejemplo facilitado por el tutor sin abrir otra cuenta.
 - Elige el idioma [IDIOMA], el nivel MCER [NIVEL MCER] y la unidad o tema [TEMA / UNIDAD]
 - Decide qué actividad de lengua principal quieres trabajar: [ACTIVIDAD DE LENGUA PRINCIPAL].
 - Determina qué tres itinerarios necesitas para tu grupo: apoyo, estándar y ampliación.
-- Completa el prompt con el contexto real del grupo: [NÚMERO DE ESTUDIANTES], [PERFILES DEL GRUPO], [NECESIDADES DE APOYO], [TIEMPO DISPONIBLE] y [MODALIDAD: PRESENCIAL / SEMIPRESENCIAL].
+- Completa el prompt con un contexto ficticio: [NÚMERO ORIENTATIVO], [PERFILES DIDÁCTICOS FICTICIOS], [APOYOS LINGÜÍSTICOS GENERALES, SIN DIAGNÓSTICOS], [TIEMPO DISPONIBLE] y [MODALIDAD: PRESENCIAL / SEMIPRESENCIAL].
 - Lanza el prompt en Copilot y lee con atención la propuesta generada.
 - Comprueba si la actividad responde a una situación comunicativa auténtica o verosímil.
 - Revisa si los tres itinerarios cambian de verdad el grado de apoyo, autonomía y complejidad, y no solo la cantidad de texto.
@@ -54,6 +59,8 @@ Diseñar a mano una actividad así —con input base, desarrollo paso a paso, ap
 ## 💬 Prompt listo para usar
 
 ```text
+Utiliza únicamente información ficticia, pública sin datos personales o debidamente anonimizada. No incluyas datos personales del alumnado ni de otras personas.
+
 Actúa como un/a especialista en didáctica de lenguas en Escuela Oficial 
 de Idiomas (EOI), diseño de tareas comunicativas, atención a la 
 diversidad, andamiaje lingüístico, adaptación multinivel y aplicación 
@@ -62,10 +69,10 @@ del MCER/MCERL en grupos reales de alumnado joven y adulto.
 Contexto:
 Soy docente de [IDIOMA] en una Escuela Oficial de Idiomas de la 
 Comunitat Valenciana. Imparto un grupo de nivel [NIVEL MCER]. Se trata 
-de [TIPO DE GRUPO], formado por [NÚMERO DE ESTUDIANTES] estudiantes. El 
-grupo presenta estas características: [PERFILES DEL GRUPO]. Las 
+de [TIPO DE GRUPO], formado por [NÚMERO FICTICIO DE ESTUDIANTES] estudiantes. El 
+grupo presenta estas características: [PERFILES DIDÁCTICOS FICTICIOS]. Las 
 necesidades de apoyo o de adaptación más relevantes son: 
-[NECESIDADES DE APOYO].
+[APOYOS LINGÜÍSTICOS GENERALES, SIN DIAGNÓSTICOS].
 
 Estoy trabajando la unidad o tema [TEMA / UNIDAD]. Quiero diseñar una 
 actividad o secuencia breve centrada principalmente en 
@@ -150,6 +157,8 @@ siguiente estructura:
 ```
 
 
+Para el input, crea correos, formularios y conversaciones ficticios; usa voces sintéticas de catálogo o lectura en el aula sin subir grabaciones. No adjuntes mensajes ni audios reales del alumnado. La asignación de itinerarios se decide fuera de la IA.
+
 ## 🧪 Qué debes observar en la respuesta
 
 - ¿La situación es realista y relevante para el contexto EOI?
@@ -171,6 +180,8 @@ Haz que Copilot adapte la secuencia para:
 ```
 
 ## 📦 Entregable
+
+Las evidencias y capturas deben mostrar solo la práctica: elimina correos del perfil, avatares, nombres, enlaces privados y códigos de acceso. No adjuntes trabajos reales identificables ni registros de evaluación cumplimentados.
 
 Un documento breve (Word, PDF o similar) que incluya:
 - La secuencia comunicativa adaptada y lista para aplicar.

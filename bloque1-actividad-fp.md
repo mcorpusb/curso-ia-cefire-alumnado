@@ -18,6 +18,11 @@ Crea un caso práctico profesional simulado y la documentación técnica asociad
 
 ---
 
+{: .callout .callout--privacidad }
+**IMPORTANTE: No introduzcas datos personales ni información sensible del alumnado, profesorado, familias u otras personas en las herramientas de inteligencia artificial utilizadas en este curso.** Utiliza ejemplos ficticios, información pública o materiales debidamente anonimizados. Comprueba siempre las condiciones del servicio y las instrucciones de tu centro y de la administración educativa.
+
+**GVA y NO GVA:** la cuenta `@edu.gva.es` identifica al profesorado en los servicios corporativos habilitados, según permisos y licencias; no garantiza acceso a toda la IA ni autoriza cualquier tratamiento de datos. Las cuentas personales son externas a GVA y sirven aquí para crear recursos sin datos personales reales. Registrarse con correo GVA, tener una cuenta universitaria o un plan Education, gratuito o de pago no equivale a autorización institucional.
+
 ## 🎯 Objetivo
 
 Utilizar Microsoft Copilot para diseñar un caso práctico profesional realista que puedas usar en clase como actividad de aprendizaje basada en retos, incluyendo el briefing del cliente, las instrucciones para el alumnado y una guía de evaluación.
@@ -41,10 +46,10 @@ Este proceso suele llevarte varias horas. Con Copilot puedes generar el esquelet
 
 ## ⚙️ Qué vas a hacer
 
-- Accede a **Microsoft Copilot** con tu cuenta `@edu.gva.es` y comprueba que aparece la insignia **"Protegido"**.
+- Comprueba si **Copilot Chat** está habilitado y autorizado para esta tarea con tu cuenta `@edu.gva.es`, y revisa el perfil activo. Una insignia de protección no autoriza a introducir datos personales. Si no está disponible, utiliza una alternativa NO GVA del Radar con los mismos materiales ficticios, o analiza un ejemplo facilitado por el tutor sin abrir otra cuenta.
 - Elige un módulo profesional y un resultado de aprendizaje concreto que tengas que trabajar esta evaluación.
 - Piensa en el tipo de empresa o situación profesional que mejor se ajuste a ese resultado de aprendizaje.
-- Completa el prompt con los datos reales de tu ciclo, módulo y contexto.
+- Completa el prompt con el ciclo, el módulo, el currículo público y un contexto profesional ficticio, sin datos de clientes, pacientes o empresas de prácticas reales.
 - Lanza el prompt en Copilot y revisa el caso generado.
 - Comprueba que el nivel de complejidad es adecuado para tu grupo: ¿es un reto alcanzable? ¿Los datos son coherentes?
 - Verifica que la documentación técnica generada es correcta para tu especialidad (la IA puede inventar normativas o datos técnicos).
@@ -56,6 +61,8 @@ Este proceso suele llevarte varias horas. Con Copilot puedes generar el esquelet
 ## 💬 Prompt listo para usar
 
 ```text
+Utiliza únicamente información ficticia, pública sin datos personales o debidamente anonimizada. No incluyas datos personales del alumnado ni de otras personas.
+
 Actúa como un consultor profesional del sector de [FAMILIA PROFESIONAL: 
 Informática, Administración, Sanidad, Electricidad, Hostelería…] con 
 experiencia en formación y en diseño de casos prácticos para centros 
@@ -64,7 +71,7 @@ de Formación Profesional.
 Contexto: Soy profesor/a del módulo [NOMBRE DEL MÓDULO] en el ciclo 
 de [GRADO MEDIO/SUPERIOR] de [TÍTULO DEL CICLO] en un IES/CIFP de la 
 Comunitat Valenciana. El resultado de aprendizaje que quiero trabajar 
-es: [PEGAR O DESCRIBIR EL RA]. Tengo [NÚMERO] alumnos/as que trabajan 
+es: [PEGAR O DESCRIBIR EL RA]. Tengo [NÚMERO FICTICIO] alumnos/as que trabajan 
 en grupos de [3-4] personas.
 
 Tarea: Diseña un caso práctico profesional completo con la siguiente 
@@ -156,6 +163,8 @@ si estuvieran en prácticas en la empresa del caso.
 
 ## 📦 Entregable
 
+Las evidencias y capturas deben mostrar solo la práctica: elimina correos del perfil, avatares, nombres, enlaces privados y códigos de acceso. No adjuntes trabajos reales identificables ni registros de evaluación cumplimentados.
+
 - Un documento Word (.docx) con:
   - la ficha de empresa y el briefing (versión para el alumnado);
   - la guía de evaluación (versión para el profesorado);
@@ -167,7 +176,7 @@ si estuvieran en prácticas en la empresa del caso.
 ## 💡 Aplicación inmediata
 
 - **Esta semana:** reparte la ficha de empresa y el briefing a los grupos de trabajo. Explica las fases y los plazos. El alumnado comienza la Fase 1 (análisis) en la misma sesión.
-- **En la evaluación:** usa la guía de evaluación generada para calificar de forma rápida y transparente. Comparte los criterios con el alumnado desde el primer día.
+- **En la evaluación:** revisa y aplica tú la guía de evaluación; no subas trabajos identificables ni calificaciones a la IA. La valoración final es docente. Comparte los criterios con el alumnado desde el primer día.
 - **Preparación de FCT:** utiliza la variante del caso como ejercicio de simulación de prácticas: redacción de informes, comunicación con el "tutor de empresa", documentación técnica.
 - **Próximos módulos:** reutiliza el prompt cambiando el módulo, el resultado de aprendizaje y el sector profesional para generar nuevos casos en minutos.
 
@@ -178,7 +187,10 @@ si estuvieran en prácticas en la empresa del caso.
 Si tu alumnado está preparando la **FCT** (Formación en Centros de Trabajo), pide a Copilot:
 
 ```text
-Genera un modelo de diario de prácticas (FCT) para un alumno/a de 
+Utiliza únicamente información ficticia, pública sin datos personales o debidamente anonimizada. No incluyas datos personales del alumnado ni de otras personas.
+
+Genera un modelo de diario de prácticas (FCT) completamente ficticio, sin
+datos de estudiantes, clientes, pacientes, tutores o empresas reales, para un perfil de 
 [CICLO FORMATIVO] en una empresa del sector [SECTOR]. El diario debe 
 cubrir 2 semanas de ejemplo con: fecha, tareas realizadas, herramientas 
 utilizadas, dificultades encontradas y aprendizajes del día. Incluye 

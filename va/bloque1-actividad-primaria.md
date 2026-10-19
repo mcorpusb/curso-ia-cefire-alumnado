@@ -18,6 +18,11 @@ Dissenya una fitxa de comprensió lectora multinivell per a atendre la diversita
 
 ---
 
+{: .callout .callout--privacidad }
+**IMPORTANT: No introduïsques dades personals ni informació sensible de l'alumnat, del professorat, de les famílies o d'altres persones en les ferramentes d'intel·ligència artificial utilitzades en este curs.** Utilitza exemples ficticis, informació pública o materials degudament anonimitzats. Comprova sempre les condicions del servici i les instruccions del teu centre i de l'administració educativa.
+
+**GVA i NO GVA:** el compte `@edu.gva.es` identifica el professorat en els servicis corporatius habilitats, segons permisos i llicències; no garantix accés a tota la IA ni autoritza qualsevol tractament de dades. Els comptes personals són externs a GVA i servixen ací per a crear recursos sense dades personals reals. Registrar-se amb correu GVA, tindre un compte universitari o un pla Education, gratuït o de pagament no equival a autorització institucional.
+
 ## 🎯 Objectiu
 
 Utilitzar Microsoft Copilot per a crear una fitxa de comprensió lectora amb tres nivells de dificultat a partir d'un mateix text, llesta per a imprimir i usar a l'aula l'endemà.
@@ -38,7 +43,7 @@ Preparar tres versions de la mateixa fitxa et portaria tota la vesprada. Amb Cop
 
 ## ⚙️ Què faràs
 
-- Accedix a **Microsoft Copilot** amb el teu compte `@edu.gva.es` i comprova que apareix la insígnia **"Protegido"**.
+- Comprova si **Copilot Chat** està habilitat i autoritzat per a esta tasca amb el teu compte `@edu.gva.es`, i revisa el perfil actiu. Una insígnia de protecció no autoritza a introduir dades personals. Si no està disponible, utilitza una alternativa NO GVA del Radar amb els mateixos materials ficticis, o analitza un exemple facilitat pel tutor sense obrir un altre compte.
 - Tria un tema de treball real de la teua programació actual (un text narratiu, expositiu o informatiu que tingues previst treballar esta setmana).
 - Decideix els tres nivells de dificultat que necessites per al teu grup concret.
 - Completa el prompt amb les dades de la teua assignatura, nivell i tema.
@@ -54,14 +59,16 @@ Preparar tres versions de la mateixa fitxa et portaria tota la vesprada. Amb Cop
 ### Prompt 1 — Fitxa de comprensió lectora multinivell
 
 ```text
+Utilitza únicament informació fictícia, pública sense dades personals o degudament anonimitzada. No inclogues dades personals de l'alumnat ni d'altres persones.
+
 Actua com un mestre/a d'Educació Primària especialista en comprensió lectora i atenció a la diversitat, amb experiència en disseny universal per a l'aprenentatge (DUA).
 
-Context: Soc tutor/a de [CURS: 3r/4t/5é/6é] de Primària en un col·legi públic de la Comunitat Valenciana. Tinc [NOMBRE] alumnes amb tres nivells de comprensió lectora clarament diferenciats. Esta setmana treballe [TEMA O CONTINGUT: ex. "els ecosistemes", "un fragment de literatura infantil", "una notícia adaptada"…] en l'àrea de [ASSIGNATURA: Llengua, Coneixement del Medi, Valencià…].
+Context: Soc tutor/a de [CURS: 3r/4t/5é/6é] de Primària en un col·legi públic de la Comunitat Valenciana. Tinc [NOMBRE FICTICI] alumnes amb tres nivells de comprensió lectora clarament diferenciats. Esta setmana treballe [TEMA O CONTINGUT: ex. "els ecosistemes", "un fragment de literatura infantil", "una notícia adaptada"…] en l'àrea de [ASSIGNATURA: Llengua, Coneixement del Medi, Valencià…].
 
 Tasca: Dissenya una fitxa de comprensió lectora amb l'estructura següent:
 
 1. **Text base** (150-200 paraules), adequat per a [CURS] i relacionat amb [TEMA].
-2. **Nivell 1 — Suport** (alumnat amb NEAE o desfasament curricular):
+2. **Nivell 1 — Suport** (lectura amb vocabulari senzill i suports addicionals; perfil fictici):
    - 4 preguntes de localització directa (la resposta està explícita en el text).
    - Vocabulari senzill, frases curtes.
    - Incloure un exemple resolt com a model.
@@ -72,7 +79,7 @@ Tasca: Dissenya una fitxa de comprensió lectora amb l'estructura següent:
    - 3 preguntes de pensament crític (valorar, argumentar, comparar amb altres textos o situacions).
    - 1 activitat creativa breu (ex.: reescriure el final, crear un títol alternatiu, escriure una carta al personatge).
 
-Format: text pla estructurat amb encapçalaments clars per a cada nivell, llest per a apegar en Word i donar format de fitxa imprimible. Inclou un requadre amb el nom de l'alumne/a i la data a l'inici.
+Format: text pla estructurat amb encapçalaments clars per a cada nivell, llest per a apegar en Word i donar format de fitxa imprimible. Inclou un requadre buit per a nom i data; s’omplirà fora de la IA i no es tornarà a pujar emplenat.
 ```
 
 ---
@@ -80,6 +87,8 @@ Format: text pla estructurat amb encapçalaments clars per a cada nivell, llest 
 ### Exemple de prompt ja completat
 
 ```text
+Utilitza únicament informació fictícia, pública sense dades personals o degudament anonimitzada. No inclogues dades personals de l'alumnat ni d'altres persones.
+
 Actua com un mestre/a d'Educació Primària especialista en comprensió lectora i atenció a la diversitat, amb experiència en disseny universal per a l'aprenentatge (DUA).
 
 Context: Soc tutor/a de 4t de Primària en un col·legi públic de la Comunitat Valenciana. Tinc 24 alumnes amb tres nivells de comprensió lectora clarament diferenciats. Esta setmana treballe un text narratiu-informatiu sobre una eixida a una marjal valenciana en l'àrea de Llengua Castellana.
@@ -87,7 +96,7 @@ Context: Soc tutor/a de 4t de Primària en un col·legi públic de la Comunitat 
 Tasca: Dissenya una fitxa de comprensió lectora amb l'estructura següent:
 
 1. **Text base** (150-200 paraules), adequat per a 4t i relacionat amb una eixida a la marjal.
-2. **Nivell 1 — Suport** (alumnat amb NEAE o desfasament curricular):
+2. **Nivell 1 — Suport** (lectura amb vocabulari senzill i suports addicionals; perfil fictici):
    - 4 preguntes de localització directa (la resposta està explícita en el text).
    - Vocabulari senzill, frases curtes.
    - Incloure un exemple resolt com a model.
@@ -98,7 +107,7 @@ Tasca: Dissenya una fitxa de comprensió lectora amb l'estructura següent:
    - 3 preguntes de pensament crític (valorar, argumentar, comparar amb altres textos o situacions).
    - 1 activitat creativa breu (ex.: reescriure el final, crear un títol alternatiu, escriure una carta al personatge).
 
-Format: text pla estructurat amb encapçalaments clars per a cada nivell, llest per a apegar en Word i donar format de fitxa imprimible. Inclou un requadre amb el nom de l'alumne/a i la data a l'inici.
+Format: text pla estructurat amb encapçalaments clars per a cada nivell, llest per a apegar en Word i donar format de fitxa imprimible. Inclou un requadre buit per a nom i data; s’omplirà fora de la IA i no es tornarà a pujar emplenat.
 ```
 
 ---
@@ -163,6 +172,8 @@ Per exemple, pots sol·licitar un **prompt mestre** per a convertir el text base
 ### Exemple de prompt mestre per a conte visual
 
 ```text
+Utilitza únicament informació fictícia, pública sense dades personals o degudament anonimitzada. No inclogues dades personals de l'alumnat ni d'altres persones.
+
 Actua com a il·lustrador/a educatiu i dissenyador/a de materials didàctics per a Primària.
 
 Transformaràs el text base d'una fitxa de comprensió lectora sobre una eixida a la marjal valenciana (alumnat de 4t de Primària) en un **conte visual o còmic educatiu** de 8 vinyetes.
@@ -184,6 +195,8 @@ Finalitza el conte visual amb una pregunta de reflexió per a la classe.
 ---
 
 ### Com usar el prompt mestre en Copilot Create o Designer
+
+Comprova si la generació d’imatges està habilitada per al teu compte. Si no ho està, utilitza una alternativa externa permesa amb personatges ficticis o dibuixa el recurs a partir del guió. No puges fotografies ni treballs identificables de l’alumnat.
 
 Ves a l'opció de **Crear** i apega el prompt que t'ha donat Copilot.
 
@@ -251,6 +264,8 @@ criteris d'avaluació de cada nivell i les respostes esperades.
 
 ## 📦 Lliurable
 
+Les evidències i captures han de mostrar només la pràctica: elimina correus del perfil, avatars, noms, enllaços privats i codis d’accés. No adjuntes treballs reals identificables ni registres d’avaluació emplenats.
+
 - Un document Word (.docx) amb:
   - la fitxa completa amb els tres nivells, llesta per a imprimir;
   - el prompt utilitzat (amb les teues adaptacions reals);
@@ -261,7 +276,7 @@ criteris d'avaluació de cada nivell i les respostes esperades.
 ## 💡 Aplicació immediata
 
 - **Demà a l'aula:** imprimeix les tres versions de la fitxa. Repartix a cada alumne/a la versió adequada al seu nivell sense que siga evident (mateixa maquetació, contingut diferent). Treballa la comprensió lectora en la sessió ordinària.
-- **En l'avaluació:** usa la rúbrica generada per a corregir de manera ràpida i coherent.
+- **En l'avaluació:** revisa i aplica tu la rúbrica; no puges treballs identificables ni qualificacions a la IA. La valoració final és docent.
 - **Pròximes setmanes:** reutilitza el mateix prompt canviant només el text base i el tema per a generar fitxes d'altres unitats didàctiques en minuts.
 
 ---
@@ -271,10 +286,14 @@ criteris d'avaluació de cada nivell i les respostes esperades.
 Si a més necessites un **registre de seguiment** per a anotar els resultats, demana a Copilot:
 
 ```text
+Utilitza únicament informació fictícia, pública sense dades personals o degudament anonimitzada. No inclogues dades personals de l'alumnat ni d'altres persones.
+
 Crea una taula de seguiment de comprensió lectora per a un grup de 
-[NOMBRE] alumnes de [CURS] de Primària. Columnes: Nom | Nivell 
+[NOMBRE FICTICI] alumnes de [CURS] de Primària. Columnes: Cas fictici | Nivell 
 assignat (1/2/3) | Preguntes correctes | Observacions | Data. 
-Inclou 5 files d'exemple. Format taula Markdown per a apegar en Word.
+Inclou 5 files completament fictícies, retolades «Exemple fictici A–E»,
+sense correspondència amb persones reals ni qualificacions reals.
+No sol·licites llistats del grup. Format taula Markdown per a apegar en Word.
 ```
 
 ---

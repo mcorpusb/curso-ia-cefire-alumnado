@@ -22,6 +22,11 @@ Diseña una actividad competencial contextualizada y transfórmala en un recurso
 
 ---
 
+{: .callout .callout--privacidad }
+**IMPORTANTE: No introduzcas datos personales ni información sensible del alumnado, profesorado, familias u otras personas en las herramientas de inteligencia artificial utilizadas en este curso.** Utiliza ejemplos ficticios, información pública o materiales debidamente anonimizados. Comprueba siempre las condiciones del servicio y las instrucciones de tu centro y de la administración educativa.
+
+**GVA y NO GVA:** la cuenta `@edu.gva.es` identifica al profesorado en los servicios corporativos habilitados, según permisos y licencias; no garantiza acceso a toda la IA ni autoriza cualquier tratamiento de datos. Las cuentas personales son externas a GVA y sirven aquí para crear recursos sin datos personales reales. Registrarse con correo GVA, tener una cuenta universitaria o un plan Education, gratuito o de pago no equivale a autorización institucional.
+
 ## 🎯 Objetivo
 
 Utilizar Microsoft Copilot para diseñar una actividad competencial realista y viable para tu grupo, revisarla y transformarla en un recurso visual educativo (infografía, póster o esquema) que ayude al alumnado a comprender los contenidos clave.
@@ -48,9 +53,9 @@ Diseñar una actividad sólida y acompañarla de un apoyo visual puede llevar mu
 
 ## ⚙️ Qué vas a hacer
 
-- Accede a **Microsoft Copilot** con tu cuenta `@edu.gva.es` y comprueba que aparece la insignia **"Protegido"**.
+- Comprueba si **Copilot Chat** está habilitado y autorizado para esta tarea con tu cuenta `@edu.gva.es`, y revisa el perfil activo. Una insignia de protección no autoriza a introducir datos personales. Si no está disponible, utiliza una alternativa NO GVA del Radar con los mismos materiales ficticios, o analiza un ejemplo facilitado por el tutor sin abrir otra cuenta.
 - Elige una unidad didáctica o situación de aprendizaje relevante para tu grupo.
-- Completa el prompt principal con los datos reales de tu asignatura, nivel y contexto.
+- Completa el prompt principal con la asignatura, el nivel y un contexto didáctico ficticio, sin perfiles personales del grupo.
 - Lanza el prompt en Copilot y revisa la actividad generada.
 - Ajusta la propuesta para que sea clara, motivadora y viable para tu alumnado.
 - Solicita a Copilot un prompt maestro para transformar los contenidos clave en un recurso visual (infografía, póster, esquema, etc.).
@@ -67,9 +72,11 @@ Diseñar una actividad sólida y acompañarla de un apoyo visual puede llevar mu
 ### Prompt 1 — Diseño de actividad competencial
 
 ```text
+Utiliza únicamente información ficticia, pública sin datos personales o debidamente anonimizada. No incluyas datos personales del alumnado ni de otras personas.
+
 Actúa como un profesor/a de Educación Secundaria especialista en diseño de actividades competenciales y aprendizaje activo.
 
-Contexto: Soy profesor/a de [ASIGNATURA] en [CURSO: 1.º/2.º/3.º/4.º ESO o 1.º/2.º Bachillerato] en un IES público de la Comunitat Valenciana. Estoy trabajando la situación de aprendizaje sobre [TEMA O CONTENIDO]. Tengo [NÚMERO] alumnos/as, grupo heterogéneo.
+Contexto: Soy profesor/a de [ASIGNATURA] en [CURSO: 1.º/2.º/3.º/4.º ESO o 1.º/2.º Bachillerato] en un IES público de la Comunitat Valenciana. Estoy trabajando la situación de aprendizaje sobre [TEMA O CONTENIDO]. Tengo [NÚMERO FICTICIO] alumnos/as, grupo heterogéneo.
 
 Tarea: Diseña una actividad competencial que incluya:
 - Contexto motivador y realista para el alumnado.
@@ -87,6 +94,8 @@ Tarea: Diseña una actividad competencial que incluya:
 ### Ejemplo de prompt ya completado
 
 ```text
+Utiliza únicamente información ficticia, pública sin datos personales o debidamente anonimizada. No incluyas datos personales del alumnado ni de otras personas.
+
 Actúa como un profesor/a de Educación Secundaria especialista en aprendizaje activo y diseño de actividades competenciales.
 
 Contexto: Soy profesor/a de Geografía e Historia en 3.º ESO en un IES público de la Comunitat Valenciana. Tengo 28 alumnos/as, grupo heterogéneo. Estoy trabajando el tema de la Revolución Industrial y sus consecuencias sociales.
@@ -150,6 +159,8 @@ Por ejemplo, puedes solicitar un **prompt maestro** para crear una infografía e
 ### Ejemplo de prompt maestro para generar un recurso visual
 
 ```text
+Utiliza únicamente información ficticia, pública sin datos personales o debidamente anonimizada. No incluyas datos personales del alumnado ni de otras personas.
+
 Actúa como diseñador/a de materiales didácticos para Secundaria.
 
 Vas a transformar los contenidos clave de una actividad sobre la Revolución Industrial (3.º ESO) en una **infografía educativa o póster visual** para alumnado de 14–15 años.
@@ -169,6 +180,8 @@ Incluye un bloque final con una pregunta de reflexión para la clase.
 ---
 
 ### Cómo usar el prompt maestro en Copilot Create / Designer
+
+Comprueba si la generación de imágenes está habilitada para tu cuenta. Si no lo está, usa una alternativa externa permitida con personajes ficticios o dibuja el recurso a partir del guion. No subas fotografías ni trabajos identificables del alumnado.
 
 Pega el prompt maestro en la opción de **Crear** de Copilot.
 
@@ -231,6 +244,8 @@ Convierte los contenidos clave en un esquema visual en vez de infografía.
 
 
 ## 📦 Entregable
+
+Las evidencias y capturas deben mostrar solo la práctica: elimina correos del perfil, avatares, nombres, enlaces privados y códigos de acceso. No adjuntes trabajos reales identificables ni registros de evaluación cumplimentados.
 
 - Un documento Word (.docx) con:
   - la actividad competencial completa;

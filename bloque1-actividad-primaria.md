@@ -18,6 +18,11 @@ Diseña una ficha de comprensión lectora multinivel para atender la diversidad 
 
 ---
 
+{: .callout .callout--privacidad }
+**IMPORTANTE: No introduzcas datos personales ni información sensible del alumnado, profesorado, familias u otras personas en las herramientas de inteligencia artificial utilizadas en este curso.** Utiliza ejemplos ficticios, información pública o materiales debidamente anonimizados. Comprueba siempre las condiciones del servicio y las instrucciones de tu centro y de la administración educativa.
+
+**GVA y NO GVA:** la cuenta `@edu.gva.es` identifica al profesorado en los servicios corporativos habilitados, según permisos y licencias; no garantiza acceso a toda la IA ni autoriza cualquier tratamiento de datos. Las cuentas personales son externas a GVA y sirven aquí para crear recursos sin datos personales reales. Registrarse con correo GVA, tener una cuenta universitaria o un plan Education, gratuito o de pago no equivale a autorización institucional.
+
 ## 🎯 Objetivo
 
 Utilizar Microsoft Copilot para crear una ficha de comprensión lectora con tres niveles de dificultad a partir de un mismo texto, lista para imprimir y usar en el aula al día siguiente.
@@ -38,7 +43,7 @@ Preparar tres versiones de la misma ficha te llevaría toda la tarde. Con Copilo
 
 ## ⚙️ Qué vas a hacer
 
-- Accede a **Microsoft Copilot** con tu cuenta `@edu.gva.es` y comprueba que aparece la insignia **"Protegido"**.
+- Comprueba si **Copilot Chat** está habilitado y autorizado para esta tarea con tu cuenta `@edu.gva.es`, y revisa el perfil activo. Una insignia de protección no autoriza a introducir datos personales. Si no está disponible, utiliza una alternativa NO GVA del Radar con los mismos materiales ficticios, o analiza un ejemplo facilitado por el tutor sin abrir otra cuenta.
 - Elige un tema de trabajo real de tu programación actual (un texto narrativo, expositivo o informativo que tengas previsto trabajar esta semana).
 - Decide los tres niveles de dificultad que necesitas para tu grupo concreto.
 - Completa el prompt con los datos de tu asignatura, nivel y tema.
@@ -54,14 +59,16 @@ Preparar tres versiones de la misma ficha te llevaría toda la tarde. Con Copilo
 ### Prompt 1 — Ficha de comprensión lectora multinivel
 
 ```text
+Utiliza únicamente información ficticia, pública sin datos personales o debidamente anonimizada. No incluyas datos personales del alumnado ni de otras personas.
+
 Actúa como un maestro/a de Educación Primaria especialista en comprensión lectora y atención a la diversidad, con experiencia en diseño universal para el aprendizaje (DUA).
 
-Contexto: Soy tutor/a de [CURSO: 3.º/4.º/5.º/6.º] de Primaria en un colegio público de la Comunitat Valenciana. Tengo [NÚMERO] alumnos/as con tres niveles de comprensión lectora claramente diferenciados. Esta semana trabajo [TEMA O CONTENIDO: ej. "los ecosistemas", "un fragmento de literatura infantil", "una noticia adaptada"…] en el área de [ASIGNATURA: Lengua, Conocimiento del Medio, Valenciano…].
+Contexto: Soy tutor/a de [CURSO: 3.º/4.º/5.º/6.º] de Primaria en un colegio público de la Comunitat Valenciana. Tengo [NÚMERO FICTICIO] alumnos/as con tres niveles de comprensión lectora claramente diferenciados. Esta semana trabajo [TEMA O CONTENIDO: ej. "los ecosistemas", "un fragmento de literatura infantil", "una noticia adaptada"…] en el área de [ASIGNATURA: Lengua, Conocimiento del Medio, Valenciano…].
 
 Tarea: Diseña una ficha de comprensión lectora con la siguiente estructura:
 
 1. **Texto base** (150-200 palabras), adecuado para [CURSO] y relacionado con [TEMA].
-2. **Nivel 1 — Apoyo** (alumnado con NEAE o desfase curricular):
+2. **Nivel 1 — Apoyo** (lectura con vocabulario sencillo y apoyos adicionales; perfil ficticio):
    - 4 preguntas de localización directa (la respuesta está explícita en el texto).
    - Vocabulario sencillo, frases cortas.
    - Incluir un ejemplo resuelto como modelo.
@@ -72,7 +79,7 @@ Tarea: Diseña una ficha de comprensión lectora con la siguiente estructura:
    - 3 preguntas de pensamiento crítico (valorar, argumentar, comparar con otros textos o situaciones).
    - 1 actividad creativa breve (ej.: reescribir el final, crear un título alternativo, escribir una carta al personaje).
 
-Formato: texto plano estructurado con encabezados claros para cada nivel, listo para pegar en Word y dar formato de ficha imprimible. Incluye un recuadro con el nombre del alumno/a y la fecha al inicio.
+Formato: texto plano estructurado con encabezados claros para cada nivel, listo para pegar en Word y dar formato de ficha imprimible. Incluye un recuadro vacío para nombre y fecha; se rellenará fuera de la IA y no se volverá a subir cumplimentado.
 ```
 
 ---
@@ -80,6 +87,8 @@ Formato: texto plano estructurado con encabezados claros para cada nivel, listo 
 ### Ejemplo de prompt ya completado
 
 ```text
+Utiliza únicamente información ficticia, pública sin datos personales o debidamente anonimizada. No incluyas datos personales del alumnado ni de otras personas.
+
 Actúa como un maestro/a de Educación Primaria especialista en comprensión lectora y atención a la diversidad, con experiencia en diseño universal para el aprendizaje (DUA).
 
 Contexto: Soy tutor/a de 4.º de Primaria en un colegio público de la Comunitat Valenciana. Tengo 24 alumnos/as con tres niveles de comprensión lectora claramente diferenciados. Esta semana trabajo un texto narrativo-informativo sobre una salida a una marjal valenciana en el área de Lengua Castellana.
@@ -87,7 +96,7 @@ Contexto: Soy tutor/a de 4.º de Primaria en un colegio público de la Comunitat
 Tarea: Diseña una ficha de comprensión lectora con la siguiente estructura:
 
 1. **Texto base** (150-200 palabras), adecuado para 4.º y relacionado con una salida a la marjal.
-2. **Nivel 1 — Apoyo** (alumnado con NEAE o desfase curricular):
+2. **Nivel 1 — Apoyo** (lectura con vocabulario sencillo y apoyos adicionales; perfil ficticio):
    - 4 preguntas de localización directa (la respuesta está explícita en el texto).
    - Vocabulario sencillo, frases cortas.
    - Incluir un ejemplo resuelto como modelo.
@@ -98,7 +107,7 @@ Tarea: Diseña una ficha de comprensión lectora con la siguiente estructura:
    - 3 preguntas de pensamiento crítico (valorar, argumentar, comparar con otros textos o situaciones).
    - 1 actividad creativa breve (ej.: reescribir el final, crear un título alternativo, escribir una carta al personaje).
 
-Formato: texto plano estructurado con encabezados claros para cada nivel, listo para pegar en Word y dar formato de ficha imprimible. Incluye un recuadro con el nombre del alumno/a y la fecha al inicio.
+Formato: texto plano estructurado con encabezados claros para cada nivel, listo para pegar en Word y dar formato de ficha imprimible. Incluye un recuadro vacío para nombre y fecha; se rellenará fuera de la IA y no se volverá a subir cumplimentado.
 ```
 
 ---
@@ -163,6 +172,8 @@ Por ejemplo, puedes solicitar un **prompt maestro** para convertir el texto base
 ### Ejemplo de prompt maestro para cuento visual
 
 ```text
+Utiliza únicamente información ficticia, pública sin datos personales o debidamente anonimizada. No incluyas datos personales del alumnado ni de otras personas.
+
 Actúa como ilustrador/a educativo y diseñador/a de materiales didácticos para Primaria.
 
 Vas a transformar el texto base de una ficha de comprensión lectora sobre una salida a la marjal valenciana (alumnado de 4.º de Primaria) en un **cuento visual o cómic educativo** de 8 viñetas.
@@ -184,6 +195,8 @@ Finaliza el cuento visual con una pregunta de reflexión para la clase.
 ---
 
 ### Cómo usar el prompt maestro en Copilot Create o Designer
+
+Comprueba si la generación de imágenes está habilitada para tu cuenta. Si no lo está, usa una alternativa externa permitida con personajes ficticios o dibuja el recurso a partir del guion. No subas fotografías ni trabajos identificables del alumnado.
 
 Ve a la opción de **Crear** y pega el prompt que te ha dado Copilot.
 
@@ -228,8 +241,7 @@ Revisa siempre que las imágenes sean adecuadas para la edad y coherentes con el
 Después de revisar la primera versión, prueba estas instrucciones en la misma conversación:
 
 ```text
-Las preguntas del Nivel 1 siguen siendo demasiado difíciles para mi 
-alumnado con NEAE. Simplifica más el lenguaje y añade pistas entre 
+Las preguntas del Nivel 1 siguen siendo demasiado difíciles para el perfil ficticio de apoyo. Simplifica más el lenguaje y añade pistas entre 
 paréntesis después de cada pregunta para guiar la respuesta.
 ```
 
@@ -254,6 +266,8 @@ criterios de evaluación de cada nivel y las respuestas esperadas.
 
 ## 📦 Entregable
 
+Las evidencias y capturas deben mostrar solo la práctica: elimina correos del perfil, avatares, nombres, enlaces privados y códigos de acceso. No adjuntes trabajos reales identificables ni registros de evaluación cumplimentados.
+
 - Un documento Word (.docx) con:
   - la ficha completa con los tres niveles, lista para imprimir;
   - el prompt utilizado (con tus adaptaciones reales);
@@ -265,7 +279,7 @@ criterios de evaluación de cada nivel y las respuestas esperadas.
 ## 💡 Aplicación inmediata
 
 - **Mañana en el aula:** imprime las tres versiones de la ficha. Reparte a cada alumno/a la versión adecuada a su nivel sin que sea evidente (misma maquetación, diferente contenido). Trabaja la comprensión lectora en la sesión ordinaria.
-- **En la evaluación:** usa la rúbrica generada para corregir de forma rápida y coherente.
+- **En la evaluación:** revisa y aplica tú la rúbrica; no subas trabajos identificables ni calificaciones a la IA. La valoración final es docente.
 - **Próximas semanas:** reutiliza el mismo prompt cambiando solo el texto base y el tema para generar fichas de otras unidades didácticas en minutos.
 
 ---
@@ -276,10 +290,14 @@ criterios de evaluación de cada nivel y las respuestas esperadas.
 Si además necesitas un **registro de seguimiento** para anotar los resultados, pide a Copilot:
 
 ```text
+Utiliza únicamente información ficticia, pública sin datos personales o debidamente anonimizada. No incluyas datos personales del alumnado ni de otras personas.
+
 Crea una tabla de seguimiento de comprensión lectora para un grupo de 
-[NÚMERO] alumnos/as de [CURSO] de Primaria. Columnas: Nombre | Nivel 
+[NÚMERO FICTICIO] alumnos/as de [CURSO] de Primaria. Columnas: Caso ficticio | Nivel 
 asignado (1/2/3) | Preguntas correctas | Observaciones | Fecha. 
-Incluye 5 filas de ejemplo. Formato tabla Markdown para pegar en Word.
+Incluye 5 filas completamente ficticias, rotuladas «Ejemplo ficticio A–E»,
+sin correspondencia con personas reales ni calificaciones reales.
+No solicites listados del grupo. Formato tabla Markdown para pegar en Word.
 ```
 
 ---

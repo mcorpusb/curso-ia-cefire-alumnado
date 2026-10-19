@@ -18,6 +18,11 @@ Crea un cas pràctic professional simulat i la documentació tècnica associada 
 
 ---
 
+{: .callout .callout--privacidad }
+**IMPORTANT: No introduïsques dades personals ni informació sensible de l'alumnat, del professorat, de les famílies o d'altres persones en les ferramentes d'intel·ligència artificial utilitzades en este curs.** Utilitza exemples ficticis, informació pública o materials degudament anonimitzats. Comprova sempre les condicions del servici i les instruccions del teu centre i de l'administració educativa.
+
+**GVA i NO GVA:** el compte `@edu.gva.es` identifica el professorat en els servicis corporatius habilitats, segons permisos i llicències; no garantix accés a tota la IA ni autoritza qualsevol tractament de dades. Els comptes personals són externs a GVA i servixen ací per a crear recursos sense dades personals reals. Registrar-se amb correu GVA, tindre un compte universitari o un pla Education, gratuït o de pagament no equival a autorització institucional.
+
 ## 🎯 Objectiu
 
 Utilitzar Microsoft Copilot per a dissenyar un cas pràctic professional realista que pugues usar a classe com a activitat d'aprenentatge basat en reptes, incloent-hi el briefing del client, les instruccions per a l'alumnat i una guia d'avaluació.
@@ -41,10 +46,10 @@ Este procés sol portar-te diverses hores. Amb Copilot pots generar l'esquelet c
 
 ## ⚙️ Què faràs
 
-- Accedix a **Microsoft Copilot** amb el teu compte `@edu.gva.es` i comprova que apareix la insígnia **"Protegido"**.
+- Comprova si **Copilot Chat** està habilitat i autoritzat per a esta tasca amb el teu compte `@edu.gva.es`, i revisa el perfil actiu. Una insígnia de protecció no autoritza a introduir dades personals. Si no està disponible, utilitza una alternativa NO GVA del Radar amb els mateixos materials ficticis, o analitza un exemple facilitat pel tutor sense obrir un altre compte.
 - Tria un mòdul professional i un resultat d'aprenentatge concret que hages de treballar en esta avaluació.
 - Pensa en el tipus d'empresa o situació professional que millor s'ajuste a eixe resultat d'aprenentatge.
-- Completa el prompt amb les dades reals del teu cicle, mòdul i context.
+- Completa el prompt amb el cicle, el mòdul, el currículum públic i un context professional fictici, sense dades de clients, pacients o empreses de pràctiques reals.
 - Lança el prompt en Copilot i revisa el cas generat.
 - Comprova que el nivell de complexitat és adequat per al teu grup: és un repte assolible? Les dades són coherents?
 - Verifica que la documentació tècnica generada és correcta per a la teua especialitat (la IA pot inventar normatives o dades tècniques).
@@ -56,6 +61,8 @@ Este procés sol portar-te diverses hores. Amb Copilot pots generar l'esquelet c
 ## 💬 Prompt llest per a usar
 
 ```text
+Utilitza únicament informació fictícia, pública sense dades personals o degudament anonimitzada. No inclogues dades personals de l'alumnat ni d'altres persones.
+
 Actua com un consultor professional del sector de [FAMÍLIA PROFESSIONAL: 
 Informàtica, Administració, Sanitat, Electricitat, Hostaleria…] amb 
 experiència en formació i en disseny de casos pràctics per a centres 
@@ -64,7 +71,7 @@ de Formació Professional.
 Context: Soc professor/a del mòdul [NOM DEL MÒDUL] en el cicle 
 de [GRAU MITJÀ/SUPERIOR] de [TÍTOL DEL CICLE] en un IES/CIFP de la 
 Comunitat Valenciana. El resultat d'aprenentatge que vull treballar 
-és: [APEGA O DESCRIU EL RA]. Tinc [NOMBRE] alumnes que treballen 
+és: [APEGA O DESCRIU EL RA]. Tinc [NOMBRE FICTICI] alumnes que treballen 
 en grups de [3-4] persones.
 
 Tasca: Dissenya un cas pràctic professional complet amb l'estructura 
@@ -156,6 +163,8 @@ si estigueren en pràctiques en l'empresa del cas.
 
 ## 📦 Lliurable
 
+Les evidències i captures han de mostrar només la pràctica: elimina correus del perfil, avatars, noms, enllaços privats i codis d’accés. No adjuntes treballs reals identificables ni registres d’avaluació emplenats.
+
 - Un document Word (.docx) amb:
   - la fitxa d'empresa i el briefing (versió per a l'alumnat);
   - la guia d'avaluació (versió per al professorat);
@@ -167,7 +176,7 @@ si estigueren en pràctiques en l'empresa del cas.
 ## 💡 Aplicació immediata
 
 - **Esta setmana:** repartix la fitxa d'empresa i el briefing als grups de treball. Explica les fases i els terminis. L'alumnat comença la Fase 1 (anàlisi) en la mateixa sessió.
-- **En l'avaluació:** usa la guia d'avaluació generada per a qualificar de manera ràpida i transparent. Compartix els criteris amb l'alumnat des del primer dia.
+- **En l'avaluació:** revisa i aplica tu la guia d’avaluació; no puges treballs identificables ni qualificacions a la IA. La valoració final és docent. Compartix els criteris amb l'alumnat des del primer dia.
 - **Preparació de FCT:** utilitza la variant del cas com a exercici de simulació de pràctiques: redacció d'informes, comunicació amb el "tutor d'empresa", documentació tècnica.
 - **Pròxims mòduls:** reutilitza el prompt canviant el mòdul, el resultat d'aprenentatge i el sector professional per a generar nous casos en minuts.
 
@@ -178,7 +187,10 @@ si estigueren en pràctiques en l'empresa del cas.
 Si el teu alumnat està preparant la **FCT** (Formació en Centres de Treball), demana a Copilot:
 
 ```text
-Genera un model de diari de pràctiques (FCT) per a un alumne/a de 
+Utilitza únicament informació fictícia, pública sense dades personals o degudament anonimitzada. No inclogues dades personals de l'alumnat ni d'altres persones.
+
+Genera un model de diari de pràctiques (FCT) completament fictici, sense
+dades d’estudiants, clients, pacients, tutors o empreses reals, per a un perfil de 
 [CICLE FORMATIU] en una empresa del sector [SECTOR]. El diari ha de 
 cobrir 2 setmanes d'exemple amb: data, tasques realitzades, ferramentes 
 utilitzades, dificultats trobades i aprenentatges del dia. Inclou 

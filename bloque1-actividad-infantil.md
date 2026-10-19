@@ -18,12 +18,12 @@ Crea un cuento breve para una asamblea, conviértelo en un pequeño recurso visu
 
 ---
 
-> **Protege la privacidad del alumnado**
->
-> No introduzcas nombres reales, diagnósticos, situaciones familiares, información sanitaria, necesidades individuales identificables, fotografías del alumnado ni otros datos personales del grupo.
->
-> Para contextualizar la actividad basta con indicar la edad, el nivel, el tema, la duración aproximada, los objetivos y los intereses generales del grupo. No hace falta señalar el número exacto de alumnos y alumnas salvo que sea pedagógicamente necesario.
-{: .warning }
+{: .callout .callout--privacidad }
+**IMPORTANTE: No introduzcas datos personales ni información sensible del alumnado, profesorado, familias u otras personas en las herramientas de inteligencia artificial utilizadas en este curso.** Utiliza ejemplos ficticios, información pública o materiales debidamente anonimizados. Comprueba siempre las condiciones del servicio y las instrucciones de tu centro y de la administración educativa.
+
+**GVA y NO GVA:** la cuenta `@edu.gva.es` identifica al profesorado en los servicios corporativos habilitados, según permisos y licencias; no garantiza acceso a toda la IA ni autoriza cualquier tratamiento de datos. Las cuentas personales son externas a GVA y sirven aquí para crear recursos sin datos personales reales. Registrarse con correo GVA, tener una cuenta universitaria o un plan Education, gratuito o de pago no equivale a autorización institucional.
+
+Para contextualizar, indica edad o etapa, tema, duración, objetivos e intereses didácticos generales. No describas casos individuales ni situaciones familiares reales.
 
 ## 🎯 Objetivo
 
@@ -33,7 +33,7 @@ Crear y revisar un cuento breve para una situación real de Educación Infantil,
 
 Piensa en un tema o situación que estés trabajando o vayas a trabajar próximamente: emociones, convivencia, animales, estaciones, hábitos, alimentación, autonomía, naturaleza, llegada al colegio, cuerpo u otro contenido adecuado.
 
-Utiliza el asistente de IA que tengas disponible y cuya utilización sea adecuada para la tarea. Puede ser Copilot Chat, ChatGPT, Gemini, Kimi u otra alternativa del [Radar de herramientas]({{ '/primeros-pasos/herramientas-que-utilizaremos.html#radar' | relative_url }}). No necesitas utilizar una cuenta personal.
+Utiliza el asistente de IA que tengas disponible y cuya utilización sea adecuada para la tarea. Puede ser Copilot Chat, ChatGPT, Gemini, Kimi u otra alternativa del [Radar de herramientas]({{ '/primeros-pasos/herramientas-que-utilizaremos.html#radar' | relative_url }}). No necesitas abrir una cuenta personal: si no dispones de acceso institucional habilitado, puedes analizar un ejemplo facilitado por el tutor.
 
 Seguirás este recorrido:
 
@@ -66,6 +66,8 @@ Mensaje o aprendizaje que quieres trabajar:
 Adapta este prompt con la información de tu ficha:
 
 ```text
+Utiliza únicamente información ficticia, pública sin datos personales o debidamente anonimizada. No incluyas datos personales del alumnado ni de otras personas.
+
 Quiero crear un cuento breve para una asamblea de Educación Infantil.
 
 Edad: [3/4/5 años]
@@ -139,11 +141,15 @@ Introduce una repetición que el grupo pueda decir en voz alta.
 
 Esta es una primera aproximación al proceso **texto → escenas → imágenes → recurso visual**.
 
+Usa personajes inventados: no cargues fotografías, vídeos o voces identificables ni pidas reproducir a personas del grupo. La nota a familias será genérica; añade destinatarios únicamente en el canal institucional, fuera de la IA.
+
 ### Planifica el cómic o cuento ilustrado
 
 Cuando el cuento esté revisado, pide a la IA que seleccione entre 4 y 6 escenas esenciales. Puedes utilizar este prompt:
 
 ```text
+Utiliza únicamente información ficticia, pública sin datos personales o debidamente anonimizada. No incluyas datos personales del alumnado ni de otras personas.
+
 Quiero convertir este cuento revisado en un pequeño cómic o cuento
 ilustrado para Educación Infantil.
 
@@ -192,6 +198,8 @@ Revisa siempre el texto generado dentro de las imágenes: puede contener errores
 Parte del cuento final revisado y adapta este prompt:
 
 ```text
+Utiliza únicamente información ficticia, pública sin datos personales o debidamente anonimizada. No incluyas datos personales del alumnado ni de otras personas.
+
 Redacta un borrador breve para las familias explicando que en clase
 estamos trabajando [tema].
 
@@ -210,6 +218,8 @@ Si en tu contexto hay diversidad lingüística, pide una versión especialmente 
 También puedes solicitar una versión en valenciano o bilingüe. Revísala antes de enviarla, especialmente en lo relativo a la terminología educativa y administrativa. Puedes consultar los recursos lingüísticos de la [Acadèmia Valenciana de la Llengua](https://www.avl.gva.es/).
 
 ## 📦 Entregable
+
+Las evidencias y capturas deben mostrar solo la práctica: elimina correos del perfil, avatares, nombres, enlaces privados y códigos de acceso. No adjuntes trabajos reales identificables ni registros de evaluación cumplimentados.
 
 Presenta:
 

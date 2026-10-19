@@ -18,12 +18,12 @@ Crea un conte breu per a una assemblea, convertix-lo en un xicotet recurs visual
 
 ---
 
-> **Protegix la privacitat de l'alumnat**
->
-> No introduïsques noms reals, diagnòstics, situacions familiars, informació sanitària, necessitats individuals identificables, fotografies de l'alumnat ni altres dades personals del grup.
->
-> Per a contextualitzar l'activitat n'hi ha prou amb indicar l'edat, el nivell, el tema, la duració aproximada, els objectius i els interessos generals del grup. No cal assenyalar el nombre exacte d'alumnes llevat que siga pedagògicament necessari.
-{: .warning }
+{: .callout .callout--privacidad }
+**IMPORTANT: No introduïsques dades personals ni informació sensible de l'alumnat, del professorat, de les famílies o d'altres persones en les ferramentes d'intel·ligència artificial utilitzades en este curs.** Utilitza exemples ficticis, informació pública o materials degudament anonimitzats. Comprova sempre les condicions del servici i les instruccions del teu centre i de l'administració educativa.
+
+**GVA i NO GVA:** el compte `@edu.gva.es` identifica el professorat en els servicis corporatius habilitats, segons permisos i llicències; no garantix accés a tota la IA ni autoritza qualsevol tractament de dades. Els comptes personals són externs a GVA i servixen ací per a crear recursos sense dades personals reals. Registrar-se amb correu GVA, tindre un compte universitari o un pla Education, gratuït o de pagament no equival a autorització institucional.
+
+Per a contextualitzar, indica edat o etapa, tema, duració, objectius i interessos didàctics generals. No descrigues casos individuals ni situacions familiars reals.
 
 ## 🎯 Objectiu
 
@@ -33,7 +33,7 @@ Crear i revisar un conte breu per a una situació real d'Educació Infantil, tra
 
 Pensa en un tema o situació que estigues treballant o vages a treballar pròximament: emocions, convivència, animals, estacions, hàbits, alimentació, autonomia, natura, arribada al col·legi, cos o un altre contingut adequat.
 
-Utilitza l'assistent d'IA que tingues disponible i l'ús del qual siga adequat per a la tasca. Pot ser Copilot Chat, ChatGPT, Gemini, Kimi o una altra alternativa del [Radar de ferramentes]({{ '/va/herramientas-que-utilizaremos.html#radar' | relative_url }}). No necessites utilitzar un compte personal.
+Utilitza l'assistent d'IA que tingues disponible i l'ús del qual siga adequat per a la tasca. Pot ser Copilot Chat, ChatGPT, Gemini, Kimi o una altra alternativa del [Radar de ferramentes]({{ '/va/herramientas-que-utilizaremos.html#radar' | relative_url }}). No necessites obrir un compte personal: si no disposes d’accés institucional habilitat, pots analitzar un exemple facilitat pel tutor.
 
 Seguiràs este recorregut:
 
@@ -66,6 +66,8 @@ Missatge o aprenentatge que vols treballar:
 Adapta este prompt amb la informació de la teua fitxa:
 
 ```text
+Utilitza únicament informació fictícia, pública sense dades personals o degudament anonimitzada. No inclogues dades personals de l'alumnat ni d'altres persones.
+
 Vull crear un conte breu per a una assemblea d'Educació Infantil.
 
 Edat: [3/4/5 anys]
@@ -139,11 +141,15 @@ Introduïx una repetició que el grup puga dir en veu alta.
 
 Esta és una primera aproximació al procés **text → escenes → imatges → recurs visual**.
 
+Utilitza personatges inventats: no carregues fotografies, vídeos o veus identificables ni demanes reproduir persones del grup. La nota a famílies serà genèrica; afig destinataris únicament en el canal institucional, fora de la IA.
+
 ### Planifica el còmic o conte il·lustrat
 
 Quan el conte estiga revisat, demana a la IA que seleccione entre 4 i 6 escenes essencials. Pots utilitzar este prompt:
 
 ```text
+Utilitza únicament informació fictícia, pública sense dades personals o degudament anonimitzada. No inclogues dades personals de l'alumnat ni d'altres persones.
+
 Vull convertir este conte revisat en un xicotet còmic o conte
 il·lustrat per a Educació Infantil.
 
@@ -210,6 +216,8 @@ Si en el teu context hi ha diversitat lingüística, demana una versió especial
 També pots sol·licitar una versió en valencià o bilingüe. Revisa-la abans d'enviar-la, especialment pel que fa a la terminologia educativa i administrativa. Pots consultar els recursos lingüístics de l'[Acadèmia Valenciana de la Llengua](https://www.avl.gva.es/).
 
 ## 📦 Lliurable
+
+Les evidències i captures han de mostrar només la pràctica: elimina correus del perfil, avatars, noms, enllaços privats i codis d’accés. No adjuntes treballs reals identificables ni registres d’avaluació emplenats.
 
 Presenta:
 

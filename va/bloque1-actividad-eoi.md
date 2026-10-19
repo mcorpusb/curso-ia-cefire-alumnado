@@ -19,6 +19,11 @@ Dissenya una activitat comunicativa multinivell amb ajuda de Copilot, adaptada a
 
 ---
 
+{: .callout .callout--privacidad }
+**IMPORTANT: No introduïsques dades personals ni informació sensible de l'alumnat, del professorat, de les famílies o d'altres persones en les ferramentes d'intel·ligència artificial utilitzades en este curs.** Utilitza exemples ficticis, informació pública o materials degudament anonimitzats. Comprova sempre les condicions del servici i les instruccions del teu centre i de l'administració educativa.
+
+**GVA i NO GVA:** el compte `@edu.gva.es` identifica el professorat en els servicis corporatius habilitats, segons permisos i llicències; no garantix accés a tota la IA ni autoritza qualsevol tractament de dades. Els comptes personals són externs a GVA i servixen ací per a crear recursos sense dades personals reals. Registrar-se amb correu GVA, tindre un compte universitari o un pla Education, gratuït o de pagament no equival a autorització institucional.
+
 ## 🎯 Objectiu
 
 Utilitzar Microsoft Copilot per a dissenyar una activitat o seqüència comunicativa multinivell per a una classe real de l'Escola Oficial d'Idiomes, amb tres itineraris de treball —suport, estàndard i ampliació— i amb bastiment lingüístic ajustat al [IDIOMA], al [NIVELL MCER], al perfil del grup i a l'activitat de llengua que es vol treballar.
@@ -37,11 +42,11 @@ Dissenyar a mà una activitat així —amb input base, desenvolupament pas a pas
 
 ## ⚙️ Què faràs
 
-- Accedix a Microsoft Copilot amb el teu compte @edu.gva.es i comprova que apareix la insígnia "Protegido"
+- Comprova si **Copilot Chat** està habilitat i autoritzat per a esta tasca amb el teu compte `@edu.gva.es`, i revisa el perfil actiu. Una insígnia de protecció no autoritza a introduir dades personals. Si no està disponible, utilitza una alternativa NO GVA del Radar amb els mateixos materials ficticis, o analitza un exemple facilitat pel tutor sense obrir un altre compte.
 - Tria la llengua [IDIOMA], el nivell MCER [NIVELL MCER] i la unitat o tema [TEMA / UNITAT]
 - Decideix quina activitat de llengua principal vols treballar: [ACTIVITAT DE LLENGUA PRINCIPAL].
 - Determina quins tres itineraris necessites per al teu grup: suport, estàndard i ampliació.
-- Completa el prompt amb el context real del grup: [NOMBRE D'ESTUDIANTS], [PERFILS DEL GRUP], [NECESSITATS DE SUPORT], [TEMPS DISPONIBLE] i [MODALITAT: PRESENCIAL / SEMIPRESENCIAL].
+- Completa el prompt amb un context fictici: [NOMBRE ORIENTATIU], [PERFILS DIDÀCTICS FICTICIS], [SUPORTS LINGÜÍSTICS GENERALS, SENSE DIAGNÒSTICS], [TEMPS DISPONIBLE] i [MODALITAT: PRESENCIAL / SEMIPRESENCIAL].
 - Lança el prompt en Copilot i llig amb atenció la proposta generada.
 - Comprova si l'activitat respon a una situació comunicativa autèntica o versemblant.
 - Revisa si els tres itineraris canvien de veritat el grau de suport, autonomia i complexitat, i no només la quantitat de text.
@@ -54,6 +59,8 @@ Dissenyar a mà una activitat així —amb input base, desenvolupament pas a pas
 ## 💬 Prompt llest per a usar
 
 ```text
+Utilitza únicament informació fictícia, pública sense dades personals o degudament anonimitzada. No inclogues dades personals de l'alumnat ni d'altres persones.
+
 Actua com un/a especialista en didàctica de llengües en Escola Oficial 
 d'Idiomes (EOI), disseny de tasques comunicatives, atenció a la 
 diversitat, bastiment lingüístic, adaptació multinivell i aplicació 
@@ -62,10 +69,10 @@ del MCER/MCERL en grups reals d'alumnat jove i adult.
 Context:
 Soc docent d'[IDIOMA] en una Escola Oficial d'Idiomes de la 
 Comunitat Valenciana. Impartisc un grup de nivell [NIVELL MCER]. Es tracta 
-de [TIPUS DE GRUP], format per [NOMBRE D'ESTUDIANTS] estudiants. El 
-grup presenta estes característiques: [PERFILS DEL GRUP]. Les 
+de [TIPUS DE GRUP], format per [NOMBRE FICTICI D’ESTUDIANTS] estudiants. El 
+grup presenta estes característiques: [PERFILS DIDÀCTICS FICTICIS]. Les 
 necessitats de suport o d'adaptació més rellevants són: 
-[NECESSITATS DE SUPORT].
+[SUPORTS LINGÜÍSTICS GENERALS, SENSE DIAGNÒSTICS].
 
 Estic treballant la unitat o tema [TEMA / UNITAT]. Vull dissenyar una 
 activitat o seqüència breu centrada principalment en 
@@ -150,7 +157,9 @@ estructura següent:
 ```
 
 
-## 🧪 Què has d'observar en la resposta
+Per a l’input, crea correus, formularis i converses ficticis; utilitza veus sintètiques de catàleg o lectura a l’aula sense pujar gravacions. No adjuntes missatges ni àudios reals de l’alumnat. L’assignació d’itineraris es decidix fora de la IA.
+
+## 🧪 Què has d’observar en la resposta
 
 - La situació és realista i rellevant per al context EOI?
 - La seqüència permet la participació de tot l'alumnat, amb suports diferenciats?
@@ -171,6 +180,8 @@ Fes que Copilot adapte la seqüència per a:
 ```
 
 ## 📦 Lliurable
+
+Les evidències i captures han de mostrar només la pràctica: elimina correus del perfil, avatars, noms, enllaços privats i codis d’accés. No adjuntes treballs reals identificables ni registres d’avaluació emplenats.
 
 Un document breu (Word, PDF o similar) que incloga:
 - La seqüència comunicativa adaptada i llesta per a aplicar.
