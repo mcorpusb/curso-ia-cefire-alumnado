@@ -75,7 +75,7 @@ Aques són les cinc referències de treball del curs. Tria segons la tasca; no n
   </div>
 </div>
 
-**Gemini Notebook (anteriorment NotebookLM)** és l'experiència especialitzada d'eixe ecosistema. Els quaderns poden utilitzar-se i sincronitzar-se amb Gemini; Gemini Notebook manté la seua experiència pròpia i funcions específiques per a treballar amb fonts. La disponibilitat depèn de la compte i del desplegament. Amplia en [Gemini Notebook per a docents]({{ '/bloque2-notebooklm.html' | relative_url }}).
+**Gemini Notebook (anteriorment NotebookLM)** és l'experiència especialitzada d'eixe ecosistema. Els quaderns poden utilitzar-se i sincronitzar-se amb Gemini; Gemini Notebook manté la seua experiència pròpia i funcions específiques per a treballar amb fonts. La disponibilitat depèn de el compte i del desplegament. Amplia en [Gemini Notebook per a docents](#eines-de-gestio-documental).
 
 ## 🔎 Radar actualitzat d'eines d'IA
 {: id="radar" }
@@ -163,10 +163,10 @@ Les ampliacions de capacitat de Gemini Notebook es consulten a la secció de doc
 ## 🏫 Copilot i eines institucionals
 {: id="copilot-gva-informacio-actualitzada" }
 
-**En el curs treballem amb Copilot Chat quan estiga disponible.** La compte `@edu.gva.es` permet identificar-te en l'entorn corporatiu, però no garanteix per si sola que totes les funcions d'IA estiguen habilitades.
+**En el curs treballem amb Copilot Chat quan estiga disponible.** El compte `@edu.gva.es` permet identificar-te en l'entorn corporatiu, però no garanteix per si sola que totes les funcions d'IA estiguen habilitades.
 
 - **Copilot Chat institucional:** comprova amb el teu compte quines funcions de xat, cerca, fitxers, imatges o pàgines col·laboratives permet la teua organització. Les condicions corporatives depenen del servici, la llicència i la configuració. Confirma l’autorització per a la tasca; una insígnia de protecció no permet introduir qualsevol dada.
-- **[Microsoft 365 Copilot](https://www.microsoft.com/es-es/microsoft-365/copilot/copilot-for-work):** integració d'IA en Word, Excel, PowerPoint, Outlook i Teams. Requereix la llicència corresponent; no ho donis per inclòs en la teua compte GVA. Consulta el responsable TIC —tecnologies de la informació i la comunicació— del centre.
+- **[Microsoft 365 Copilot](https://www.microsoft.com/es-es/microsoft-365/copilot/copilot-for-work):** integració d'IA en Word, Excel, PowerPoint, Outlook i Teams. Requereix la llicència corresponent; no ho donis per inclòs en el teu compte GVA. Consulta el responsable TIC —tecnologies de la informació i la comunicació— del centre.
 - **Compte personal:** utilitza les condicions i ajustos de la versió de consum. No trasllades a ella les garanties de l'entorn institucional.
 
 No confongues els dos productes per compartir el nom Copilot. Si el servei institucional no està disponible, tria una alternativa de l'activitat amb materials ficticis o anonimitzats. La [comparació oficial de Microsoft](https://support.microsoft.com/en-us/microsoft-365-copilot/what-s-the-difference-between-microsoft-copilot-free-and-copilot-in-microsoft-365) ajuda a distingir els tipus d'accés.
@@ -184,7 +184,7 @@ Abans de pujar contingut:
 - Revisa les polítiques de privacitat, l'ús per a entrenament i els ajustos d'activitat. Les condicions poden canviar.
 - Verifica respostes, fonts i drets d'imatges o veus abans de reutilitzar els resultats.
 
-Per a ampliar: [protecció de dades i ús segur]({{ '/bloque1-seguridad.html' | relative_url }}) i [ús responsable i alfabetització en IA]({{ '/bloque4-alfabetizacion-alumnado.html' | relative_url }}). La configuració de comptes es desenvolupa a la guia d'identitat digital enllaçada al començament.
+Per a ampliar: [protecció de dades i ús segur]({{ '/va/identidad-digital.html#privacidad-practicas' | relative_url }}) i [ús responsable i alfabetització en IA]({{ '/va/modulo-0-que-es-la-ia.html#6-privacitat-responsabilitat-i-marc-legal' | relative_url }}). La configuració de comptes es desenvolupa a la guia d'identitat digital enllaçada al començament.
 
 ## 👩‍🏫 Eines i avantatges gratuïtes per a professorat
 {: id="avantatges-docents" }
@@ -251,12 +251,12 @@ Aquests passos corresponen a la persona autoritzada per la institució:
 
 La [guia oficial de preparació](https://support.google.com/edu/setup/answer/6265879?hl=en) permet planificar l'alta amb l'equip tècnic.
 
-#### 🏛️ I si utilitze una compte educativa d'una Administració?
+#### 🏛️ I si utilitze un compte educatiu d'una Administració?
 {: .no_toc }
 
 Si el domini està administrat centralment, el docent no el controla ni pot verificar-lo personalment. Ha de consultar els serveis habilitats per l'Administració.
 
-Per exemple, una compte **`@edu.gva.es`** acredita una relació amb l'Administració, però no converteix el docent en administrador de `edu.gva.es`. **No intentes registrar `edu.gva.es` com a domini del teu centre.** Consulta el responsable institucional; esta guia no establix un procediment específic de GVA.
+Per exemple, un compte **`@edu.gva.es`** acredita una relació amb l'Administració, però no converteix el docent en administrador de `edu.gva.es`. **No intentes registrar `edu.gva.es` com a domini del teu centre.** Consulta el responsable institucional; esta guia no establix un procediment específic de GVA.
 
 #### 💡 Hem de canviar tot el centre a Google?
 {: .no_toc }
@@ -265,7 +265,9 @@ Un centre que utilitza Microsoft 365, Teams o Outlook pot estudiar Workspace for
 
 **Enllaç oficial:** [Informació de Gemini for Education](https://edu.google.com/ai/gemini-for-education/).
 
-**Important:** l'accés depèn de l'elegibilitat de la institució i de la configuració dels seus serveis. No equival a obtenir un pla Google AI de pagament amb una compte personal per ser docent.
+**Important:** l'accés depèn de l'elegibilitat de la institució i de la configuració dels seus serveis. No equival a obtenir un pla Google AI de pagament amb un compte personal per ser docent.
+
+Els avantatges de Canva, GitHub Education, Adobe Express, Miro, Brisk, MagicSchool i Diffit descrits a continuació corresponen a comptes o plans externs NO GVA, llevat que el centre confirme expressament un servici institucional habilitat i autoritzat. No autoritzen dades personals en les pràctiques. No connectes extensions a documents o correu reals del centre per a provar-les.
 
 ### 🎨 Canva Educació
 {: #canva-educacio .no_toc }
@@ -319,9 +321,9 @@ Un centre que utilitza Microsoft 365, Teams o Outlook pot estudiar Workspace for
 
 **Com accedir:**
 
-- Comprova amb l'administrador quina llicència té assignada la teua compte.
+- Comprova amb l'administrador quina llicència té assignada el teu compte.
 - Confirma que Copilot Chat està habilitat.
-- Inicia la sessió amb la compte educativa o professional i revisa quines funcions estan disponibles.
+- Inicia la sessió amb el compte educatiu o professional i revisa quines funcions estan disponibles.
 
 **Enllaços oficials:** [Accedir a Copilot](https://m365.cloud.microsoft/chat) i [Copilot en educació: serveis i llicències](https://www.microsoft.com/en-us/education/products/copilot-in-education).
 
@@ -334,18 +336,18 @@ Un centre que utilitza Microsoft 365, Teams o Outlook pot estudiar Workspace for
 
 **Qui pot sol·licitar-ho?** Centres i institucions escolars elegibles; els docents poden accedir per les vies de verificació o incorporació disponibles al seu país i centre.
 
-**Què necessites?** Correu escolar i, segons la via, verificació docent o compte administrada pel centre.
+**Què necessites?** Correu escolar i, segons la via, verificació docent o compte administrat pel centre.
 
 **Com accedir:**
 
 - Consulta si el teu centre ja ofereix Adobe Express for Education.
 - Utilitza l'accés institucional o la via per a docents que mostre la pàgina educativa oficial.
-- Completa la verificació o inicia la sessió amb la compte escolar administrada.
+- Completa la verificació o inicia la sessió amb el compte escolar administrat.
 - Comprova que estàs en l'entorn educatiu abans de crear o compartir materials.
 
 **Enllaç oficial:** [Accedir a Adobe Express for Education](https://www.adobe.com/education/express/).
 
-**Important:** comprova els nivells i països admesos, especialment en FP i universitat. No equival a Creative Cloud complet gratis. Les funcions d'IA depenen de l'edat, la compte i les condicions educatives d'Adobe.
+**Important:** comprova els nivells i països admesos, especialment en FP i universitat. No equival a Creative Cloud complet gratis. Les funcions d'IA depenen de l'edat, el compte i les condicions educatives d'Adobe.
 
 ### 🧠 Miro Education
 {: #miro-education .no_toc }
@@ -374,7 +376,7 @@ Un centre que utilitza Microsoft 365, Teams o Outlook pot estudiar Workspace for
 
 **Qui pot sol·licitar-ho?** El docent individual. Els centres poden contractar plans institucionals.
 
-**Què necessites?** Una compte compatible i, per a les funcions integrades en el navegador, l'extensió i els permisos corresponents. En dispositius del centre pot requerir-se autorització d'instal·lació.
+**Què necessites?** Un compte compatible i, per a les funcions integrades en el navegador, l'extensió i els permisos corresponents. En dispositius del centre pot requerir-se autorització d'instal·lació.
 
 **Com accedir:**
 
@@ -393,13 +395,13 @@ Un centre que utilitza Microsoft 365, Teams o Outlook pot estudiar Workspace for
 
 **Qui pot sol·licitar-ho?** El docent individual; la institució pot contractar altres modalitats.
 
-**Què necessites?** Una compte en MagicSchool. Revisa les condicions d'ús i les instruccions del teu centre.
+**Què necessites?** Un compte en MagicSchool. Revisa les condicions d'ús i les instruccions del teu centre.
 
 **Com accedir:**
 
-- Accedeix a la web oficial i crea una compte docent.
+- Accedeix a la web oficial i crea un compte docent.
 - Selecciona o conserva el pla Free.
-- Tria una eina docent i comprova els límits que apareixen en la teua compte.
+- Tria una eina docent i comprova els límits que apareixen en el teu compte.
 
 **Enllaç oficial:** [Consultar MagicSchool Free i altres plans](https://www.magicschool.ai/pricing).
 
@@ -412,12 +414,12 @@ Un centre que utilitza Microsoft 365, Teams o Outlook pot estudiar Workspace for
 
 **Qui pot sol·licitar-ho?** El docent individual. Els centres poden adquirir accés institucional.
 
-**Què necessites?** Una compte docent i textos o fonts que pugues utilitzar legítimament.
+**Què necessites?** Un compte docent i textos o fonts que pugues utilitzar legítimament.
 
 **Com accedir:**
 
 - Registra't des de la web oficial de Diffit.
-- Comprova el pla de la teua compte i les funcions disponibles en Basic.
+- Comprova el pla de el teu compte i les funcions disponibles en Basic.
 - Aporta un tema o text autoritzat i revisa el nivell i la qualitat del recurs generat.
 
 **Enllaç oficial:** [Consultar Diffit Basic i els plans educatius](https://web.diffit.me/plans).
@@ -427,10 +429,10 @@ Un centre que utilitza Microsoft 365, Teams o Outlook pot estudiar Workspace for
 ## 🎓 També eres estudiant universitari?
 {: id="estudiants" }
 
-**Un avantatge educatiu no és una autorització d'ús amb dades personals.** Un compte universitari, la verificació docent, una llicència Education o una promoció personal gratuïta o prèmium no convertixen el servici en una ferramenta institucional GVA ni impliquen autorització de la Conselleria d'Educació per a tractar dades personals en ensenyaments no universitaris. Això no afirma que una promoció concreta estiga prohibida: consulta les instruccions oficials aplicables.
+Recorda: una promoció personal NO GVA no autoritza a tractar dades personals. Mantín la norma de les pràctiques del curs.
 
-Algunes plataformes ofereixen plans educatius, descomptes o accés temporal a funcions premium. Google manté una promoció per a estudiants elegibles; comprova la compte requerida, la verificació, la vigència i les condicions de renovació abans de sol·licitar-la.
+Algunes plataformes ofereixen plans educatius, descomptes o accés temporal a funcions premium. Google manté una promoció per a estudiants elegibles; comprova el compte requerit, la verificació, la vigència i les condicions de renovació abans de sol·licitar-la.
 
 La guia independent recull els requisits i el procés, sense necessitat de repetir-los ací.
 
-[Consultar IA gratuïta per a estudiants]({{ '/primeros-pasos/ia-gratis-estudiantes.html' | relative_url }}){: .btn .btn-purple }
+[Consultar IA gratuïta per a estudiants]({{ '/va/ia-gratis-estudiantes.html' | relative_url }}){: .btn .btn-purple }

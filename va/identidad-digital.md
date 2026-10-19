@@ -12,7 +12,7 @@ nav_exclude: true
 # Identitat digital i accés
 {: .no_toc }
 
-Abans de treballar amb IA, prepara els teus accessos i comprova quina compte i quines dades vas a utilitzar.
+Abans de treballar amb IA, prepara els teus accessos i comprova quin compte i quines dades vas a utilitzar.
 
 ## 🧭 En esta pàgina
 {: .no_toc }
@@ -21,12 +21,12 @@ Abans de treballar amb IA, prepara els teus accessos i comprova quina compte i q
 - [🪪 Què és la teua identitat digital docent](#-què-és-la-teua-identitat-digital-docent)
 - [🏫 La teua identitat digital en l'entorn GVA](#-la-teua-identitat-digital-en-lentorn-gva)
 - [🔎 On consultar les teues dades](#-on-consultar-les-teues-dades)
-- [🏫👤 Quina compte estic utilitzant?](#-quina-compte-estic-utilitzant)
+- [🏫👤 Quin compte estic utilitzant?](#-quin-compte-estic-utilitzant)
 - [🔑 Protegeix les teues credencials](#-protegeix-les-teues-credencials)
 - [🛡️ Sis regles bàsiques de seguretat](#️-sis-regles-bàsiques-de-seguretat)
 - [💻 Protegeix també el teu dispositiu](#-protegeix-també-el-teu-dispositiu)
 - [🤖 Seguretat bàsica en utilitzar IA](#-seguretat-bàsica-en-utilitzar-ia)
-- [🔐 Abans d'introduir dades en una IA](#-abans-dintroduir-dades-en-una-ia)
+- [🔐 Abans d'introduir dades en una IA](#privacidad-practicas)
 - [✅ Abans de continuar](#-abans-de-continuar)
 - [➡️ Següent pas](#️-següent-pas)
 - [📚 Per a saber-ne més](#-per-a-saber-ne-més)
@@ -35,8 +35,8 @@ Abans de treballar amb IA, prepara els teus accessos i comprova quina compte i q
 
 - Reconéixer la teua identitat digital docent.
 - Localitzar el teu correu i els teus serveis institucionals.
-- Distingir les comptes professionals, personals i acadèmiques.
-- Protegir les credencials i comprovar la compte activa.
+- Distingir els comptes professionals, personals i acadèmiques.
+- Protegir les credencials i comprovar el compte actiu.
 - Revisar les dades abans de compartir-les amb una IA.
 
 ![Identitat digital docent: l'usuari identifica el compte i la contrasenya protege el seu accés.]({{ '/assets/img/identidad-digital-1.png' | relative_url }})
@@ -69,7 +69,7 @@ OVIDOC és la oficina virtual docent per a consultar informació i realitzar tr�
 
 **Si no pots entrar:** identifica primer el servei afectat i utilitza la seua recuperació oficial. Si persisteix el problema, acudeix al [SAI](https://gvasai.edu.gva.es/) o a la coordinació TIC. No enviïs contrasenyes ni claus de recuperació per correu.
 
-## 🏫👤 Quina compte estic utilitzant?
+## 🏫👤 Quin compte estic utilitzant?
 
 <div class="tool-grid">
   <div class="tool-card">
@@ -82,11 +82,11 @@ OVIDOC és la oficina virtual docent per a consultar informació i realitzar tr�
   </div>
   <div class="tool-card">
     <h3 class="tool-card__header">🎓 Estudiant o acadèmica</h3>
-    <p class="tool-card__desc">Compte universitària o accés educatiu vinculat als teus estudis. Una promoció acadèmica no autoritza a tractar dades del teu alumnat.</p>
+    <p class="tool-card__desc">Compte universitari o accés educatiu vinculat als teus estudis. Una promoció acadèmica no autoritza a tractar dades del teu alumnat.</p>
   </div>
 </div>
 
-> **Comprova la compte activa abans d'introduir informació:** revisa el correu del perfil i el tractament de dades del servei. Utilitzar un correu institucional per a registrar-se no convertix automàticament una ferramenta externa en un servici autoritzat. Comprova també l'organització, el servici i el perfil del navegador: la mateixa marca pot oferir versions personals i corporatives amb condicions diferents. Si tens dubtes, tanca la sessió i entra des de l'accés oficial indicat pel centre.
+> **Comprova el compte actiu abans d'introduir informació:** revisa el correu del perfil i el tractament de dades del servei. Utilitzar un correu institucional per a registrar-se no convertix automàticament una ferramenta externa en un servici autoritzat. Comprova també l'organització, el servici i el perfil del navegador: la mateixa marca pot oferir versions personals i corporatives amb condicions diferents. Si tens dubtes, tanca la sessió i entra des de l'accés oficial indicat pel centre.
 
 ## 🔑 Protegeix les teues credencials
 
@@ -116,6 +116,7 @@ Els documents, webs o correus que processa una IA poden contenir instruccions ma
 En les pràctiques amb agents, utilitza fitxers ficticis en una carpeta de prova i no connectes correu, expedients ni carpetes reals del centre. Revisa els permisos de connectors i extensions, i cada acció abans d'autoritzar-la. Si no pots aïllar l'entorn, simula el flux amb un prompt i fitxers d'exemple.
 
 ## 🔐 Abans d'introduir dades en una IA
+{: id="privacidad-practicas" }
 
 {: .callout .callout--privacidad }
 **IMPORTANT: No introduïsques dades personals ni informació sensible de l'alumnat, del professorat, de les famílies o d'altres persones en les ferramentes d'intel·ligència artificial utilitzades en este curs.** Utilitza exemples ficticis, informació pública o materials degudament anonimitzats. Comprova sempre les condicions del servici i les instruccions del teu centre i de l'administració educativa.
@@ -132,21 +133,21 @@ Consulta l'[aclariment de l'AEPD sobre anonimització](https://www.aepd.es/pregu
 
 ## ✅ Abans de continuar
 
-- Sé quina és la meua compte institucional.
+- Sé quin és el meu compte institucional.
 - Puc accedir al meu correu corporatiu.
 - Sé on consultar la meua identitat digital.
-- Distingeix les comptes institucionals i personals.
-- Tinc protegida la meua compte amb els mecanismes disponibles.
+- Distingisc els comptes institucionals i personals.
+- Tinc protegit el meu compte amb els mecanismes disponibles.
 - No reutilitze la meua contrasenya institucional en altres serveis.
 - Sé que no he d’introduir dades personals reals en les IA del curs, ni tan sols amb compte GVA.
-- Comprove sempre amb quina compte estic treballant.
+- Comprove sempre amb quin compte estic treballant.
 {: .checklist-visual }
 
 ## ➡️ Següent pas
 
 Ja tens preparats els teus accessos i les precaucions bàsiques. Ara revisa les eines que utilitzarem durant el curs.
 
-[🧰 Eines que utilitzarem]({{ '/primeros-pasos/herramientas-que-utilizaremos.html' | relative_url }}){: .btn .btn-purple }
+[🧰 Eines que utilitzarem]({{ '/va/herramientas-que-utilizaremos.html' | relative_url }}){: .btn .btn-purple }
 
 ## 📚 Per a saber-ne més
 

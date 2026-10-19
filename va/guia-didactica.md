@@ -118,7 +118,7 @@ Cada sessió síncrona comença amb una **demostració pràctica en directe**: d
 
 ### Pràctica guiada i experimentació
 
-Entre sessions, cada participant treballa amb les ferramentes al seu ritme, seguint les guies i els “Prompts d'Or” de cada bloc. La progressió és gradual: començar amb un correu o un acta, avançar cap a situacions d'aprenentatge i culminar amb un portafoli integrador.
+Entre sessions, cada participant treballa amb les ferramentes al seu ritme, seguint les guies i els “Prompts d'Or” de cada bloc. La progressió és gradual: començar amb un correu o una acta completament ficticis, avançar cap a situacions d'aprenentatge i culminar amb un portafoli integrador.
 
 ### Comparació crítica
 

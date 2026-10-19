@@ -15,6 +15,23 @@ has_toc: true
 Transforma ideas docentes en herramientas interactivas usando inteligencia artificial, sin necesidad de saber programar.
 {: .fs-4 .fw-300 }
 
+
+<div lang="es" markdown="1">
+
+**IMPORTANTE: No introduzcas datos personales ni información sensible del alumnado, profesorado, familias u otras personas en las herramientas de inteligencia artificial utilizadas en este curso.** Utiliza ejemplos ficticios, información pública o materiales debidamente anonimizados. Comprueba siempre las condiciones del servicio y las instrucciones de tu centro y de la administración educativa.
+
+**GVA y NO GVA:** la cuenta `@edu.gva.es` identifica al profesorado en los servicios corporativos habilitados, según permisos y licencias; no garantiza acceso a toda la IA ni autoriza cualquier tratamiento de datos. Las cuentas personales son externas a GVA y sirven aquí para crear recursos sin datos personales reales. Registrarse con correo GVA, tener una cuenta universitaria o un plan Education, gratuito o de pago no equivale a autorización institucional.
+
+</div>
+
+<div lang="ca-valencia" markdown="1">
+
+**IMPORTANT: No introduïsques dades personals ni informació sensible de l'alumnat, del professorat, de les famílies o d'altres persones en les ferramentes d'intel·ligència artificial utilitzades en este curs.** Utilitza exemples ficticis, informació pública o materials degudament anonimitzats. Comprova sempre les condicions del servici i les instruccions del teu centre i de l'administració educativa.
+
+**GVA i NO GVA:** el compte `@edu.gva.es` identifica el professorat en els servicis corporatius habilitats, segons permisos i llicències; no garantix accés a tota la IA ni autoritza qualsevol tractament de dades. Els comptes personals són externs a GVA i servixen ací per a crear recursos sense dades personals reals. Registrar-se amb correu GVA, tindre un compte universitari o un pla Education, gratuït o de pagament no equival a autorització institucional.
+
+</div>
+
 ---
 
 <div class="vibe-hero" role="banner" aria-label="Presentación del Vibe Coding Educativo">
@@ -262,13 +279,13 @@ El repositorio cuenta con más de 300 aplicaciones. Aquí encontrarás una selec
 | **Infantil** | [Lienzo con Chispas](https://lienzo-con-chispas.vercel.app/) | Crear imágenes interactivas con cuestionarios y contenidos incrustados | Imágenes de animales con preguntas sobre sus características | Muy visual; adaptar la dificultad a la edad; supervisión docente recomendada |
 | **Primaria** | [Geody](https://aaronfortuno.github.io/Geody/) | Aprender geografía de forma lúdica localizando países y regiones en mapas | Situar las comunidades autónomas en el mapa de España | Motivación alta por el formato de juego; combinar con trabajo en el mapa físico |
 | **Primaria** | [Sletter](https://ja.cat/sletter) | Trabajar vocabulario y ortografía con el juego de la Serpiente de Palabras | Repaso de vocabulario de una unidad de Lengua | Usar después de la explicación para reforzar; disponible en español e inglés |
-| **Primaria / Ed. Musical** | [Reto-Ritmo](https://pablogguizar.github.io/reto-ritmo/) | Aprender duración de notas musicales con IA, gestos y movimiento | Practicar redondas, blancas y negras de forma kinestésica | Aprendizaje multisensorial; requiere cámara activada |
+| **Primaria / Ed. Musical** | [Reto-Ritmo](https://pablogguizar.github.io/reto-ritmo/) | Aprender duración de notas musicales con IA, gestos y movimiento | Practicar redondas, blancas y negras de forma kinestésica | <span lang="es">En las prácticas, usa una alternativa sin cámara; no captes imágenes identificables. Comprueba los permisos antes de cualquier uso real</span><br><span lang="ca-valencia">En les pràctiques, utilitza una alternativa sense càmera; no captes imatges identificables. Comprova els permisos abans de qualsevol ús real</span> |
 | **Secundaria** | [MendelSim](https://mendelsim.github.io/) | Visualizar y practicar genética mendeliana con cuadros de Punnett y pedigríes | Practicar herencia ligada al sexo en Biología de 4.º ESO | Combinar con actividad de laboratorio real; disponible en español, catalán e inglés |
-| **Secundaria** | [MotionTrackLab](https://motiontracklab.github.io/) | Análisis de vídeo para estudiar el movimiento de objetos | Subir un vídeo de una pelota en caída libre y analizar su trayectoria | Complementar con resolución de problemas de cinemática; ideal para Física y Química |
-| **Secundaria / Primaria** | [Reloj de Citas Cooperativo](https://reloj-citas.github.io/) | Facilitar la técnica cooperativa "Reloj de Citas" con parejas rotativas | Asignar parejas para actividades colaborativas en cualquier materia | Funciona en todas las etapas; el docente controla el ritmo desde su pantalla |
+| **Secundaria** | [MotionTrackLab](https://motiontracklab.github.io/) | Análisis de vídeo para estudiar el movimiento de objetos | <span lang="es">Analizar un vídeo de prueba de una pelota, sin personas, voces ni metadatos identificativos</span><br><span lang="ca-valencia">Analitzar un vídeo de prova d’una pilota, sense persones, veus ni metadades identificatives</span> | Complementar con resolución de problemas de cinemática; ideal para Física y Química |
+| **Secundaria / Primaria** | [Reloj de Citas Cooperativo](https://reloj-citas.github.io/) | Facilitar la técnica cooperativa "Reloj de Citas" con parejas rotativas | <span lang="es">Simular parejas con personajes ficticios; organizar el grupo real fuera de la aplicación</span><br><span lang="ca-valencia">Simular parelles amb personatges ficticis; organitzar el grup real fora de l’aplicació</span> | Funciona en todas las etapas; el docente controla el ritmo desde su pantalla |
 | **Bachillerato** | [MendelSim](https://mendelsim.github.io/) | Ampliar el estudio de la herencia con pedigríes complejos y genética cuantitativa | Preparar la PAU de Biología con cruces dihíbridos | Nivel de profundidad ajustable; editor de pedigríes incluido |
-| **FP** | [Transcribe](https://jjdeharo.github.io/transcribe/) | Transcribir audio y vídeo de forma local y privada, sin instalaciones | Transcribir la grabación de una charla de un profesional del sector | Protege la privacidad al funcionar localmente en el navegador |
-| **FP / Secundaria** | [IAGuar](https://elprofedelabata.es/iaguar/) | Automatizar la gestión de guardias y coberturas en el centro | Registrar ausencias y asignar coberturas en tiempo real | Para el equipo directivo y el profesorado; reduce carga administrativa |
+| **FP** | [Transcribe](https://jjdeharo.github.io/transcribe/) | <span lang="es">Transcribir audio y vídeo de prueba; verificar el modo de procesamiento</span><br><span lang="ca-valencia">Transcriure àudio i vídeo de prova; verificar el mode de processament</span> | <span lang="es">Transcribir un audio sintético sobre un tema profesional, sin voces reales identificables</span><br><span lang="ca-valencia">Transcriure un àudio sintètic sobre un tema professional, sense veus reals identificables</span> | <span lang="es">Comprueba procesamiento y conexiones; funcionar en el navegador no garantiza privacidad. Usa audio sintético de prueba</span><br><span lang="ca-valencia">Comprova processament i connexions; funcionar en el navegador no garantix privacitat. Utilitza àudio sintètic de prova</span> |
+| **FP / Secundaria** | [IAGuar](https://elprofedelabata.es/iaguar/) | Automatizar la gestión de guardias y coberturas en el centro | <span lang="es">Simular ausencias y coberturas con datos inventados; no cargar horarios ni motivos de ausencia reales</span><br><span lang="ca-valencia">Simular absències i cobertures amb dades inventades; no carregar horaris ni motius d’absència reals</span> | <span lang="es">La simulación no autoriza el uso real: requiere validación institucional del servicio y del tratamiento</span><br><span lang="ca-valencia">La simulació no autoritza l’ús real: requerix validació institucional del servici i del tractament</span> |
 | **Universidad** | [ResearchCloud](https://ja.cat/research-cloud) | Explorar y visualizar literatura científica con IA usando datos de OpenAlex | Analizar redes conceptuales de investigadores de referencia en una disciplina | Muy útil para TFG, TFM y seminarios de investigación |
 | **Universidad / Formación del profesorado** | [ScholarDeck](https://ja.cat/scholar-deck) | Gamificar la búsqueda bibliográfica con perfiles de investigadores como cartas coleccionables | Explorar redes de coautoría en Didáctica para organizar el marco teórico | Combina bibliometría y gamificación; datos reales de OpenAlex |
 | **Formación del profesorado** | [Metac](https://metact.github.io/) | Catálogo de más de 100 técnicas de aprendizaje activo con asistente IA integrado | Buscar técnicas cooperativas para aplicar en ESO, con filtro por ámbito | Incluye cuaderno de Gemini Notebook integrado; disponible en español, catalán e inglés |
@@ -385,7 +402,7 @@ Esta actividad guía al profesorado en el proceso de crear una primera aplicaci�
    Describe a la IA exactamente qué cambiar. Sé específico: "Cuando el alumno acierta, muestra un mensaje de felicitación en verde".
 
 - **Publica o comparte tu herramienta.**  
-   Puedes publicarla en GitHub Pages (gratuito) o compartirla directamente con el grupo de Telegram de la comunidad para recibir opiniones.
+   <span lang="es">Antes de publicar en GitHub Pages o compartir en una comunidad externa, revisa código, archivos, capturas y metadatos: no deben contener datos personales, credenciales ni enlaces privados. Para el curso basta una prueba local sin recopilar datos.</span><br><span lang="ca-valencia">Abans de publicar en GitHub Pages o compartir en una comunitat externa, revisa codi, fitxers, captures i metadades: no han de contindre dades personals, credencials ni enllaços privats. Per al curs és suficient una prova local sense recopilar dades.</span>
 
 ### Plantilla de prompt inicial
 
@@ -400,7 +417,7 @@ Necesito que incluya [elementos interactivos: preguntas, botones, retroalimentac
 La aplicación debe ser:
 - Accesible y visual, con textos claros y tamaño de letra adecuado.
 - Usable en el navegador sin instalaciones.
-- Sin recopilación de datos personales del alumnado.
+<span lang="es">- Sin recopilar, guardar ni transmitir datos personales de nadie; sin cuentas, analítica, rastreadores, cámara, micrófono ni servicios externos. Usa solo datos ficticios.</span><br><span lang="ca-valencia">- Sense recopilar, guardar ni transmetre dades personals de ningú; sense comptes, analítica, rastrejadors, càmera, micròfon ni servicis externs. Utilitza només dades fictícies.</span>
 - Compatible con móvil y tablet.
 
 Genera el código HTML completo en un único archivo y explícame cómo probarlo.</div>
@@ -415,6 +432,18 @@ La mejora es parte del proceso. Cada corrección que describes a la IA te enseñ
 
 ## Seguridad y privacidad
 {: id="9-seguridad-y-privacidad" }
+
+<div lang="es" markdown="1">
+
+**Antes de ejecutar código generado:** revisa si lee archivos, pide permisos o contacta con servicios externos. No pegues claves API ni contraseñas en prompts o código público. Si necesitas ayuda técnica para comprobarlo, utiliza un prototipo sin conexiones y consulta al responsable TIC.
+
+</div>
+
+<div lang="ca-valencia" markdown="1">
+
+**Abans d’executar codi generat:** revisa si llig fitxers, demana permisos o contacta amb servicis externs. No apegues claus API ni contrasenyes en prompts o codi públic. Si necessites ajuda tècnica per a comprovar-ho, utilitza un prototip sense connexions i consulta el responsable TIC.
+
+</div>
 
 Crear aplicaciones con IA implica asumir ciertas responsabilidades. Antes de publicar cualquier herramienta para uso en el aula, revisa siempre los siguientes puntos.
 
@@ -441,7 +470,7 @@ Crear aplicaciones con IA implica asumir ciertas responsabilidades. Antes de pub
 
 <div class="callout callout--alerta" role="alert" aria-label="Regla de oro de privacidad en vibe coding">
 <div class="callout__titulo">⚠️ Regla de oro</div>
-Si la aplicación va a ser usada con alumnado menor de 14 años, asegúrate de que no solicita ningún tipo de dato personal, ni siquiera el nombre. Utiliza sistemas de identificación anónimos (número de alumno, color, animal...) si necesitas distinguir al alumnado.
+<span lang="es">La regla del curso se aplica a todas las edades. Un número de alumno, color o animal vinculable a una persona es seudonimización, no anonimización. Prueba con personajes ficticios sin correspondencia real. Si no puedes verificar que la aplicación no recoge ni transmite datos personales, utiliza una versión impresa o una demostración con datos inventados.</span><br><span lang="ca-valencia">La regla del curs s’aplica a totes les edats. Un número d’alumne, color o animal vinculable a una persona és pseudonimització, no anonimització. Prova amb personatges ficticis sense correspondència real. Si no pots verificar que l’aplicació no recull ni transmet dades personals, utilitza una versió impresa o una demostració amb dades inventades.</span>
 </div>
 
 ---
@@ -469,7 +498,7 @@ El cuaderno consulta las fuentes compartidas por la comunidad. Comprueba sus cit
 <div class="callout callout--idea" role="note" aria-label="Acceso al cuaderno de Gemini Notebook">
 <div class="callout__titulo">🤖 Acceder directamente al Cuaderno de Gemini Notebook</div>
 Puedes acceder al cuaderno directamente en: <a href="https://notebooklm.google.com/notebook/8604babb-0861-43f0-8c96-152a49a509b3" target="_blank" rel="noopener">Cuaderno de Gemini Notebook de Vibe Coding Educativo</a>.<br><br>
-Necesitarás una cuenta de Google para acceder. No introduzcas datos personales del alumnado en el cuaderno.
+<span lang="es">Necesitarás una cuenta Google compatible. Es un recurso externo NO GVA; no añadas documentos internos ni datos personales y revisa quién puede acceder a las fuentes y a los enlaces compartidos.</span><br><span lang="ca-valencia">Necessitaràs un compte Google compatible. És un recurs extern NO GVA; no afiges documents interns ni dades personals i revisa qui pot accedir a les fonts i als enllaços compartits.</span>
 </div>
 
 ---
@@ -496,8 +525,8 @@ Necesitarás una cuenta de Google para acceder. No introduzcas datos personales 
 ## Ver también
 
 - [Inicio del curso]({{ '/' | relative_url }})
-- [Agentes de IA para docentes]({{ '/bloque1-agentes-ia' | relative_url }})
+- [Agentes de IA para docentes]({{ '/modulo-0-que-es-la-ia.html#agentes-de-ia' | relative_url }})
 - [Bloque 1: IA Colaborativa y Gestión GVA]({{ '/bloque1' | relative_url }})
 - [Módulo 0: ¿Qué es la IA?]({{ '/modulo-0-que-es-la-ia' | relative_url }})
-- [Seguridad y protección de datos]({{ '/bloque1-seguridad' | relative_url }})
-- [IA para accesibilidad e inclusión]({{ '/bloque1-accesibilidad-ia' | relative_url }})
+- [Seguridad y protección de datos]({{ '/primeros-pasos/identidad-digital.html#privacidad-practicas' | relative_url }})
+- [IA para accesibilidad e inclusión]({{ '/guia-didactica.html#diversidad' | relative_url }})

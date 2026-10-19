@@ -27,7 +27,7 @@ Antes de trabajar con IA, prepara tus accesos y comprueba qué cuenta y qué dat
 - [🛡️ Seis reglas básicas de seguridad](#️-seis-reglas-básicas-de-seguridad)
 - [💻 Protege también tu dispositivo](#-protege-también-tu-dispositivo)
 - [🤖 Seguridad básica al utilizar IA](#-seguridad-básica-al-utilizar-ia)
-- [🔐 Antes de introducir datos en una IA](#-antes-de-introducir-datos-en-una-ia)
+- [🔐 Antes de introducir datos en una IA](#privacidad-practicas)
 - [✅ Antes de continuar](#-antes-de-continuar)
 - [➡️ Siguiente paso](#️-siguiente-paso)
 - [📚 Para saber más](#-para-saber-más)
@@ -117,6 +117,7 @@ Los documentos, webs o correos que procesa una IA pueden contener instrucciones 
 En las prácticas con agentes, utiliza archivos ficticios en una carpeta de prueba y no conectes correo, expedientes ni carpetas reales del centro. Revisa los permisos de conectores y extensiones, y cada acción antes de autorizarla. Si no puedes aislar el entorno, simula el flujo con un prompt y archivos de ejemplo.
 
 ## 🔐 Antes de introducir datos en una IA
+{: id="privacidad-practicas" }
 
 {: .callout .callout--privacidad }
 **IMPORTANTE: No introduzcas datos personales ni información sensible del alumnado, profesorado, familias u otras personas en las herramientas de inteligencia artificial utilizadas en este curso.** Utiliza ejemplos ficticios, información pública o materiales debidamente anonimizados. Comprueba siempre las condiciones del servicio y las instrucciones de tu centro y de la administración educativa.

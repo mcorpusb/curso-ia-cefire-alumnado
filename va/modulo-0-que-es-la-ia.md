@@ -355,7 +355,7 @@ Volem comprovar què ocorre quan fem peticions semblants a sistemes diferents i 
 
 Les funcions, els models i les condicions d'accés canvien amb freqüència.
 
-Consulta el [Radar d'eines]({{ '/primeros-pasos/herramientas-que-utilizaremos.html#radar' | relative_url }}) per a revisar opcions, condicions d'accés i límits actualitzats.
+Consulta el [Radar d'eines]({{ '/va/herramientas-que-utilizaremos.html#radar' | relative_url }}) per a revisar opcions, condicions d'accés i límits actualitzats.
 
 ### Prepara el teu entorn de treball
 

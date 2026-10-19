@@ -13,6 +13,23 @@ Recursos de IA especializados organizados por etapas, listos para probar, adapta
 
 > **Aviso:** Los GPTs personalizados están en proceso de retirada. Algunos recursos de este banco pueden dejar de estar disponibles o migrar a Plugins. Comprueba siempre su disponibilidad antes de utilizarlos.
 
+
+<div lang="es" markdown="1">
+
+**IMPORTANTE: No introduzcas datos personales ni información sensible del alumnado, profesorado, familias u otras personas en las herramientas de inteligencia artificial utilizadas en este curso.** Utiliza ejemplos ficticios, información pública o materiales debidamente anonimizados. Comprueba siempre las condiciones del servicio y las instrucciones de tu centro y de la administración educativa.
+
+**GVA y NO GVA:** la cuenta `@edu.gva.es` identifica al profesorado en los servicios corporativos habilitados, según permisos y licencias; no garantiza acceso a toda la IA ni autoriza cualquier tratamiento de datos. Las cuentas personales son externas a GVA y sirven aquí para crear recursos sin datos personales reales. Registrarse con correo GVA, tener una cuenta universitaria o un plan Education, gratuito o de pago no equivale a autorización institucional.
+
+</div>
+
+<div lang="ca-valencia" markdown="1">
+
+**IMPORTANT: No introduïsques dades personals ni informació sensible de l'alumnat, del professorat, de les famílies o d'altres persones en les ferramentes d'intel·ligència artificial utilitzades en este curs.** Utilitza exemples ficticis, informació pública o materials degudament anonimitzats. Comprova sempre les condicions del servici i les instruccions del teu centre i de l'administració educativa.
+
+**GVA i NO GVA:** el compte `@edu.gva.es` identifica el professorat en els servicis corporatius habilitats, segons permisos i llicències; no garantix accés a tota la IA ni autoritza qualsevol tractament de dades. Els comptes personals són externs a GVA i servixen ací per a crear recursos sense dades personals reals. Registrar-se amb correu GVA, tindre un compte universitari o un pla Education, gratuït o de pagament no equival a autorització institucional.
+
+</div>
+
 ---
 
 <div class="callout callout--idea" role="note" aria-label="Qué encontrarás en esta página">
@@ -38,6 +55,18 @@ Desde el punto de vista docente, son **asistentes temáticos reutilizables**: un
 - **Base para crear recursos propios**: cada Gem/GPT puede inspirar o clonarse para adaptarlo al contexto del centro.
 - **Exploración pedagógica**: el docente experimenta como usuario antes de proponer el recurso al alumnado.
 
+<div lang="es" markdown="1">
+
+**Si creas o adaptas un agente:** añade solo fuentes públicas sin datos personales o archivos ficticios, revisados también en sus metadatos. No conectes correo, carpetas reales ni sistemas de evaluación. Usa un entorno de prueba y revisa permisos, enlaces compartidos y acciones. Si no puedes aislar los accesos, escribe y prueba las instrucciones como un prompt, sin conectores.
+
+</div>
+
+<div lang="ca-valencia" markdown="1">
+
+**Si crees o adaptes un agent:** afig només fonts públiques sense dades personals o fitxers ficticis, revisats també en les metadades. No connectes correu, carpetes reals ni sistemes d’avaluació. Utilitza un entorn de prova i revisa permisos, enllaços compartits i accions. Si no pots aïllar els accessos, escriu i prova les instruccions com un prompt, sense connectors.
+
+</div>
+
 ### Diferencia entre usar, copiar, adaptar y crear
 
 | Nivel | Qué significa | Esfuerzo |
@@ -60,9 +89,21 @@ Un banco de recursos compartido permite:
 
 ### Advertencias antes de usar cualquier recurso
 
+<div lang="es" markdown="1">
+
+**Anonimizar no es cambiar el nombre.** Iniciales, números de alumno o seudónimos siguen siendo datos personales si permiten reconocer a alguien. Revisa identificadores indirectos (centro, grupo pequeño, edad, fechas o situaciones singulares), metadatos, comentarios, imágenes y enlaces. Si no puedes impedir la reidentificación, sustituye el material por un caso completamente ficticio. Que una información sea pública no autoriza a introducir datos personales en las prácticas.
+
+</div>
+
+<div lang="ca-valencia" markdown="1">
+
+**Anonimitzar no és canviar el nom.** Inicials, números d'alumne o pseudònims continuen sent dades personals si permeten reconéixer algú. Revisa identificadors indirectes (centre, grup reduït, edat, dates o situacions singulars), metadades, comentaris, imatges i enllaços. Si no pots impedir la reidentificació, substituïx el material per un cas completament fictici. Que una informació siga pública no autoritza a introduir dades personals en les pràctiques.
+
+</div>
+
 > **Importante:**
 >
-> - **No introduzcas datos personales del alumnado** (nombre, apellidos, curso, centro) en ninguna plataforma externa.
+> - <span lang="es">No introduzcas datos personales reales de ninguna persona; usa materiales ficticios o sin posibilidad de reidentificación.</span><br><span lang="ca-valencia">No introduïsques dades personals reals de cap persona; utilitza materials ficticis o sense possibilitat de reidentificació.</span>
 > - Los recursos de EduGems funcionan con Google Gemini. Los GPTs requieren cuenta en ChatGPT.
 > - Verifica siempre que el recurso es adecuado para la **edad del alumnado** (algunos no están diseñados para menores de 13 años).
 > - La **revisión docente** es imprescindible: ningún resultado debe llegar al alumnado sin que el docente lo haya leído previamente.
@@ -77,7 +118,7 @@ Sigue estos pasos cada vez que quieras explorar un recurso:
 
 - **Abre el enlace** del recurso en una pestaña nueva del navegador.
 - **Inicia sesión** si es necesario:
-   - EduGems → cuenta de Google (evita usar la cuenta `@edu.gva.es` en plataformas no homologadas).
+   - <span lang="es">EduGems → revisa la plataforma de destino y el tipo de cuenta requerido. Un correo GVA o una licencia educativa no acreditan autorización institucional.</span><br><span lang="ca-valencia">EduGems → revisa la plataforma de destinació i el tipus de compte requerit. Un correu GVA o una llicència educativa no acrediten autorització institucional.</span>
    - ChatGPT GPTs → cuenta personal en ChatGPT o versión gratuita limitada.
 - **Pruébalo con una tarea real**: escribe un prompt relacionado con tu asignatura o etapa (p. ej.: *"Crea una actividad de matemáticas para 4.º de primaria sobre fracciones"*).
 - **Guarda el enlace** en tu gestor de favoritos o en el documento de recursos del departamento.
@@ -90,7 +131,7 @@ Sigue estos pasos cada vez que quieras explorar un recurso:
 - **Adapta el recurso** al contexto del centro si lo necesitas: cambia el nivel, el idioma, la asignatura o las instrucciones.
 - **Comparte la ficha de valoración** con el grupo-clase o el equipo docente para enriquecer el banco compartido.
 
-> **Importante:** El uso de herramientas externas como EduGems o ChatGPT GPTs está fuera del entorno protegido de la GVA. Úsalas con criterio y no introduzcas información sensible del centro ni del alumnado.
+> <span lang="es">Estos recursos externos no se consideran servicios GVA por figurar en el banco. Comprueba cuenta, permisos y condiciones. Practica como docente con casos ficticios; la presencia de un enlace no autoriza el uso directo por menores.</span><br><span lang="ca-valencia">Estos recursos externs no es consideren servicis GVA perquè figuren en el banc. Comprova compte, permisos i condicions. Practica com a docent amb casos ficticis; la presència d’un enllaç no autoritza l’ús directe per menors.</span>
 
 ---
 
@@ -98,6 +139,18 @@ Sigue estos pasos cada vez que quieras explorar un recurso:
 {: id="3-banco-de-gemsgpts-educativos-organizados-por-etapas" }
 
 Las tablas siguientes recogen recursos organizados por etapa educativa. Las columnas indican la plataforma, el uso principal, el enlace directo, una sugerencia de uso en el aula y las precauciones más relevantes.
+
+<div lang="es" markdown="1">
+
+**Para todas las etapas:** las pruebas del curso las realiza el profesorado con casos ficticios. Las propuestas de conversación, orientación o entrevistas usan personajes inventados, nunca historias personales, currículos reales ni grabaciones identificables. Para el uso directo por alumnado, comprueba condiciones de edad, cuenta y autorizaciones del centro; si no están claras, conserva la actividad mediante una demostración docente o materiales impresos. La IA no asigna calificaciones ni decide apoyos individuales.
+
+</div>
+
+<div lang="ca-valencia" markdown="1">
+
+**Per a totes les etapes:** les proves del curs les fa el professorat amb casos ficticis. Les propostes de conversa, orientació o entrevistes utilitzen personatges inventats, mai històries personals, currículums reals ni gravacions identificables. Per a l’ús directe per alumnat, comprova condicions d’edat, compte i autoritzacions del centre; si no estan clares, conserva l’activitat mitjançant una demostració docent o materials impresos. La IA no assigna qualificacions ni decidix suports individuals.
+
+</div>
 
 > Leyenda de plataformas: **EduGems** = Google Gemini · **ChatGPT GPT** = OpenAI GPT personalizado
 
@@ -141,12 +194,12 @@ Las tablas siguientes recogen recursos organizados por etapa educativa. Las colu
 |:--------|:-----------|:-------------|:-------|:----------------------|:-------------|
 | Socratic Partner | EduGems | Diálogo socrático para desarrollar el pensamiento crítico | [Abrir](https://www.edugems.ai/gem/socratic-partner) | El docente modela un diálogo con la IA sobre un texto filosófico o social para el grupo | Asegurarse de que el alumnado entiende que la IA puede argumentar posiciones incorrectas |
 | AI Tutor | EduGems | Tutor adaptativo multidisciplinar | [Abrir](https://www.edugems.ai/gem/ai-tutor) | El alumnado puede usarlo de forma guiada para repasar conceptos o preparar exámenes | Supervisión docente; establecer normas de uso antes de la sesión |
-| Tutor Me / Khanmigo Lite | ChatGPT GPT | Tutor socrático de matemáticas y ciencias | [Abrir](https://chatgpt.com/g/g-hRCqiqVlM-tutor-me) | Proponer al alumnado que pida ayuda al tutor sin que este le dé la respuesta directa | Verificar que el alumnado mayor de 13 años puede usar la plataforma |
-| Writing Skills Tutor | ChatGPT GPT | Tutor de escritura académica | [Abrir](https://chatgpt.com/g/g-hzsVjyLDt-writing-skills-tutor) | Pedir retroalimentación sobre un borrador de redacción antes de la entrega | No sustituye la evaluación docente; úsalo como revisión previa |
+| Tutor Me / Khanmigo Lite | ChatGPT GPT | Tutor socrático de matemáticas y ciencias | [Abrir](https://chatgpt.com/g/g-hRCqiqVlM-tutor-me) | Proponer al alumnado que pida ayuda al tutor sin que este le dé la respuesta directa | <span lang="es">Verificar edad, condiciones y autorización institucional; superar una edad no basta. Alternativa: demostración docente</span><br><span lang="ca-valencia">Verificar edat, condicions i autorització institucional; superar una edat no és suficient. Alternativa: demostració docent</span> |
+| Writing Skills Tutor | ChatGPT GPT | Tutor de escritura académica | [Abrir](https://chatgpt.com/g/g-hzsVjyLDt-writing-skills-tutor) | <span lang="es">Pedir retroalimentación sobre una redacción ficticia preparada por el docente</span><br><span lang="ca-valencia">Demanar retroalimentació sobre una redacció fictícia preparada pel docent</span> | No sustituye la evaluación docente; úsalo como revisión previa |
 | Language Learner | ChatGPT GPT | Práctica de idiomas con conversación guiada | [Abrir](https://chatgpt.com/g/g-SrsGydMuG-language-learner) | Practicar conversación en inglés, francés u otro idioma en sesiones de lengua extranjera | El alumnado debe tener supervisión docente en el uso de plataformas externas |
 | MathRelated: Personalized Math Tutor | ChatGPT GPT | Tutor personalizado de matemáticas | [Abrir](https://chatgpt.com/g/g-3aQtMkEGg-mathrelated-personalized-math-tutor) | Usar para refuerzo de matemáticas fuera del aula (tarea) con guía docente previa | Verificar los resultados paso a paso; la IA puede cometer errores de cálculo |
 | YouTube Quiz | EduGems | Generar cuestionarios a partir de vídeos de YouTube | [Abrir](https://www.edugems.ai/gem/youtube-quiz) | Introducir la URL de un vídeo educativo y obtener preguntas de comprensión | Verificar que el vídeo es adecuado antes de usarlo; revisar las preguntas generadas |
-| Student Assignment Feedback | EduGems | Generar retroalimentación formativa sobre trabajos | [Abrir](https://www.edugems.ai/gem/student-assignment-feedback) | El docente pega el texto de un alumno (anonimizado) y obtiene comentarios de mejora | Nunca introducir datos personales; usar textos anonimizados |
+| Student Assignment Feedback | EduGems | Generar retroalimentación formativa sobre trabajos | [Abrir](https://www.edugems.ai/gem/student-assignment-feedback) | <span lang="es">El docente utiliza una producción ficticia y revisa los comentarios de mejora</span><br><span lang="ca-valencia">El docent utilitza una producció fictícia i revisa els comentaris de millora</span> | Nunca introducir datos personales; usar textos anonimizados |
 | Career Explorer | EduGems | Explorar salidas profesionales relacionadas con los intereses del alumnado | [Abrir](https://www.edugems.ai/gem/career-explorer) | Usar en tutoría para que el alumnado reflexione sobre sus intereses y opciones de futuro | Las sugerencias son orientativas; contrastar con el orientador/a del centro |
 
 ---
@@ -158,10 +211,10 @@ Las tablas siguientes recogen recursos organizados por etapa educativa. Las colu
 |:--------|:-----------|:-------------|:-------|:----------------------|:-------------|
 | Socratic Partner | EduGems | Pensamiento crítico y debate filosófico | [Abrir](https://www.edugems.ai/gem/socratic-partner) | Preparar debates sobre textos filosóficos, sociales o científicos | El alumnado debe evaluar críticamente las respuestas de la IA |
 | Tutor Me / Khanmigo Lite | ChatGPT GPT | Tutor socrático de selectividad y ampliación | [Abrir](https://chatgpt.com/g/g-hRCqiqVlM-tutor-me) | Repasar contenidos de selectividad sin que la IA dé la respuesta directamente | Complementar con materiales curriculares oficiales de la GVA |
-| Writing Skills Tutor | ChatGPT GPT | Mejora de la escritura académica y ensayística | [Abrir](https://chatgpt.com/g/g-hzsVjyLDt-writing-skills-tutor) | Revisar borradores de trabajos de investigación o comentarios de texto | Insistir en que el alumnado debe asegurarse de que la IA no le ha escrito el texto |
+| Writing Skills Tutor | ChatGPT GPT | Mejora de la escritura académica y ensayística | [Abrir](https://chatgpt.com/g/g-hzsVjyLDt-writing-skills-tutor) | <span lang="es">Revisar borradores ficticios de trabajos de investigación o comentarios de texto</span><br><span lang="ca-valencia">Revisar esborranys ficticis de treballs d’investigació o comentaris de text</span> | Insistir en que el alumnado debe asegurarse de que la IA no le ha escrito el texto |
 | MathRelated: Personalized Math Tutor | ChatGPT GPT | Tutor personalizado de matemáticas de bachillerato | [Abrir](https://chatgpt.com/g/g-3aQtMkEGg-mathrelated-personalized-math-tutor) | Refuerzo de cálculo, álgebra y estadística para la EVAU | Contrastar los resultados con soluciones verificadas |
 | Language Learner | ChatGPT GPT | Práctica avanzada de idiomas | [Abrir](https://chatgpt.com/g/g-SrsGydMuG-language-learner) | Preparar la prueba oral de idiomas de bachillerato o practicar redacción formal | Supervisión docente recomendada para evaluar la calidad lingüística |
-| Student Assignment Feedback | EduGems | Retroalimentación formativa sobre trabajos escritos | [Abrir](https://www.edugems.ai/gem/student-assignment-feedback) | El docente obtiene comentarios de mejora para distribuir al alumnado (textos anonimizados) | Nunca introducir datos personales del alumnado |
+| Student Assignment Feedback | EduGems | Retroalimentación formativa sobre trabajos escritos | [Abrir](https://www.edugems.ai/gem/student-assignment-feedback) | <span lang="es">El docente obtiene comentarios sobre textos ficticios y decide qué estrategias trasladar al aula</span><br><span lang="ca-valencia">El docent obté comentaris sobre textos ficticis i decidix quines estratègies traslladar a l’aula</span> | Nunca introducir datos personales del alumnado |
 | Career Explorer | EduGems | Orientación académica y profesional postsecundaria | [Abrir](https://www.edugems.ai/gem/career-explorer) | Usar en tutoría o en Proyecto de Vida para reflexionar sobre opciones universitarias o profesionales | Las orientaciones son de carácter general; derivar al servicio de orientación del centro |
 | Varsity Force Student Counselor & Career Coach | ChatGPT GPT | Orientación personalizada y coaching para el futuro académico | [Abrir](https://chatgpt.com/g/g-LJ1uBy0Y1-varsity-force-student-counselor-career-coach) | Complementar las sesiones de orientación con autoexploración asistida por IA | No sustituye la orientación profesional personalizada del centro |
 
@@ -177,7 +230,7 @@ Las tablas siguientes recogen recursos organizados por etapa educativa. Las colu
 | Job Interview Coach | EduGems | Entrenamiento para entrevistas de trabajo | [Abrir](https://www.edugems.ai/gem/job-interview-coach) | Practicar entrevistas de trabajo simuladas en módulo de FOL antes de las prácticas en empresa | Revisar que el enfoque es coherente con el mercado laboral español actual |
 | Career Explorer | EduGems | Explorar salidas profesionales del ciclo | [Abrir](https://www.edugems.ai/gem/career-explorer) | Usar en tutoría o FOL para reflexionar sobre itinerarios profesionales y formación continua | Las salidas son orientativas; contrastar con el orientador/a y el SEPE |
 | Ai Career & Tech Ed by GPN | ChatGPT GPT | Orientación en carreras tecnológicas y digitales | [Abrir](https://chatgpt.com/g/g-6836218d8dcc8191bd20084e1de70c3c-ai-career-tech-ed-by-gpn) | Explorar perfiles profesionales emergentes del sector digital con el alumnado de ciclos tecnológicos | Contexto principalmente anglosajón; adaptar al mercado laboral europeo |
-| Assessment Data Analyzer | EduGems | Analizar resultados de evaluaciones | [Abrir](https://www.edugems.ai/gem/assessment-data-analyzer) | El docente analiza datos de rendimiento del grupo (sin datos personales) para detectar patrones | Usar solo con datos agregados y anonimizados; no introducir calificaciones individuales nominales |
+| Assessment Data Analyzer | EduGems | Analizar resultados de evaluaciones | [Abrir](https://www.edugems.ai/gem/assessment-data-analyzer) | <span lang="es">El docente analiza una tabla de resultados completamente ficticios para detectar patrones</span><br><span lang="ca-valencia">El docent analitza una taula de resultats completament ficticis per a detectar patrons</span> | <span lang="es">No subas calificaciones reales: agregar datos de grupos pequeños puede permitir reidentificar</span><br><span lang="ca-valencia">No puges qualificacions reals: agregar dades de grups reduïts pot permetre reidentificar</span> |
 | Rubric | EduGems | Generar rúbricas de evaluación | [Abrir](https://www.edugems.ai/gem/rubric) | Crear rúbricas para módulos profesionales alineadas con los resultados de aprendizaje del ciclo | Adaptar los criterios al currículo específico del ciclo y a la normativa LOMLOE/LOE |
 
 ---
@@ -189,7 +242,7 @@ Las tablas siguientes recogen recursos organizados por etapa educativa. Las colu
 |:--------|:-----------|:-------------|:-------|:----------------------|:-------------|
 | AI Tutor | EduGems | Tutor adaptativo para adultos con distintos niveles | [Abrir](https://www.edugems.ai/gem/ai-tutor) | Personalizar el acompañamiento a personas adultas con itinerarios formativos muy diversos | Supervisión docente para asegurar que el contenido se ajusta al nivel MCERL o a los módulos de EPA |
 | Language Learner | ChatGPT GPT | Práctica de idiomas para adultos | [Abrir](https://chatgpt.com/g/g-SrsGydMuG-language-learner) | Practicar conversación, comprensión o escritura en la lengua estudiada en la EOI | El alumnado adulto puede usar la herramienta de forma más autónoma con instrucciones previas |
-| Writing Skills Tutor | ChatGPT GPT | Mejora de la escritura académica y profesional | [Abrir](https://chatgpt.com/g/g-hzsVjyLDt-writing-skills-tutor) | Revisar producciones escritas del alumnado de EOI o de ESPA antes de la evaluación | No sustituye la corrección docente; usar como herramienta de autocorrección |
+| Writing Skills Tutor | ChatGPT GPT | Mejora de la escritura académica y profesional | [Abrir](https://chatgpt.com/g/g-hzsVjyLDt-writing-skills-tutor) | <span lang="es">Revisar producciones ficticias de nivel EOI o ESPA para practicar retroalimentación</span><br><span lang="ca-valencia">Revisar produccions fictícies de nivell EOI o ESPA per a practicar retroalimentació</span> | No sustituye la corrección docente; usar como herramienta de autocorrección |
 | Job Interview Coach | EduGems | Preparación de entrevistas de trabajo | [Abrir](https://www.edugems.ai/gem/job-interview-coach) | Practicar entrevistas de trabajo en el módulo de inserción sociolaboral o en FPB | Revisar el enfoque para que sea coherente con el perfil del alumnado adulto |
 | Career Explorer | EduGems | Explorar opciones de formación y empleo | [Abrir](https://www.edugems.ai/gem/career-explorer) | Usar en programas de orientación de EPA o PCPI para reflexionar sobre itinerarios de vida y trabajo | Orientación complementaria; derivar al servicio de orientación para casos específicos |
 | Text Rewriter | EduGems | Adaptar textos a diferentes niveles de complejidad | [Abrir](https://www.edugems.ai/gem/text-rewriter) | Simplificar o enriquecer textos para adaptarlos al nivel del grupo en lecturas o comprensión escrita | Verificar que el resultado es natural en la lengua de instrucción (español o valenciano) |
@@ -207,8 +260,8 @@ Las tablas siguientes recogen recursos organizados por etapa educativa. Las colu
 | UDL Lesson Remixer | EduGems | Adaptar una sesión a los principios del DUA | [Abrir](https://www.edugems.ai/gem/udl-lesson-remixer) | Introducir el resumen de una sesión y obtener sugerencias de representación, acción y motivación según el DUA | Las sugerencias son generales; validar con el equipo de orientación |
 | UDL Barrier Buster | EduGems | Detectar barreras de aprendizaje en una actividad | [Abrir](https://www.edugems.ai/gem/udl-barrier-buster) | Analizar una tarea o evaluación para identificar posibles barreras antes de aplicarla al grupo | Combinar con la observación directa del docente |
 | Differentiation Strategies | EduGems | Generar estrategias de diferenciación curricular | [Abrir](https://www.edugems.ai/gem/differentiation-strategies) | Obtener propuestas de adaptación para una actividad concreta según distintos perfiles de aprendizaje | Validar con el equipo de PT/AL antes de aplicar |
-| IEP/504 SMART Goal | EduGems | Redactar objetivos SMART para planes de apoyo | [Abrir](https://www.edugems.ai/gem/iep-504-smart-goal) | Apoyar la redacción de objetivos individualizados para el DIAC o el PI (solo como borrador) | Nunca introducir datos personales del alumnado; revisar con el equipo de orientación |
-| Accommodation Suggestions | EduGems | Generar propuestas de adaptaciones y apoyos | [Abrir](https://www.edugems.ai/gem/accommodation-suggestions) | Obtener sugerencias de adaptaciones de acceso para alumnado con necesidades específicas | Las adaptaciones deben estar validadas por el equipo de orientación del centro |
+| IEP/504 SMART Goal | EduGems | Redactar objetivos SMART para planes de apoyo | [Abrir](https://www.edugems.ai/gem/iep-504-smart-goal) | <span lang="es">Practicar objetivos de apoyo con un caso ficticio; no subir DIAC, PI ni informes reales</span><br><span lang="ca-valencia">Practicar objectius de suport amb un cas fictici; no pujar DIAC, PI ni informes reals</span> | Nunca introducir datos personales del alumnado; revisar con el equipo de orientación |
+| Accommodation Suggestions | EduGems | Generar propuestas de adaptaciones y apoyos | [Abrir](https://www.edugems.ai/gem/accommodation-suggestions) | <span lang="es">Pedir apoyos generales para un perfil didáctico ficticio, sin diagnósticos ni historias individuales</span><br><span lang="ca-valencia">Demanar suports generals per a un perfil didàctic fictici, sense diagnòstics ni històries individuals</span> | Las adaptaciones deben estar validadas por el equipo de orientación del centro |
 | Alternate Assessment | EduGems | Diseñar evaluaciones alternativas accesibles | [Abrir](https://www.edugems.ai/gem/alternate-assessment) | Crear instrumentos de evaluación adaptados a perfiles con dificultades de acceso al currículo ordinario | Contrastar con los criterios de evaluación del área y con el equipo de orientación |
 | Special Education | ChatGPT GPT | Asesoramiento docente en educación especial | [Abrir](https://chatgpt.com/g/g-f6OuMFn1F-special-education) | El docente consulta estrategias y recursos para apoyar al alumnado NEAE | Orientación general; no sustituye el asesoramiento especializado del equipo de orientación |
 | Re-level Text | EduGems | Adaptar textos a niveles de complejidad inferiores | [Abrir](https://www.edugems.ai/gem/re-level-text) | Simplificar materiales para alumnado con dificultades lectoras o con discapacidad intelectual leve | Verificar que el resultado es comprensible y adecuado para el perfil del alumnado |
@@ -226,8 +279,8 @@ Las tablas siguientes recogen recursos organizados por etapa educativa. Las colu
 | Teacher Lesson Planner AI | ChatGPT GPT | Planificación docente asistida por IA | [Abrir](https://chatgpt.com/g/g-bFlmtiHtZ-teacher-lesson-planner-ai) | Obtener secuencias de actividades para una sesión o una unidad | Revisar la alineación con las competencias clave y criterios de evaluación LOMLOE |
 | 5E Lesson Plan | EduGems | Diseñar sesiones con el modelo 5E (Engage, Explore, Explain, Elaborate, Evaluate) | [Abrir](https://www.edugems.ai/gem/5e-lesson-plan) | Útil para diseñar unidades de ciencias con indagación | Adaptar las fases del modelo al contexto del grupo y del currículo valenciano |
 | Rubric | EduGems | Generador de rúbricas de evaluación | [Abrir](https://www.edugems.ai/gem/rubric) | Crear rúbricas para cualquier tarea o proyecto; especificar nivel, área y criterios | Alinear los indicadores con los criterios de evaluación del currículo oficial |
-| Grading Partner | EduGems | Asistente de corrección y retroalimentación | [Abrir](https://www.edugems.ai/gem/grading-partner) | Obtener una primera valoración de producciones escritas (con textos anonimizados) | La nota final es siempre decisión del docente; no usar con datos personales del alumnado |
-| Assessment Data Analyzer | EduGems | Analizar datos de evaluación del grupo | [Abrir](https://www.edugems.ai/gem/assessment-data-analyzer) | Analizar resultados agregados para detectar patrones y dificultades del grupo | Solo con datos anonimizados y agregados; nunca con calificaciones individuales nominales |
+| Grading Partner | EduGems | Asistente de corrección y retroalimentación | [Abrir](https://www.edugems.ai/gem/grading-partner) | <span lang="es">Obtener comentarios sobre producciones ficticias y revisar su utilidad; la valoración real es docente</span><br><span lang="ca-valencia">Obtindre comentaris sobre produccions fictícies i revisar-ne la utilitat; la valoració real és docent</span> | La nota final es siempre decisión del docente; no usar con datos personales del alumnado |
+| Assessment Data Analyzer | EduGems | Analizar datos de evaluación del grupo | [Abrir](https://www.edugems.ai/gem/assessment-data-analyzer) | <span lang="es">Analizar resultados ficticios para practicar la detección de patrones y dificultades</span><br><span lang="ca-valencia">Analitzar resultats ficticis per a practicar la detecció de patrons i dificultats</span> | <span lang="es">Usa datos inventados; los agregados de grupos pequeños tampoco garantizan anonimato</span><br><span lang="ca-valencia">Utilitza dades inventades; els agregats de grups reduïts tampoc garantixen anonimat</span> |
 | Professional Learning Coach | EduGems | Desarrollo profesional docente | [Abrir](https://www.edugems.ai/gem/professional-learning-coach) | Reflexionar sobre la práctica docente o planificar objetivos de formación continua | Recurso orientado a la reflexión personal; no vinculante |
 | AI Prompt Architect | EduGems | Diseñar prompts efectivos para IA | [Abrir](https://www.edugems.ai/gem/ai-prompt-architect) | Aprender a estructurar prompts pedagógicos para obtener mejores resultados | Útil para docentes que están aprendiendo a usar la IA en el aula |
 | AI Prompt Doctor | EduGems | Mejorar prompts existentes | [Abrir](https://www.edugems.ai/gem/ai-prompt-doctor) | Introducir un prompt que no funciona bien y obtener sugerencias de mejora | Revisar los prompts mejorados antes de usarlos con el alumnado |
@@ -242,11 +295,11 @@ Las tablas siguientes recogen recursos organizados por etapa educativa. Las colu
 
 | Recurso | Plataforma | Uso principal | Enlace | Cómo usarlo en el aula | Precauciones |
 |:--------|:-----------|:-------------|:-------|:----------------------|:-------------|
-| Email to Parents | EduGems | Redactar comunicaciones a familias | [Abrir](https://www.edugems.ai/gem/email-to-parents) | Generar un borrador de correo para informar a familias sobre actividades, normas o incidencias | Revisar y personalizar antes de enviar; no introducir datos personales del alumnado |
+| Email to Parents | EduGems | Redactar comunicaciones a familias | [Abrir](https://www.edugems.ai/gem/email-to-parents) | <span lang="es">Generar un correo genérico con una actividad o incidencia ficticia; no copiar correos reales</span><br><span lang="ca-valencia">Generar un correu genèric amb una activitat o incidència fictícia; no copiar correus reals</span> | Revisar y personalizar antes de enviar; no introducir datos personales del alumnado |
 | Class Newsletter | EduGems | Crear boletines informativos para familias | [Abrir](https://www.edugems.ai/gem/class-newsletter) | Generar un borrador de newsletter mensual con las actividades del aula | Adaptar el contenido y añadir la identidad visual del centro si es necesario |
-| Parent-Teacher Conference Prep Buddy | ChatGPT GPT | Preparar reuniones con familias | [Abrir](https://chatgpt.com/g/g-2n5Um8sEL-parent-teacher-conference-prep-buddy) | Preparar los puntos clave de una reunión de tutoría con familias | Nunca introducir datos personales del alumnado; trabajar siempre con información genérica |
+| Parent-Teacher Conference Prep Buddy | ChatGPT GPT | Preparar reuniones con familias | [Abrir](https://chatgpt.com/g/g-2n5Um8sEL-parent-teacher-conference-prep-buddy) | <span lang="es">Preparar una reunión de tutoría ficticia, sin datos ni situaciones reconocibles de familias</span><br><span lang="ca-valencia">Preparar una reunió de tutoria fictícia, sense dades ni situacions recognoscibles de famílies</span> | Nunca introducir datos personales del alumnado; trabajar siempre con información genérica |
 | Career Explorer | EduGems | Explorar itinerarios formativos y profesionales | [Abrir](https://www.edugems.ai/gem/career-explorer) | Usar en reuniones de orientación con familias para explorar opciones de futuro del alumnado | Las orientaciones son generales; complementar con el servicio de orientación del centro |
-| Varsity Force Student Counselor & Career Coach | ChatGPT GPT | Orientación y coaching académico-profesional | [Abrir](https://chatgpt.com/g/g-LJ1uBy0Y1-varsity-force-student-counselor-career-coach) | Usar en sesiones de orientación o tutoría individual para explorar metas y opciones | Recurso en inglés; adaptar si se usa con alumnado o familias hispanohablantes |
+| Varsity Force Student Counselor & Career Coach | ChatGPT GPT | Orientación y coaching académico-profesional | [Abrir](https://chatgpt.com/g/g-LJ1uBy0Y1-varsity-force-student-counselor-career-coach) | <span lang="es">Explorar metas y opciones con perfiles ficticios; los casos individuales se tratan fuera de la IA</span><br><span lang="ca-valencia">Explorar metes i opcions amb perfils ficticis; els casos individuals es tracten fora de la IA</span> | Recurso en inglés; adaptar si se usa con alumnado o familias hispanohablantes |
 | Job Interview Coach | EduGems | Preparación de entrevistas de trabajo | [Abrir](https://www.edugems.ai/gem/job-interview-coach) | Usar con alumnado o familias en transición al mercado laboral | Orientación general; derivar al SEPE o LABORA para apoyo específico |
 
 ---
@@ -297,9 +350,21 @@ Individual o por parejas del mismo departamento o etapa.
 - Acceso a [EduGems](https://www.edugems.ai/) o [ChatGPT GPTs](https://chatgpt.com/gpts) (cuenta personal).
 - Plantilla de análisis (apartado «Plantilla de análisis de una Gem/GPT» de esta página).
 - Rúbrica de evaluación (apartado «Rúbrica de evaluación» de esta página).
-- Documento colaborativo del grupo (Aules, Drive o similar).
+- <span lang="es">Espacio del curso indicado por el tutor; comprueba quién puede leerlo y comparte solo la ficha de práctica sin datos personales.</span><br><span lang="ca-valencia">Espai del curs indicat pel tutor; comprova qui pot llegir-lo i compartix només la fitxa de pràctica sense dades personals.</span>
 
 ### Pasos
+
+<div lang="es" markdown="1">
+
+Utiliza únicamente información ficticia, pública sin datos personales o debidamente anonimizada. No incluyas datos personales del alumnado ni de otras personas. Comparte solo ejemplos de prueba y capturas sin correo, avatares ni enlaces privados.
+
+</div>
+
+<div lang="ca-valencia" markdown="1">
+
+Utilitza únicament informació fictícia, pública sense dades personals o degudament anonimitzada. No inclogues dades personals de l'alumnat ni d'altres persones. Compartix només exemples de prova i captures sense correu, avatars ni enllaços privats.
+
+</div>
 
 **Paso 1 — Elige tu etapa educativa**
 
@@ -501,9 +566,9 @@ Se recomienda añadir esta página como recurso complementario en la sección **
 
 | Página del curso | Relación con este banco |
 |:----------------|:------------------------|
-| [bloque1-agentes-ia.md](bloque1-agentes-ia.md) | El banco amplía los ejemplos de agentes con recursos ya construidos y listos para usar o adaptar. Los Gems/GPTs son la versión "lista para usar" de los agentes que el docente aprende a diseñar en ese bloque |
-| [bloque1-seguridad.md](bloque1-seguridad.md) | Las advertencias de privacidad, los criterios de edad y los riesgos de fiabilidad de esta página son un complemento directo de los contenidos de seguridad del bloque 1 |
-| [bloque1-accesibilidad-ia.md](bloque1-accesibilidad-ia.md) | La sección «Educación especial y atención a la diversidad» y las adaptaciones DUA de los recursos conectan directamente con los contenidos de accesibilidad e inclusión del bloque 1 |
+| [Agentes de IA · Agents d’IA](modulo-0-que-es-la-ia.html#agentes-de-ia) | El banco amplía los ejemplos de agentes con recursos ya construidos y listos para usar o adaptar. Los Gems/GPTs son la versión "lista para usar" de los agentes que el docente aprende a diseñar en ese bloque |
+| [Privacidad · Privacitat](primeros-pasos/identidad-digital.html#privacidad-practicas) | Las advertencias de privacidad, los criterios de edad y los riesgos de fiabilidad de esta página son un complemento directo de los contenidos de seguridad del bloque 1 |
+| [Inclusión · Inclusió](guia-didactica.html#diversidad) | La sección «Educación especial y atención a la diversidad» y las adaptaciones DUA de los recursos conectan directamente con los contenidos de accesibilidad e inclusión del bloque 1 |
 | [bloque1-actividad-infantil.md](bloque1-actividad-infantil.md) | Los recursos de la sección «Infantil» pueden usarse como punto de partida o como referencia para las actividades de esta página |
 | [bloque1-actividad-primaria.md](bloque1-actividad-primaria.md) | Los recursos de la sección «Primaria» amplían y concretan las propuestas de actividad de primaria del bloque 1 |
 | [bloque1-actividad-secundaria.md](bloque1-actividad-secundaria.md) | Los recursos de las secciones 3.3 y 3.4 (Secundaria y Bachillerato) se conectan con las actividades de secundaria del bloque 1 |

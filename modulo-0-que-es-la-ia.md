@@ -326,7 +326,7 @@ La **responsabilidad profesional** continúa siendo nuestra.
 
 En este curso tomamos como referencias principales el **RGPD**, la **LOPDGDD**, el **Reglamento (UE) 2024/1689 de Inteligencia Artificial (AI Act)**, la normativa de **propiedad intelectual** y la normativa educativa e instrucciones institucionales vigentes.
 
-El artículo 4 del AI Act establece que los proveedores y responsables del despliegue deben adoptar medidas para procurar un nivel suficiente de alfabetización en IA de las personas que utilizan estos sistemas en su nombre, teniendo en cuenta su formación, experiencia y contexto de uso.
+El [artículo 4 del Reglamento de IA](https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-4) aborda la alfabetización en IA y las medidas para desarrollarla entre el personal que utiliza estos sistemas. Deben tenerse en cuenta la formación, la experiencia, el contexto de uso y las personas afectadas. Consulta el texto oficial vigente y las instrucciones aplicables al centro.
 
 En nuestro contexto, alfabetizarse en IA significa comprender sus capacidades, límites, riesgos y el nivel de supervisión humana que necesita.
 

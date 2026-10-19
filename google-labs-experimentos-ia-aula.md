@@ -12,6 +12,23 @@ description: "Descubre los experimentos de IA de Google Labs con utilidad educat
 Explora, analiza y lleva al aula los experimentos de inteligencia artificial de Google Labs. Una guía práctica para el profesorado organizada por etapas, asignaturas y módulos del curso.
 {: .fs-5 .fw-300 }
 
+
+<div lang="es" markdown="1">
+
+**IMPORTANTE: No introduzcas datos personales ni información sensible del alumnado, profesorado, familias u otras personas en las herramientas de inteligencia artificial utilizadas en este curso.** Utiliza ejemplos ficticios, información pública o materiales debidamente anonimizados. Comprueba siempre las condiciones del servicio y las instrucciones de tu centro y de la administración educativa.
+
+**GVA y NO GVA:** la cuenta `@edu.gva.es` identifica al profesorado en los servicios corporativos habilitados, según permisos y licencias; no garantiza acceso a toda la IA ni autoriza cualquier tratamiento de datos. Las cuentas personales son externas a GVA y sirven aquí para crear recursos sin datos personales reales. Registrarse con correo GVA, tener una cuenta universitaria o un plan Education, gratuito o de pago no equivale a autorización institucional.
+
+</div>
+
+<div lang="ca-valencia" markdown="1">
+
+**IMPORTANT: No introduïsques dades personals ni informació sensible de l'alumnat, del professorat, de les famílies o d'altres persones en les ferramentes d'intel·ligència artificial utilitzades en este curs.** Utilitza exemples ficticis, informació pública o materials degudament anonimitzats. Comprova sempre les condicions del servici i les instruccions del teu centre i de l'administració educativa.
+
+**GVA i NO GVA:** el compte `@edu.gva.es` identifica el professorat en els servicis corporatius habilitats, segons permisos i llicències; no garantix accés a tota la IA ni autoritza qualsevol tractament de dades. Els comptes personals són externs a GVA i servixen ací per a crear recursos sense dades personals reals. Registrar-se amb correu GVA, tindre un compte universitari o un pla Education, gratuït o de pagament no equival a autorització institucional.
+
+</div>
+
 ---
 
 ## Objetivos del módulo
@@ -61,6 +78,18 @@ Estas herramientas deben utilizarse preferentemente como recursos guiados por el
 </div>
 
 ---
+
+<div lang="es" markdown="1">
+
+**Acceso y demostraciones:** cada tarjeta describe un posible uso docente, no una autorización para crear cuentas del alumnado. Google Labs y sus experimentos son servicios externos NO GVA; comprueba para cada uno cuenta, edad, región, permisos y condiciones. En las prácticas, el docente prepara y revisa el recurso sin datos personales. Si el acceso no está disponible o autorizado, diseña el guion, prototipo o actividad en papel.
+
+</div>
+
+<div lang="ca-valencia" markdown="1">
+
+**Accés i demostracions:** cada targeta descriu un possible ús docent, no una autorització per a crear comptes de l’alumnat. Google Labs i els seus experiments són servicis externs NO GVA; comprova per a cada un compte, edat, regió, permisos i condicions. En les pràctiques, el docent prepara i revisa el recurs sense dades personals. Si l’accés no està disponible o autoritzat, dissenya el guió, prototip o activitat en paper.
+
+</div>
 
 ## Experimentos destacados de Google Labs
 {: id="3-experimentos-destacados-de-google-labs" }
@@ -157,7 +186,7 @@ Estas herramientas deben utilizarse preferentemente como recursos guiados por el
       <a href="https://illuminate.google.com/" target="_blank" rel="noopener">Illuminate</a>
     </div>
     <div class="tool-card__desc">
-      Transforma artículos de investigación o textos complejos en resúmenes de audio generados por IA.
+      <span lang="es">Transforma artículos públicos sin datos personales o textos ficticios en audio; revisa fuentes y metadatos antes de cargar archivos.</span><br><span lang="ca-valencia">Transforma articles públics sense dades personals o textos ficticis en àudio; revisa fonts i metadades abans de carregar fitxers.</span>
     </div>
     <div class="tool-card__tip">
       <strong>Uso educativo:</strong> comprensión de textos complejos, divulgación científica, investigación, lectura de papers.<br>
@@ -171,7 +200,7 @@ Estas herramientas deben utilizarse preferentemente como recursos guiados por el
       <a href="https://labs.google/fx/es" target="_blank" rel="noopener">Flow</a>
     </div>
     <div class="tool-card__desc">
-      Genera vídeos, imágenes e historias visuales con IA a partir de texto o imágenes de referencia.
+      <span lang="es">Genera vídeos e imágenes con textos ficticios o referencias sin personas identificables; no subas rostros ni voces reales.</span><br><span lang="ca-valencia">Genera vídeos i imatges amb textos ficticis o referències sense persones identificables; no puges rostres ni veus reals.</span>
     </div>
     <div class="tool-card__tip">
       <strong>Uso educativo:</strong> storytelling, campañas, vídeos explicativos, narrativa audiovisual y proyectos creativos.<br>
@@ -199,7 +228,7 @@ Estas herramientas deben utilizarse preferentemente como recursos guiados por el
       <a href="https://labs.google/projectgenie" target="_blank" rel="noopener">Project Genie</a>
     </div>
     <div class="tool-card__desc">
-      Crea y explora mundos interactivos a partir de texto o imágenes.
+      <span lang="es">Crea mundos a partir de texto ficticio o imágenes sin personas ni ubicaciones privadas identificables.</span><br><span lang="ca-valencia">Crea mons a partir de text fictici o imatges sense persones ni ubicacions privades identificables.</span>
     </div>
     <div class="tool-card__tip">
       <strong>Uso educativo:</strong> simulación, videojuegos, narrativa, diseño de mundos, tecnología y creatividad.<br>
@@ -250,7 +279,7 @@ Adaptar la actividad al lenguaje oral, sensorial y emocional de la etapa.
 
 Ayuda a aprender a describir imágenes con precisión.
 
-**Actividad:** Describir una imagen con frases cada vez más detalladas y comprobar cómo cambia el resultado.
+**Actividad:** <span lang="es">Describir una imagen ficticia o sin personas identificables; no subir fotografías del alumnado.</span><br><span lang="ca-valencia">Descriure una imatge fictícia o sense persones identificables; no pujar fotografies de l’alumnat.</span>
 
 **Áreas:** Lengua · Inglés · Plástica · Competencia digital.
 
@@ -302,7 +331,7 @@ Genera recetas creativas de fusión.
 
 <div class="callout callout--alerta" role="note">
 <div class="callout__titulo">⚠️ Precaución</div>
-Revisar alérgenos, seguridad alimentaria y adecuación cultural.
+<span lang="es">Revisar alérgenos, seguridad alimentaria y adecuación cultural con casos ficticios, sin comunicar alergias ni datos de salud individuales.</span><br><span lang="ca-valencia">Revisar al·lèrgens, seguretat alimentària i adequació cultural amb casos ficticis, sense comunicar al·lèrgies ni dades de salut individuals.</span>
 </div>
 
 ---
@@ -347,7 +376,7 @@ Trabajar derechos de autor, sesgos, veracidad y transparencia sobre el uso de IA
 
 Transforma descripciones en diseños de interfaz.
 
-**Actividad:** Diseñar la pantalla inicial de una app para un negocio, servicio o proyecto profesional.
+**Actividad:** <span lang="es">Diseñar la pantalla de una app para un negocio ficticio, con formularios de prueba sin contactos ni credenciales reales.</span><br><span lang="ca-valencia">Dissenyar la pantalla d’una app per a un negoci fictici, amb formularis de prova sense contactes ni credencials reals.</span>
 
 **Familias profesionales:** Informática · Comercio y Marketing · Administración · Imagen y Sonido · Diseño.
 
@@ -370,7 +399,7 @@ Puede aplicarse a contextos profesionales de cocina, hostelería, nutrición o t
 
 <div class="callout callout--alerta" role="note">
 <div class="callout__titulo">⚠️ Precaución</div>
-Verificar alérgenos, costes, seguridad alimentaria y normativa vigente.
+<span lang="es">Verificar alérgenos, costes y normativa con una ficha ficticia, sin datos de clientes, pacientes ni alumnado.</span><br><span lang="ca-valencia">Verificar al·lèrgens, costos i normativa amb una fitxa fictícia, sense dades de clients, pacients ni alumnat.</span>
 </div>
 
 ---
@@ -458,6 +487,18 @@ Presentarlo como tecnología emergente, no como herramienta estable de aula.
 
 ### Evalúa un experimento de Google Labs para tu aula
 
+<div lang="es" markdown="1">
+
+Utiliza únicamente información ficticia, pública sin datos personales o debidamente anonimizada. No incluyas datos personales del alumnado ni de otras personas. No adjuntes trabajos, informes internos, audios o fotografías identificables. Revisa permisos y evita compartir enlaces de acceso privado en la ficha.
+
+</div>
+
+<div lang="ca-valencia" markdown="1">
+
+Utilitza únicament informació fictícia, pública sense dades personals o degudament anonimitzada. No inclogues dades personals de l'alumnat ni d'altres persones. No adjuntes treballs, informes interns, àudios o fotografies identificables. Revisa permisos i evita compartir enllaços d’accés privat en la fitxa.
+
+</div>
+
 <div class="callout callout--practica" role="note">
 <div class="callout__titulo">✅ Actividad</div>
 <ul>
@@ -488,7 +529,7 @@ Presentarlo como tecnología emergente, no como herramienta estable de aula.
 Antes de usar cualquier experimento, el profesorado debe comprobar:
 
 - Si está disponible en su país.
-- Si requiere cuenta personal o institucional.
+- <span lang="es">Qué cuenta requiere; que admita una cuenta educativa no lo convierte en un servicio autorizado GVA.</span><br><span lang="ca-valencia">Quin compte requerix; que admeta un compte educatiu no el convertix en un servici autoritzat GVA.</span>
 - Si tiene restricciones de edad.
 - Si permite uso educativo.
 - Si recoge datos, imágenes, voz o información del usuario.

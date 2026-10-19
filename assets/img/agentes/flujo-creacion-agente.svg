@@ -35,7 +35,8 @@
     <text x="548" y="105" text-anchor="middle" font-size="16" font-weight="bold" fill="white">3</text>
     <text x="548" y="130" text-anchor="middle" font-size="15" font-weight="bold" fill="#1B5E20">Añadir</text>
     <text x="548" y="149" text-anchor="middle" font-size="13" fill="#1B5E20">conocimiento</text>
-    <text x="548" y="170" text-anchor="middle" font-size="12" fill="#555">Documentos</text>
+    <text x="548" y="166" text-anchor="middle" font-size="10" fill="#555" lang="es">Fuentes sin datos personales</text>
+    <text x="548" y="179" text-anchor="middle" font-size="10" fill="#555" lang="ca-valencia">Fonts sense dades personals</text>
 
     <!-- Flecha 3→4 -->
     <line x1="641" y1="126" x2="666" y2="126" stroke="#4a90d9" stroke-width="2.5"/>
@@ -47,7 +48,8 @@
     <text x="761" y="105" text-anchor="middle" font-size="16" font-weight="bold" fill="white">4</text>
     <text x="761" y="130" text-anchor="middle" font-size="15" font-weight="bold" fill="#E65100">Probar</text>
     <text x="761" y="149" text-anchor="middle" font-size="13" fill="#E65100">el agente</text>
-    <text x="761" y="170" text-anchor="middle" font-size="12" fill="#555">Con casos reales</text>
+    <text x="761" y="166" text-anchor="middle" font-size="10" fill="#555" lang="es">Con casos ficticios</text>
+    <text x="761" y="179" text-anchor="middle" font-size="10" fill="#555" lang="ca-valencia">Amb casos ficticis</text>
 
     <!-- Flecha 4→5 -->
     <line x1="854" y1="126" x2="879" y2="126" stroke="#4a90d9" stroke-width="2.5"/>

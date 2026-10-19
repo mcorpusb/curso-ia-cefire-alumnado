@@ -6,12 +6,14 @@
   <g>
     <rect x="250" y="180" width="900" height="90" rx="25" fill="#E3F2FD" stroke="#1976D2" stroke-width="3"/>
     <text x="300" y="240" font-size="38">☑</text>
-    <text x="370" y="240" font-size="38" text-anchor="start">No introducir datos sensibles</text>
+    <text x="370" y="220" font-size="28" text-anchor="start" lang="es">No introducir datos personales</text>
+    <text x="370" y="252" font-size="28" text-anchor="start" lang="ca-valencia">No introduir dades personals</text>
   </g>
   <g>
     <rect x="250" y="290" width="900" height="90" rx="25" fill="#E8F5E9" stroke="#388E3C" stroke-width="3"/>
     <text x="300" y="350" font-size="38">☑</text>
-    <text x="370" y="350" font-size="38" text-anchor="start">Minimizar o anonimizar datos</text>
+    <text x="370" y="330" font-size="28" text-anchor="start" lang="es">Usar ejemplos ficticios o anónimos</text>
+    <text x="370" y="362" font-size="28" text-anchor="start" lang="ca-valencia">Usar exemples ficticis o anònims</text>
   </g>
   <g>
     <rect x="250" y="400" width="900" height="90" rx="25" fill="#FFF3E0" stroke="#F57C00" stroke-width="3"/>

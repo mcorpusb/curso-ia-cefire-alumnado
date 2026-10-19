@@ -77,7 +77,7 @@ Estas son las cinco referencias de trabajo del curso. Elige por la tarea; no nec
   </div>
 </div>
 
-**Gemini Notebook (anteriormente NotebookLM)** es la experiencia especializada de ese ecosistema. Los cuadernos pueden utilizarse y sincronizarse con Gemini; Gemini Notebook mantiene su experiencia propia y funciones específicas para trabajar con fuentes. La disponibilidad depende de la cuenta y del despliegue. Amplía en [Gemini Notebook para docentes]({{ '/bloque2-notebooklm.html' | relative_url }}).
+**Gemini Notebook (anteriormente NotebookLM)** es la experiencia especializada de ese ecosistema. Los cuadernos pueden utilizarse y sincronizarse con Gemini; Gemini Notebook mantiene su experiencia propia y funciones específicas para trabajar con fuentes. La disponibilidad depende de la cuenta y del despliegue. Amplía en [Gemini Notebook para docentes](#herramientas-de-gestión-documental).
 
 ## 🔎 Radar actualizado de herramientas de IA
 {: id="radar" }
@@ -186,7 +186,7 @@ Antes de subir contenido:
 - Revisa las políticas de privacidad, el uso para entrenamiento y los ajustes de actividad. Las condiciones pueden cambiar.
 - Verifica respuestas, fuentes y derechos de imágenes o voces antes de reutilizar los resultados.
 
-Para ampliar: [protección de datos y uso seguro]({{ '/bloque1-seguridad.html' | relative_url }}) y [uso responsable y alfabetización en IA]({{ '/bloque4-alfabetizacion-alumnado.html' | relative_url }}). La configuración de cuentas se desarrolla en la guía de identidad digital enlazada al comienzo.
+Para ampliar: [protección de datos y uso seguro]({{ '/primeros-pasos/identidad-digital.html#privacidad-practicas' | relative_url }}) y [uso responsable y alfabetización en IA]({{ '/modulo-0-que-es-la-ia.html#6-privacidad-responsabilidad-y-marco-legal' | relative_url }}). La configuración de cuentas se desarrolla en la guía de identidad digital enlazada al comienzo.
 
 ## 👩‍🏫 Herramientas y ventajas gratuitas para profesorado
 {: id="ventajas-docentes" }
@@ -268,6 +268,8 @@ Un centro que utiliza Microsoft 365, Teams u Outlook puede estudiar Workspace fo
 **Enlace oficial:** [Información de Gemini for Education](https://edu.google.com/ai/gemini-for-education/).
 
 **Importante:** el acceso depende de la elegibilidad de la institución y de la configuración de sus servicios. No equivale a obtener un plan Google AI de pago con una cuenta personal por ser docente.
+
+Las ventajas de Canva, GitHub Education, Adobe Express, Miro, Brisk, MagicSchool y Diffit descritas a continuación corresponden a cuentas o planes externos NO GVA, salvo que el centro confirme expresamente un servicio institucional habilitado y autorizado. No autorizan datos personales en las prácticas. No conectes extensiones a documentos o correo reales del centro para probarlas.
 
 ### 🎨 Canva Educación
 {: #canva-educacion .no_toc }
@@ -429,7 +431,7 @@ Un centro que utiliza Microsoft 365, Teams u Outlook puede estudiar Workspace fo
 ## 🎓 ¿También eres estudiante o universitario?
 {: id="estudiantes" }
 
-**Una ventaja educativa no es una autorización de uso con datos personales.** Una cuenta universitaria, la verificación docente, una licencia Education o una promoción personal gratuita o premium no convierten el servicio en una herramienta institucional GVA ni implican autorización de la Conselleria de Educación para tratar datos personales en enseñanzas no universitarias. Esto no afirma que una promoción concreta esté prohibida: consulta las instrucciones oficiales aplicables.
+Recuerda: una promoción personal NO GVA no autoriza a tratar datos personales. Mantén la norma de las prácticas del curso.
 
 Algunas plataformas ofrecen planes educativos, descuentos o acceso temporal a funciones premium. Google mantiene una promoción para estudiantes elegibles; comprueba la cuenta requerida, la verificación, la vigencia y las condiciones de renovación antes de solicitarla.
 
