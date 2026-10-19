@@ -74,8 +74,9 @@ La IA pot facilitar moltes tasques docents, però no sempre és la millor ferram
 ---
 
 ## Estructura del curs
+
 | Mòdul | Hores | Contingut |
-|--------|:-----:|-----------|
+| --- | :---: | --- |
 | **Guia didàctica** | 0 h | Punt de partida del curs: orientació general, dades identificatives i accés a la versió corresponent. |
 | **Mòdul/Bloc inicial** | 2 h | Fonaments de la IA generativa, possibilitats, límits, biaixos, privacitat i marc d'ús responsable. |
 | **Bloc 1** · IA Col·laborativa i Gestió GVA | 8 h | Treball conversacional i iteratiu amb IA aplicat a necessitats docents, amb especial atenció a Copilot Chat, la privacitat i el context institucional. |

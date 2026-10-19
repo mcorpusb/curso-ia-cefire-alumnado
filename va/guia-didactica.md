@@ -330,7 +330,7 @@ Es valora especialment:
 
 Per a obtindre la certificació:
 
-- ** Assistir a les sessions síncrones obligatòries ** segons normativa CEFIRE.
+- **Assistir a les sessions síncrones obligatòries** segons normativa CEFIRE.
 - Lliurar les activitats requerides dels blocs.
 - Completar el projecte final «El meu flux docent amb IA».
 - Demostrar aprofitament adequat de l'itinerari.

@@ -74,8 +74,9 @@ La IA puede facilitar muchas tareas docentes, pero no siempre es la mejor herram
 ---
 
 ## Estructura del curso
+
 | Módulo | Horas | Contenido |
-|--------|:-----:|-----------|
+| --- | :---: | --- |
 | **Guía didáctica** | 0 h | Punto de partida del curso: orientación general, datos identificativos y acceso a la versión correspondiente. |
 | **Módulo/Bloque inicial** | 2 h | Fundamentos de la IA generativa, posibilidades, límites, sesgos, privacidad y marco de uso responsable. |
 | **Bloque 1** · IA Colaborativa y Gestión GVA | 8 h | Trabajo conversacional e iterativo con IA aplicado a necesidades docentes, con especial atención a Copilot Chat, la privacidad y el contexto institucional. |
