@@ -24,6 +24,8 @@ Si además de docente estás estudiando en una universidad, algunas plataformas 
 
 **Última revisión: septiembre de 2026.**
 
+**Una ventaja educativa no es una autorización de uso con datos personales.** Una cuenta universitaria, la verificación docente, una licencia Education o una promoción personal gratuita o premium no convierten el servicio en una herramienta institucional GVA ni implican autorización de la Conselleria de Educación para tratar datos personales en enseñanzas no universitarias. Esto no afirma que una promoción concreta esté prohibida: consulta las instrucciones oficiales aplicables.
+
 ---
 
 ## ¿A quién puede interesar esta guía?
@@ -103,6 +105,8 @@ Utiliza la **cuenta personal de Google** en la que quieras activar el plan. No i
 Selecciona la oferta disponible y completa la verificación de SheerID con la dirección de correo de tu centro de educación superior.
 
 ### Paso 4 · Completa solo la acreditación solicitada
+
+La acreditación se entrega únicamente al proceso oficial de verificación, tras revisar sus condiciones; no la adjuntes a un chatbot ni a los materiales de práctica.
 
 Si la verificación inmediata no es suficiente, SheerID puede solicitar información adicional. Sigue las indicaciones que aparezcan en pantalla; la documentación aceptada depende del proceso de verificación y no debe darse por supuesta.
 
@@ -185,10 +189,13 @@ Son situaciones distintas: **ser docente de la GVA**, **disponer de Microsoft 36
 {: id="7--privacidad-una-promoción-no-autoriza-cualquier-uso" }
 
 {: .callout .callout--privacidad }
-**Cuenta gratuita o promocional ≠ entorno institucional autorizado**<br>
-Aunque una cuenta personal incluya funciones avanzadas, eso no significa que puedas introducir datos personales del alumnado, calificaciones, informes, diagnósticos, situaciones familiares, documentación interna, expedientes u otros datos sensibles.
+**IMPORTANTE: No introduzcas datos personales ni información sensible del alumnado, profesorado, familias u otras personas en las herramientas de inteligencia artificial utilizadas en este curso.** Utiliza ejemplos ficticios, información pública o materiales debidamente anonimizados. Comprueba siempre las condiciones del servicio y las instrucciones de tu centro y de la administración educativa.
 
-Utiliza información ficticia o anonimizada y sigue siempre las instrucciones de tu administración y de tu centro. Consulta la [guía de identidad digital y acceso]({{ '/primeros-pasos/identidad-digital' | relative_url }}) y el apartado de [seguridad del Bloque 1]({{ '/bloque1-seguridad' | relative_url }}).
+**GVA y NO GVA:** la cuenta `@edu.gva.es` identifica al profesorado en los servicios corporativos habilitados, según permisos y licencias; no garantiza acceso a toda la IA ni autoriza cualquier tratamiento de datos. Las cuentas personales son externas a GVA y sirven aquí para crear recursos sin datos personales reales. Registrarse con correo GVA, tener una cuenta universitaria o un plan Education, gratuito o de pago no equivale a autorización institucional.
+
+**Anonimizar no es cambiar el nombre.** Iniciales, números de alumno o seudónimos siguen siendo datos personales si permiten reconocer a alguien. Revisa identificadores indirectos (centro, grupo pequeño, edad, fechas o situaciones singulares), metadatos, comentarios, imágenes y enlaces. Si no puedes impedir la reidentificación, sustituye el material por un caso completamente ficticio. Que una información sea pública no autoriza a introducir datos personales en las prácticas.
+
+Revisa cómo preparar archivos de práctica en [Identidad digital y acceso]({{ '/primeros-pasos/identidad-digital.html' | relative_url }}).
 
 ---
 

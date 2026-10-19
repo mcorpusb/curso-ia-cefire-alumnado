@@ -75,9 +75,9 @@ Encontrarás tres tipos de contenido:
 - **Ampliación:** posibilidades que puedes explorar si resultan útiles en tu contexto.
 
 {: .callout .callout--privacidad }
-**Uso seguro durante todo el bloque**  
-En las prácticas no introduzcas nombres reales, calificaciones, diagnósticos, situaciones familiares, actas confidenciales ni documentación interna no autorizada. Utiliza datos ficticios o correctamente anonimizados.  
-**Cuenta institucional ≠ permiso para introducir cualquier dato.**
+**IMPORTANTE: No introduzcas datos personales ni información sensible del alumnado, profesorado, familias u otras personas en las herramientas de inteligencia artificial utilizadas en este curso.** Utiliza ejemplos ficticios, información pública o materiales debidamente anonimizados. Comprueba siempre las condiciones del servicio y las instrucciones de tu centro y de la administración educativa.
+
+**GVA y NO GVA:** la cuenta `@edu.gva.es` identifica al profesorado en los servicios corporativos habilitados, según permisos y licencias; no garantiza acceso a toda la IA ni autoriza cualquier tratamiento de datos. Las cuentas personales son externas a GVA y sirven aquí para crear recursos sin datos personales reales. Registrarse con correo GVA, tener una cuenta universitaria o un plan Education, gratuito o de pago no equivale a autorización institucional.
 
 ---
 
@@ -144,7 +144,7 @@ Ejemplo: necesito preparar una primera actividad para introducir el concepto de 
 
 **¿Qué necesita saber la herramienta para entender tu situación?**
 
-Etapa, nivel, módulo o materia, duración, características relevantes del grupo, conocimientos previos, recursos disponibles…
+Etapa, nivel, módulo o materia, duración, características didácticas generales de un grupo ficticio, conocimientos previos, recursos disponibles…
 
 ### Tarea
 
@@ -256,7 +256,7 @@ La IA puede ayudarte a:
 
 - convertir notas en un primer borrador;
 - ordenar información;
-- resumir documentos autorizados;
+- resumir documentos ficticios o públicos sin datos personales, revisando metadatos y comentarios antes de adjuntarlos;
 - proponer una estructura;
 - transformar un contenido en otro formato.
 
@@ -317,7 +317,7 @@ Si Copilot no está disponible o no resulta adecuado, utiliza otra opción del [
 
 | Criterio | Pregunta útil |
 |:---------|:--------------|
-| **Acceso** | ¿Puedo utilizarla con una cuenta autorizada? |
+| **Acceso** | ¿Qué cuenta tengo activa y está autorizado el servicio para la tarea? Una cuenta educativa no basta. |
 | **Privacidad** | ¿Qué información necesita realmente esta tarea? |
 | **Tarea** | ¿Necesito conversar, transformar, trabajar con documentos o investigar? |
 | **Fuentes** | ¿Podré comprobar la información importante? |
@@ -385,7 +385,7 @@ Criterios:
 
 ### Comunicaciones profesionales
 
-También puede ayudarte a preparar borradores de mensajes.
+También puede ayudarte a preparar borradores de mensajes. No copies correos reales ni conversaciones con familias: inventa el caso y deja los destinatarios en blanco.
 
 **Ejemplo:**
 
@@ -492,7 +492,7 @@ Después:
 - realiza al menos una iteración;
 - modifica personalmente el resultado.
 
-Conserva un pequeño ejemplo de la interacción para explicar después cómo trabajaste.
+Conserva un pequeño ejemplo de la interacción para explicar después cómo trabajaste. Revisa que las capturas no muestren correo, avatar, enlaces privados ni códigos de acceso.
 
 ---
 

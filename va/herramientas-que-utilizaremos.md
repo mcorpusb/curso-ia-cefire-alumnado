@@ -28,19 +28,24 @@ No depenguem d'una única plataforma. Triem cada eina segons la tasca, la privac
 ## 🔐 Abans de començar: comptes i accés
 {: id="comptes-i-acces" }
 
-### 🏫 Cuenta institucional (GVA)
+### 🏫 Compte institucional (GVA)
 {: .no_toc }
 
-La compte educativa pot donar accés a Microsoft 365, Copilot i altres serveis habilitats per l'administració. Amb `@edu.gva.es`, comprova quines aplicacions estan disponibles i quines condicions d'ús establix la teua organització.
+El compte GVA és el nostre compte institucional docent. Ens permet accedir als servicis corporatius habilitats per la Generalitat Valenciana, segons els permisos i les llicències disponibles. Abans d'utilitzar ferramentes d'intel·ligència artificial, hem de comprovar que el servici i el tractament de la informació estiguen autoritzats.
 
-Abans d'utilitzar les eines, revisa com protegir la teua identitat i configurar les teues comptes a [Identitat digital i accés]({{ '/primeros-pasos/identidad-digital.html' | relative_url }}).
+Amb `@edu.gva.es`, comprova Microsoft 365 i Copilot Chat en l'entorn corporatiu: no totes les funcions estan habilitades ni tota la IA està inclosa. El compte institucional no autoritza automàticament a introduir dades personals.
 
-### 👤 Cuentas personales (NO GVA, PARA CREAR RECURSOS)
+Abans d'utilitzar les ferramentes, revisa [Identitat digital i accés]({{ '/va/identidad-digital.html' | relative_url }}).
+
+### 👤 Comptes personals (NO GVA, PER A CREAR RECURSOS)
 {: .no_toc }
 
-Algunes activitats poden utilitzar comptes propis d'OpenAI, Google, Canva, Kimi o altres plataformes. Crea-la només quan la necessites i revisa els requisits d'edat i ús de cada servei. Una compte personal o universitària no té necessàriament les mateixes proteccions que la compte docent institucional.
+Els comptes personals (NO GVA) es poden utilitzar per a explorar ferramentes d'intel·ligència artificial i crear recursos educatius amb continguts ficticis, públics o degudament anonimitzats. No formen part automàticament de l'entorn institucional autoritzat per la Conselleria d'Educació i no s'han d'utilitzar per a introduir dades personals reals.
 
-**Des de la primera activitat:** treballa amb exemples ficticis o documents anonimitzats; no introduïs dades personals ni informació sensible de l'alumnat en serveis no autoritzats.
+Utilitza'ls, quan siga procedent i d'acord amb les normes del centre, per a preparar explicacions, activitats, qüestionaris, imatges o presentacions. Crea un compte només si el necessites i revisa les condicions. Registrar-se en una plataforma externa amb correu GVA no la convertix en un servici corporatiu; tampoc ho fan un compte universitari, una llicència Education ni un pla gratuït o de pagament.
+
+{: .callout .callout--privacidad }
+**IMPORTANT: No introduïsques dades personals ni informació sensible de l'alumnat, del professorat, de les famílies o d'altres persones en les ferramentes d'intel·ligència artificial utilitzades en este curs.** Utilitza exemples ficticis, informació pública o materials degudament anonimitzats. Comprova sempre les condicions del servici i les instruccions del teu centre i de l'administració educativa.
 
 ## ⭐ Eines principals del curs
 {: id="eines-principals" }
@@ -50,23 +55,23 @@ Aques són les cinc referències de treball del curs. Tria segons la tasca; no n
 <div class="tool-grid" role="list" aria-label="Eines principals i usos en el curs">
   <div class="tool-card" role="listitem">
     <div class="tool-card__header">Copilot Chat</div>
-    <div class="tool-card__desc">Consultes i treball docent; accés institucional quan estiga habilitat.</div>
+    <div class="tool-card__desc">Consultes i treball docent; GVA si està habilitat, o compte Microsoft personal NO GVA amb altres condicions.</div>
   </div>
   <div class="tool-card" role="listitem">
     <div class="tool-card__header">ChatGPT</div>
-    <div class="tool-card__desc">Conversació, continguts, documents, imatges i tasques multimodals.</div>
+    <div class="tool-card__desc">Compte extern NO GVA; recursos sense dades personals. Conversació, continguts, documents, imatges i tasques multimodals.</div>
   </div>
   <div class="tool-card" role="listitem">
     <div class="tool-card__header">Gemini + Gemini Notebook</div>
-    <div class="tool-card__desc">Ecosistema d'IA de Google: Gemini per a conversa, creació, investigació i treball multimodal; Gemini Notebook per a treballar de manera fonamentada amb fonts, documents i quaderns de coneixement.</div>
+    <div class="tool-card__desc">Compte extern NO GVA; recursos sense dades personals. Ecosistema d'IA de Google: Gemini per a conversa, creació, investigació i treball multimodal; Gemini Notebook per a treballar de manera fonamentada amb fonts, documents i quaderns de coneixement.</div>
   </div>
   <div class="tool-card" role="listitem">
     <div class="tool-card__header">Kimi</div>
-    <div class="tool-card__desc">Investigar, analitzar documents i preparar presentacions.</div>
+    <div class="tool-card__desc">Compte extern NO GVA; recursos sense dades personals. Investigar, analitzar documents i preparar presentacions.</div>
   </div>
   <div class="tool-card" role="listitem">
     <div class="tool-card__header">Canva</div>
-    <div class="tool-card__desc">Dissenyar presentacions, infografies i materials gràfics per a l'aula.</div>
+    <div class="tool-card__desc">Compte extern NO GVA; recursos sense dades personals. Dissenyar presentacions, infografies i materials gràfics per a l'aula.</div>
   </div>
 </div>
 
@@ -86,10 +91,10 @@ En pantalles petites pots desplaçar les taules horitzontalment. Amb teclat, enf
 
 | Eina | Per a què serveix | Accés i compte | A tenir en compte |
 |---|---|---|---|
-| **[Copilot Chat](https://copilot.microsoft.com)** · Microsoft | Xat, cerca, documents i imatges. | Gratuït amb límits. Microsoft personal o institucional. | Amb @edu.gva.es, depèn de la configuració institucional. En personal, revisar ús de dades. |
-| **[ChatGPT](https://chatgpt.com)** · OpenAI | Xat multimodal, imatges i anàlisi de documents. | Gratuït amb límits; pagament amb major capacitat. Compte OpenAI. | Funcions segons pla. Ús per a entrenament desactivable en Controls de dades. |
-| **[Gemini + Gemini Notebook](https://gemini.google.com)** · Google | Assistent general i quaderns fonamentats en fonts. | Gratuït amb límits; plans Google AI. Compte Google. | En personal, revisar activitat. La promoció estudiantil requereix compte personal i elegibilitat. |
-| **[Kimi](https://www.kimi.com)** · Moonshot AI | Xat, documents, presentacions, agents i investigació. | Gratuït amb límits. Compte Kimi; mètodes d'accés segons disponibilitat. | Funcions avançades segons pla. Revisar privacitat abans de pujar documents. |
+| **[Copilot Chat](https://copilot.microsoft.com)** · Microsoft | Xat, cerca, documents i imatges. | Compte Microsoft: institucional GVA només si el servici està habilitat; personal NO GVA amb condicions diferents. | Comprova sessió, llicència i autorització. Cap modalitat permet dades personals reals en les pràctiques. |
+| **[ChatGPT](https://chatgpt.com)** · OpenAI | Xat multimodal, imatges i anàlisi de documents. | Compte OpenAI personal NO GVA; plans gratuïts, de pagament o educatius segons condicions. | Revisa controls de dades i condicions del pla. Un pla Edu no acredita autorització GVA. |
+| **[Gemini + Gemini Notebook](https://gemini.google.com)** · Google | Assistent general i quaderns fonamentats en fonts. | Compte Google personal NO GVA o Workspace gestionat per una institució; accés segons pla i habilitació. | Workspace o una promoció estudiantil no equivalen a autorització GVA. Revisa activitat i condicions. |
+| **[Kimi](https://www.kimi.com)** · Moonshot AI | Xat, documents, presentacions, agents i investigació. | Compte Kimi extern NO GVA; accés i capacitats segons pla i disponibilitat. | Per a investigar i crear amb fonts sense dades personals. Revisa les condicions abans d’adjuntar fitxers. |
 {: .radar-table tabindex="0" aria-labelledby="eines-de-xat-i-assistencia-docent" }
 
 ### 📚 Documents, investigació i fonts
@@ -99,11 +104,11 @@ En pantalles petites pots desplaçar les taules horitzontalment. Amb teclat, enf
 
 | Eina | Ús recomanat | Accés i compte | A tenir en compte |
 |---|---|---|---|
-| **[Gemini Notebook](https://notebooklm.google.com)** · Google | Consultar fonts, sintetitzar i crear materials. | Gratuït amb límits de fonts i consultes. Google personal o Workspace habilitat. | Condicions de dades diferents segons compte; consulta la nota següent. |
-| **[Copilot Pages](https://support.microsoft.com/en-us/microsoft-365-copilot/get-started-with-microsoft-365-copilot-pages)** · Complementària | Convertir respostes en pàgines editables i col·laboratives. | Compte Microsoft; disponibilitat i integració segons compte i llicència. | Revisar permisos en compartir. Protecció segons entorn personal o institucional. |
+| **[Gemini Notebook](https://notebooklm.google.com)** · Google | Consultar fonts, sintetitzar i crear materials. | Google personal NO GVA o Workspace habilitat per l’administrador; límits segons compte. | Revisa condicions de dades i permisos del quadern; un compte educatiu no autoritza per si sol el tractament. |
+| **[Copilot Pages](https://support.microsoft.com/en-us/microsoft-365-copilot/get-started-with-microsoft-365-copilot-pages)** · Complementària | Convertir respostes en pàgines editables i col·laboratives. | Compte Microsoft; accés institucional només si està habilitat, o personal segons disponibilitat. | Comprova entorn i permisos de lectura i edició; no compartisques dades personals ni enllaços a documents interns. |
 {: .radar-table tabindex="0" aria-labelledby="eines-de-gestio-documental" }
 
-**Privacitat de Gemini Notebook:** Google indica que les dades no es fan servir per a entrenar Gemini Notebook llevat que s'enviïn comentaris per a millorar el servei; aquests poden permetre revisar el context, inclosos els fitxers. En comptes Workspace i Education s'apliquen proteccions específiques. Consulta la [documentació oficial sobre comptes i dades](https://support.google.com/gemininotebook/answer/16164461?hl=es) abans de carregar fonts.
+**Privacitat de Gemini Notebook:** consulta les condicions que corresponguen al teu compte personal, Workspace o Education en la [documentació oficial sobre comptes i dades](https://support.google.com/gemininotebook/answer/16164461?hl=es), inclosos els comentaris que envies al proveïdor i els permisos de les fonts compartides. No atribuïsques les mateixes condicions a tots els comptes. En les pràctiques, carrega només materials sense dades personals.
 
 ### 🎨 Imatge i disseny
 {: id="eines-de-creacio-visual-i-presentacions" }
@@ -112,20 +117,20 @@ En pantalles petites pots desplaçar les taules horitzontalment. Amb teclat, enf
 
 | Eina | Ús recomanat | Accés i compte | A tenir en compte |
 |---|---|---|---|
-| **[Canva](https://www.canva.com/education/)** | Presentacions, infografies, imatges i vídeos. | Compte Canva. Pla gratuït; Education per a docents i centres elegibles verificats. | Les funcions d'IA depenen del pla. La protecció educativa no equival a autorització institucional automàtica. |
-| **[Adobe Firefly](https://firefly.adobe.com)** · Complementària | Generar imatges per a materials didàctics. | Compte Adobe. Accés gratuït amb crèdits limitats; plans de pagament. | Revisar condicions del model utilitzat, drets d'ús i requisits d'edat. |
+| **[Canva](https://www.canva.com/education/)** | Presentacions, infografies, imatges i vídeos. | Compte Canva extern NO GVA; pla gratuït, de pagament o Education per a persones o centres elegibles. | Education no equival a autorització GVA. Crea amb textos i imatges sense persones identificables. |
+| **[Adobe Firefly](https://firefly.adobe.com)** · Complementària | Generar imatges per a materials didàctics. | Compte Adobe extern NO GVA; funcions, crèdits i models segons pla. | Revisa condicions del model i drets d’ús; no carregues fotografies de persones identificables. |
 {: .radar-table tabindex="0" aria-labelledby="eines-de-creacio-visual-i-presentacions" }
 
-Canva Education està dirigit a educació escolar —primària i secundària, segons els seus criteris d'elegibilitat— i inclou compromisos específics sobre dades de l'alumnat. En Firefly, no atribueixis les mateixes condicions d'entrenament a tots els models: comprova si utilitzes un model d'Adobe o d'un altre proveïdor.
+Canva Education està dirigit a educació escolar —primària i secundària, segons els seus criteris d’elegibilitat—; revisa les condicions de dades del teu pla sense assumir autorització GVA. En Firefly, no atribueixis les mateixes condicions d'entrenament a tots els models: comprova si utilitzes un model d'Adobe o d'un altre proveïdor.
 
 ### 🔊 Àudio i veu
 {: id="eines-daudio-i-veu" }
 
-**Opcions complementàries.** Comença per la lectura de respostes o per la teua pròpia narració si cobreixen l'activitat.
+**Opcions complementàries.** Comença per la lectura de respostes amb veus sintètiques de catàleg o per una narració gravada i editada localment, sense pujar veus identificables a la IA.
 
 | Eina | Ús recomanat | Accés i compte | A tenir en compte |
 |---|---|---|---|
-| **[ElevenLabs](https://elevenlabs.io)** | Síntesi de veu, narració i funcions de clonació. | Compte ElevenLabs. Gratuït amb límits; funcions segons pla. | La clonació requereix consentiment. Revisar drets d'ús i tractament de gravacions. |
+| **[ElevenLabs](https://elevenlabs.io)** | Síntesi de veu, narració i funcions de clonació. | Compte ElevenLabs extern NO GVA; funcions i límits segons pla. | En el curs utilitza text fictici i veus sintètiques de catàleg; no puges gravacions identificables ni clones veus reals. |
 | **Copilot / Gemini** | Escoltar respostes mitjançant lectura en veu alta. | Veure comptes en el radar de xat. Disponibilitat segons servei. | Funció bàsica de narració; no equival a una eina de clonació. |
 {: .radar-table tabindex="0" aria-labelledby="eines-daudio-i-veu" }
 
@@ -136,11 +141,11 @@ Canva Education està dirigit a educació escolar —primària i secundària, se
 
 | Eina | Ús recomanat | Accés i compte | A tenir en compte |
 |---|---|---|---|
-| **[HeyGen](https://www.heygen.com)** | Vídeos amb avatar i traducció audiovisual. | Compte HeyGen. Pla gratuït limitat; pagament per a ampliar capacitat. | Duració, avatars i exportació segons pla. Consentiment per a utilitzar imatge o veu alienes. |
-| **[Synthesia](https://www.synthesia.io)** | Vídeos didàctics amb presentador virtual. | Compte Synthesia. Modalitat gratuïta limitada i plans de pagament. | Revisar minuts, descàrrega i avatars inclosos; mateixes precaucions amb imatge i veu. |
+| **[HeyGen](https://www.heygen.com)** | Vídeos amb avatar i traducció audiovisual. | Compte HeyGen extern NO GVA; funcions i límits segons pla. | Utilitza guions ficticis i avatars de catàleg. No puges rostres, vídeos o veus identificables. |
+| **[Synthesia](https://www.synthesia.io)** | Vídeos didàctics amb presentador virtual. | Compte Synthesia extern NO GVA; funcions, minuts i exportació segons pla. | Utilitza avatars de catàleg i textos sense dades personals; no crees avatars a partir de persones reals en les pràctiques. |
 {: .radar-table tabindex="0" aria-labelledby="eines-de-video-amb-avatar-ia" }
 
-Abans d'escollir un pla de vídeo, considera si una presentació de Canva narrada per tu o un àudio d'ElevenLabs permet assolir el mateix objectiu pedagògic.
+Abans d'escollir un pla de vídeo, considera si una presentació narrada localment, sense pujar la veu a la IA, o un àudio d’ElevenLabs amb veu sintètica de catàleg permet assolir el mateix objectiu pedagògic.
 
 ### 🧪 Eines experimentals o emergents
 {: id="eines-experimentals-i-de-laboratori" }
@@ -149,8 +154,8 @@ Abans d'escollir un pla de vídeo, considera si una presentació de Canva narrad
 
 | Eina | Què explorar | Accés i compte | A tenir en compte |
 |---|---|---|---|
-| **[Google Labs](https://labs.google)** | Experiments d'IA i noves formes de crear. | Requisits i gratuïtat segons experiment. | Possibles llistes d'espera i restriccions regionals. |
-| **[Gemini en Classroom](https://edu.google.com/ai/gemini-for-education/)** | IA integrada en tasques educatives. | Google Workspace for Education; funcions segons edició i habilitació. | Servei educatiu en evolució. No equival a Gemini amb compte personal. |
+| **[Google Labs](https://labs.google)** | Experiments d'IA i noves formes de crear. | Servici extern NO GVA; compte Google, edat, regió i disponibilitat segons experiment. | Revisa les condicions de cada experiment; no és un servici GVA perquè permeta un correu educatiu. |
+| **[Gemini en Classroom](https://edu.google.com/ai/gemini-for-education/)** | IA integrada en tasques educatives. | Google Workspace for Education gestionat per la institució; funcions segons edició i habilitació. | No és automàticament un servici institucional GVA ni equival a Gemini personal. Verifica autorització i compte. |
 {: .radar-table tabindex="0" aria-labelledby="eines-experimentals-i-de-laboratori" }
 
 Les ampliacions de capacitat de Gemini Notebook es consulten a la secció de documents: no són un experiment de Google Labs.
@@ -160,7 +165,7 @@ Les ampliacions de capacitat de Gemini Notebook es consulten a la secció de doc
 
 **En el curs treballem amb Copilot Chat quan estiga disponible.** La compte `@edu.gva.es` permet identificar-te en l'entorn corporatiu, però no garanteix per si sola que totes les funcions d'IA estiguen habilitades.
 
-- **Copilot Chat institucional:** comprova amb el teu compte quines funcions de xat, cerca, fitxers, imatges o pàgines col·laboratives permet la teua organització. La seua protecció corporativa i els permisos d'accés es regeixen per eixe entorn.
+- **Copilot Chat institucional:** comprova amb el teu compte quines funcions de xat, cerca, fitxers, imatges o pàgines col·laboratives permet la teua organització. Les condicions corporatives depenen del servici, la llicència i la configuració. Confirma l’autorització per a la tasca; una insígnia de protecció no permet introduir qualsevol dada.
 - **[Microsoft 365 Copilot](https://www.microsoft.com/es-es/microsoft-365/copilot/copilot-for-work):** integració d'IA en Word, Excel, PowerPoint, Outlook i Teams. Requereix la llicència corresponent; no ho donis per inclòs en la teua compte GVA. Consulta el responsable TIC —tecnologies de la informació i la comunicació— del centre.
 - **Compte personal:** utilitza les condicions i ajustos de la versió de consum. No trasllades a ella les garanties de l'entorn institucional.
 
@@ -169,9 +174,11 @@ No confongues els dos productes per compartir el nom Copilot. Si el servei insti
 ## 🔐 Privacitat i ús responsable
 {: id="privacitat-i-us-responsable" }
 
-La compte importa tant com l'eina. Abans de pujar contingut:
+El compte importa tant com la ferramenta. **Anonimitzar no és canviar el nom.** Inicials, números d'alumne o pseudònims continuen sent dades personals si permeten reconéixer algú. Revisa identificadors indirectes (centre, grup reduït, edat, dates o situacions singulars), metadades, comentaris, imatges i enllaços. Si no pots impedir la reidentificació, substituïx el material per un cas completament fictici. Que una informació siga pública no autoritza a introduir dades personals en les pràctiques.
 
-- No introduïs dades personals de l'alumnat en serveis no autoritzats.
+Abans de pujar contingut:
+
+- No introduïsques dades personals reals de cap persona en les pràctiques, també quan utilitzes un compte institucional.
 - Anonimitza documents i elimina informació sensible; si no pots fer-ho de manera suficient, no els puges.
 - Utilitza preferentment l'entorn institucional autoritzat per a la tasca i respecta els permisos en compartir.
 - Revisa les polítiques de privacitat, l'ús per a entrenament i els ajustos d'activitat. Les condicions poden canviar.
@@ -181,6 +188,8 @@ Per a ampliar: [protecció de dades i ús segur]({{ '/bloque1-seguridad.html' | 
 
 ## 👩‍🏫 Eines i avantatges gratuïtes per a professorat
 {: id="avantatges-docents" }
+
+**Un avantatge educatiu no és una autorització d'ús amb dades personals.** Un compte universitari, la verificació docent, una llicència Education o una promoció personal gratuïta o prèmium no convertixen el servici en una ferramenta institucional GVA ni impliquen autorització de la Conselleria d'Educació per a tractar dades personals en ensenyaments no universitaris. Això no afirma que una promoció concreta estiga prohibida: consulta les instruccions oficials aplicables.
 
 Ser docent ens pot donar accés a **plans educatius gratuïts, funcions premium o eines específicament dissenyades per al professorat**. Però no totes funcionen igual:
 
@@ -221,24 +230,24 @@ Abans de registrar-nos, convé comprovar els requisits i condicions vigents. **G
 #### Com accedir si eres professor o professora
 {: .no_toc }
 
-1. Comprova si el teu centre ja utilitza Google Workspace for Education.
-2. Consulta amb coordinació TIC i amb l'equip directiu.
-3. Localitza l'administrador de Workspace del centre o de l'organització.
-4. Comprova amb ell si Gemini està habilitat per al teu compte.
-5. Accedeix a [Gemini](https://gemini.google.com) amb el compte educatiu corresponent.
+- Comprova si el teu centre ja utilitza Google Workspace for Education.
+- Consulta amb coordinació TIC i amb l'equip directiu.
+- Localitza l'administrador de Workspace del centre o de l'organització.
+- Comprova amb ell si Gemini està habilitat per al teu compte.
+- Accedeix a [Gemini](https://gemini.google.com) amb el compte educatiu corresponent.
 
 #### Si el teu centre no disposa de Workspace for Education
 {: .no_toc }
 
 Aquests passos corresponen a la persona autoritzada per la institució:
 
-1. Revisar els [requisits oficials d'elegibilitat](https://knowledge.workspace.google.com/admin/getting-started/editions/qualifications-for-google-workspace-for-education?hl=es).
-2. Disposar d'un domini controlat per la institució i d'accés a la seua configuració DNS.
-3. Sol·licitar Education Fundamentals des de la pàgina oficial.
-4. Verificar el domini: Google proporciona un **registre TXT** que l'administrador afegeix al DNS. És una prova de control del domini; per si sola no valida la condició educativa. Consulta la [guia de verificació TXT](https://knowledge.workspace.google.com/admin/domains/verify-your-domain-with-a-txt-record?hl=es).
-5. Completar la validació institucional sol·licitada per Google.
-6. Crear els comptes i configurar-ne els permisos.
-7. Habilitar Gemini i els serveis autoritzats per als usuaris corresponents.
+- Revisar els [requisits oficials d'elegibilitat](https://knowledge.workspace.google.com/admin/getting-started/editions/qualifications-for-google-workspace-for-education?hl=es).
+- Disposar d'un domini controlat per la institució i d'accés a la seua configuració DNS.
+- Sol·licitar Education Fundamentals des de la pàgina oficial.
+- Verificar el domini: Google proporciona un **registre TXT** que l'administrador afegeix al DNS. És una prova de control del domini; per si sola no valida la condició educativa. Consulta la [guia de verificació TXT](https://knowledge.workspace.google.com/admin/domains/verify-your-domain-with-a-txt-record?hl=es).
+- Completar la validació institucional sol·licitada per Google.
+- Crear els comptes i configurar-ne els permisos.
+- Habilitar Gemini i els serveis autoritzats per als usuaris corresponents.
 
 La [guia oficial de preparació](https://support.google.com/edu/setup/answer/6265879?hl=en) permet planificar l'alta amb l'equip tècnic.
 
@@ -269,9 +278,9 @@ Un centre que utilitza Microsoft 365, Teams o Outlook pot estudiar Workspace for
 
 **Com accedir:**
 
-1. **Opció 1 · Correu educatiu reconegut.** Registra't en Canva Educació amb eixe correu; si el domini està verificat, l'accés pot ser directe.
-2. **Opció 2 · Verificació individual.** Si no es reconeix el domini, sol·licita la verificació i aporta la documentació docent que demane Canva.
-3. **Opció 3 · A través del centre.** Si el centre gestiona Canva Educació, utilitza la seua invitació o el seu accés institucional; els centres elegibles també poden sol·licitar-ho.
+- **Opció 1 · Correu educatiu reconegut.** Registra't en Canva Educació amb eixe correu; si el domini està verificat, l'accés pot ser directe.
+- **Opció 2 · Verificació individual.** Si no es reconeix el domini, sol·licita la verificació i aporta la documentació docent que demane Canva.
+- **Opció 3 · A través del centre.** Si el centre gestiona Canva Educació, utilitza la seua invitació o el seu accés institucional; els centres elegibles també poden sol·licitar-ho.
 
 **Enllaç oficial:** [Sol·licitar Canva Educació](https://www.canva.com/education/).
 
@@ -289,11 +298,11 @@ Un centre que utilitza Microsoft 365, Teams o Outlook pot estudiar Workspace for
 
 **Com accedir:**
 
-1. Crea o utilitza el teu compte GitHub.
-2. Entra en GitHub Education i sol·licita la verificació com a docent.
-3. Aporta el correu institucional i els justificants requerits.
-4. Completa la verificació i espera la seua resolució.
-5. Activa Copilot Pro seguint les indicacions del teu compte i comprova que reconeix el benefici gratuït.
+- Crea o utilitza el teu compte GitHub.
+- Entra en GitHub Education i sol·licita la verificació com a docent.
+- Aporta el correu institucional i els justificants requerits.
+- Completa la verificació i espera la seua resolució.
+- Activa Copilot Pro seguint les indicacions del teu compte i comprova que reconeix el benefici gratuït.
 
 **Enllaços oficials:** [Verificar GitHub Education](https://github.com/education/teachers) i [activar Copilot per a professorat verificat](https://docs.github.com/es/copilot/how-tos/copilot-on-github/set-up-copilot/enable-copilot/set-up-for-teachers-and-os-maintainers).
 
@@ -310,9 +319,9 @@ Un centre que utilitza Microsoft 365, Teams o Outlook pot estudiar Workspace for
 
 **Com accedir:**
 
-1. Comprova amb l'administrador quina llicència té assignada la teua compte.
-2. Confirma que Copilot Chat està habilitat.
-3. Inicia la sessió amb la compte educativa o professional i revisa quines funcions estan disponibles.
+- Comprova amb l'administrador quina llicència té assignada la teua compte.
+- Confirma que Copilot Chat està habilitat.
+- Inicia la sessió amb la compte educativa o professional i revisa quines funcions estan disponibles.
 
 **Enllaços oficials:** [Accedir a Copilot](https://m365.cloud.microsoft/chat) i [Copilot en educació: serveis i llicències](https://www.microsoft.com/en-us/education/products/copilot-in-education).
 
@@ -329,10 +338,10 @@ Un centre que utilitza Microsoft 365, Teams o Outlook pot estudiar Workspace for
 
 **Com accedir:**
 
-1. Consulta si el teu centre ja ofereix Adobe Express for Education.
-2. Utilitza l'accés institucional o la via per a docents que mostre la pàgina educativa oficial.
-3. Completa la verificació o inicia la sessió amb la compte escolar administrada.
-4. Comprova que estàs en l'entorn educatiu abans de crear o compartir materials.
+- Consulta si el teu centre ja ofereix Adobe Express for Education.
+- Utilitza l'accés institucional o la via per a docents que mostre la pàgina educativa oficial.
+- Completa la verificació o inicia la sessió amb la compte escolar administrada.
+- Comprova que estàs en l'entorn educatiu abans de crear o compartir materials.
 
 **Enllaç oficial:** [Accedir a Adobe Express for Education](https://www.adobe.com/education/express/).
 
@@ -349,10 +358,10 @@ Un centre que utilitza Microsoft 365, Teams o Outlook pot estudiar Workspace for
 
 **Com accedir:**
 
-1. Revisa els requisits de la institució en la documentació oficial.
-2. Completa la sol·licitud educativa amb les teues dades i l'acreditació requerida.
-3. Espera la validació i accedeix a l'equip Education concedit.
-4. Comprova que treballes en eixe equip, especialment si ja en tenies un Free.
+- Revisa els requisits de la institució en la documentació oficial.
+- Completa la sol·licitud educativa amb les teues dades i l'acreditació requerida.
+- Espera la validació i accedeix a l'equip Education concedit.
+- Comprova que treballes en eixe equip, especialment si ja en tenies un Free.
 
 **Enllaços oficials:** [Sol·licitar Miro Education](https://miro.com/education-whiteboard/) i [requisits i límits de Education](https://help.miro.com/hc/en-us/articles/360017730473-Education-plan).
 
@@ -369,9 +378,9 @@ Un centre que utilitza Microsoft 365, Teams o Outlook pot estudiar Workspace for
 
 **Com accedir:**
 
-1. Entra en la web oficial i selecciona el pla gratuït per a educadors.
-2. Registra't i instal·la l'extensió si la funció que vas a utilitzar la requereix.
-3. Revisa els permisos i prova una activitat amb contingut fictici o públic.
+- Entra en la web oficial i selecciona el pla gratuït per a educadors.
+- Registra't i instal·la l'extensió si la funció que vas a utilitzar la requereix.
+- Revisa els permisos i prova una activitat amb contingut fictici o públic.
 
 **Enllaç oficial:** [Consultar el pla gratuït de Brisk](https://www.briskteaching.com/plans).
 
@@ -388,9 +397,9 @@ Un centre que utilitza Microsoft 365, Teams o Outlook pot estudiar Workspace for
 
 **Com accedir:**
 
-1. Accedeix a la web oficial i crea una compte docent.
-2. Selecciona o conserva el pla Free.
-3. Tria una eina docent i comprova els límits que apareixen en la teua compte.
+- Accedeix a la web oficial i crea una compte docent.
+- Selecciona o conserva el pla Free.
+- Tria una eina docent i comprova els límits que apareixen en la teua compte.
 
 **Enllaç oficial:** [Consultar MagicSchool Free i altres plans](https://www.magicschool.ai/pricing).
 
@@ -407,16 +416,18 @@ Un centre que utilitza Microsoft 365, Teams o Outlook pot estudiar Workspace for
 
 **Com accedir:**
 
-1. Registra't des de la web oficial de Diffit.
-2. Comprova el pla de la teua compte i les funcions disponibles en Basic.
-3. Aporta un tema o text autoritzat i revisa el nivell i la qualitat del recurs generat.
+- Registra't des de la web oficial de Diffit.
+- Comprova el pla de la teua compte i les funcions disponibles en Basic.
+- Aporta un tema o text autoritzat i revisa el nivell i la qualitat del recurs generat.
 
 **Enllaç oficial:** [Consultar Diffit Basic i els plans educatius](https://web.diffit.me/plans).
 
 **Important:** les funcions premium o institucionals poden requerir pagament. Una prova temporal de funcions superiors no converteix eixes funcions en part permanent del pla Basic.
 
-## 🎓 També eres estudiant o universitari?
+## 🎓 També eres estudiant universitari?
 {: id="estudiants" }
+
+**Un avantatge educatiu no és una autorització d'ús amb dades personals.** Un compte universitari, la verificació docent, una llicència Education o una promoció personal gratuïta o prèmium no convertixen el servici en una ferramenta institucional GVA ni impliquen autorització de la Conselleria d'Educació per a tractar dades personals en ensenyaments no universitaris. Això no afirma que una promoció concreta estiga prohibida: consulta les instruccions oficials aplicables.
 
 Algunes plataformes ofereixen plans educatius, descomptes o accés temporal a funcions premium. Google manté una promoció per a estudiants elegibles; comprova la compte requerida, la verificació, la vigència i les condicions de renovació abans de sol·licitar-la.
 

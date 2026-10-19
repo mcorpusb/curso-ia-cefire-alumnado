@@ -22,6 +22,8 @@ Si a més de docent estàs estudiant en una universitat, algunes plataformes ofe
 
 **Última revisió: setembre de 2026.**
 
+**Un avantatge educatiu no és una autorització d'ús amb dades personals.** Un compte universitari, la verificació docent, una llicència Education o una promoció personal gratuïta o prèmium no convertixen el servici en una ferramenta institucional GVA ni impliquen autorització de la Conselleria d'Educació per a tractar dades personals en ensenyaments no universitaris. Això no afirma que una promoció concreta estiga prohibida: consulta les instruccions oficials aplicables.
+
 ---
 
 ## A qui pot interessar esta guia?
@@ -101,6 +103,8 @@ Utilitza la **compte personal de Google** en la qual vulgues activar el pla. No 
 Selecciona l'oferta disponible i completa la verificació de SheerID amb l'adreça de correu del teu centre d'educació superior.
 
 ### Pas 4 · Completa només l'acreditació sol·licitada
+
+L'acreditació s'entrega únicament al procés oficial de verificació, després de revisar-ne les condicions; no l'adjuntes a un chatbot ni als materials de pràctica.
 
 Si la verificació immediata no és suficient, SheerID pot sol·licitar informació addicional. Segueix les indicacions que apareguen a la pantalla; la documentació acceptada depèn del procés de verificació i no s'ha de donar per suposada.
 
@@ -183,10 +187,13 @@ Són situacions diferents: **ser docent de la GVA**, **disposar de Microsoft 365
 {: id="7--privacitat-una-promocio-no-autoritza-cap-ús" }
 
 {: .callout .callout--privacidad }
-**Compte gratuïta o promocional ≠ entorn institucional autoritzat**<br>
-Encara que una compte personal incloga funcions avançades, això no significa que pugues introduir dades personals de l'alumnat, qualificacions, informes, diagnòstics, situacions familiars, documentació interna, expedients o altres dades sensibles.
+**IMPORTANT: No introduïsques dades personals ni informació sensible de l'alumnat, del professorat, de les famílies o d'altres persones en les ferramentes d'intel·ligència artificial utilitzades en este curs.** Utilitza exemples ficticis, informació pública o materials degudament anonimitzats. Comprova sempre les condicions del servici i les instruccions del teu centre i de l'administració educativa.
 
-Utilitza informació fictícia o anonimitzada i segueix sempre les instruccions de la teua administració i del teu centre. Consulta la [guia d'identitat digital i accés]({{ '/primeros-pasos/identidad-digital' | relative_url }}) i l'apartat de [seguretat del Bloc 1]({{ '/bloque1-seguridad' | relative_url }}).
+**GVA i NO GVA:** el compte `@edu.gva.es` identifica el professorat en els servicis corporatius habilitats, segons permisos i llicències; no garantix accés a tota la IA ni autoritza qualsevol tractament de dades. Els comptes personals són externs a GVA i servixen ací per a crear recursos sense dades personals reals. Registrar-se amb correu GVA, tindre un compte universitari o un pla Education, gratuït o de pagament no equival a autorització institucional.
+
+**Anonimitzar no és canviar el nom.** Inicials, números d'alumne o pseudònims continuen sent dades personals si permeten reconéixer algú. Revisa identificadors indirectes (centre, grup reduït, edat, dates o situacions singulars), metadades, comentaris, imatges i enllaços. Si no pots impedir la reidentificació, substituïx el material per un cas completament fictici. Que una informació siga pública no autoritza a introduir dades personals en les pràctiques.
+
+Revisa com preparar fitxers de pràctica en [Identitat digital i accés]({{ '/va/identidad-digital.html' | relative_url }}).
 
 ---
 

@@ -33,16 +33,21 @@ No dependeremos de una única plataforma. Elegiremos cada herramienta según la 
 ### 🏫 Cuenta institucional (GVA)
 {: .no_toc }
 
-La cuenta educativa puede dar acceso a Microsoft 365, Copilot y otros servicios habilitados por la administración. Con `@edu.gva.es`, comprueba qué aplicaciones están disponibles y qué condiciones de uso establece tu organización.
+La cuenta GVA es nuestra cuenta institucional docente. Nos permite acceder a los servicios corporativos habilitados por la Generalitat Valenciana, según los permisos y las licencias disponibles. Antes de utilizar herramientas de inteligencia artificial, debemos comprobar que el servicio y el tratamiento de la información estén autorizados.
 
-Antes de utilizar las herramientas, revisa cómo proteger tu identidad y configurar tus cuentas en [Identidad digital y acceso]({{ '/primeros-pasos/identidad-digital.html' | relative_url }}).
+Con `@edu.gva.es`, comprueba Microsoft 365 y Copilot Chat en el entorno corporativo: no todas las funciones están habilitadas ni toda la IA está incluida. La cuenta institucional no autoriza automáticamente a introducir datos personales.
+
+Antes de utilizar las herramientas, revisa [Identidad digital y acceso]({{ '/primeros-pasos/identidad-digital.html' | relative_url }}).
 
 ### 👤 Cuentas personales (NO GVA, PARA CREAR RECURSOS)
 {: .no_toc }
 
-Algunas actividades pueden utilizar cuentas propias de OpenAI, Google, Canva, Kimi u otras plataformas. Créala solo cuando la necesites y revisa los requisitos de edad y uso de cada servicio. Una cuenta personal o universitaria no tiene necesariamente las mismas protecciones que la cuenta docente institucional.
+Las cuentas personales (NO GVA) pueden utilizarse para explorar herramientas de inteligencia artificial y crear recursos educativos con contenidos ficticios, públicos o debidamente anonimizados. No forman parte automáticamente del entorno institucional autorizado por la Conselleria de Educación y no deben utilizarse para introducir datos personales reales.
 
-**Desde la primera actividad:** trabaja con ejemplos ficticios o documentos anonimizados; no introduzcas datos personales ni información sensible del alumnado en servicios no autorizados.
+Úsalas, cuando proceda y conforme a las normas del centro, para preparar explicaciones, actividades, cuestionarios, imágenes o presentaciones. Crea una cuenta solo si la necesitas y revisa sus condiciones. Registrarse en una plataforma externa con correo GVA no la convierte en un servicio corporativo; tampoco lo hacen una cuenta universitaria, una licencia Education ni un plan gratuito o de pago.
+
+{: .callout .callout--privacidad }
+**IMPORTANTE: No introduzcas datos personales ni información sensible del alumnado, profesorado, familias u otras personas en las herramientas de inteligencia artificial utilizadas en este curso.** Utiliza ejemplos ficticios, información pública o materiales debidamente anonimizados. Comprueba siempre las condiciones del servicio y las instrucciones de tu centro y de la administración educativa.
 
 ## ⭐ Herramientas principales del curso
 {: id="herramientas-principales" }
@@ -52,23 +57,23 @@ Estas son las cinco referencias de trabajo del curso. Elige por la tarea; no nec
 <div class="tool-grid" role="list" aria-label="Herramientas principales y usos en el curso">
   <div class="tool-card" role="listitem">
     <div class="tool-card__header">Copilot Chat</div>
-    <div class="tool-card__desc">Consultas y trabajo docente; acceso institucional cuando esté habilitado.</div>
+    <div class="tool-card__desc">Consultas y trabajo docente; GVA si está habilitado, o cuenta Microsoft personal NO GVA con otras condiciones.</div>
   </div>
   <div class="tool-card" role="listitem">
     <div class="tool-card__header">ChatGPT</div>
-    <div class="tool-card__desc">Conversación, contenidos, documentos, imágenes y tareas multimodales.</div>
+    <div class="tool-card__desc">Cuenta externa NO GVA; recursos sin datos personales. Conversación, contenidos, documentos, imágenes y tareas multimodales.</div>
   </div>
   <div class="tool-card" role="listitem">
     <div class="tool-card__header">Gemini + Gemini Notebook</div>
-    <div class="tool-card__desc">Ecosistema de IA de Google: Gemini para conversación, creación, investigación y trabajo multimodal; Gemini Notebook para trabajar de forma fundamentada con fuentes, documentos y cuadernos de conocimiento.</div>
+    <div class="tool-card__desc">Cuenta externa NO GVA; recursos sin datos personales. Ecosistema de IA de Google: Gemini para conversación, creación, investigación y trabajo multimodal; Gemini Notebook para trabajar de forma fundamentada con fuentes, documentos y cuadernos de conocimiento.</div>
   </div>
   <div class="tool-card" role="listitem">
     <div class="tool-card__header">Kimi</div>
-    <div class="tool-card__desc">Investigar, analizar documentos y preparar presentaciones.</div>
+    <div class="tool-card__desc">Cuenta externa NO GVA; recursos sin datos personales. Investigar, analizar documentos y preparar presentaciones.</div>
   </div>
   <div class="tool-card" role="listitem">
     <div class="tool-card__header">Canva</div>
-    <div class="tool-card__desc">Diseñar presentaciones, infografías y materiales gráficos para el aula.</div>
+    <div class="tool-card__desc">Cuenta externa NO GVA; recursos sin datos personales. Diseñar presentaciones, infografías y materiales gráficos para el aula.</div>
   </div>
 </div>
 
@@ -88,10 +93,10 @@ En pantallas pequeñas puedes desplazar las tablas horizontalmente. Con teclado,
 
 | Herramienta | Para qué sirve | Acceso y cuenta | A tener en cuenta |
 |---|---|---|---|
-| **[Copilot Chat](https://copilot.microsoft.com)** · Microsoft | Chat, búsqueda, documentos e imágenes. | Gratuito con límites. Microsoft personal o institucional. | Con @edu.gva.es, depende de la configuración institucional. En personal, revisar uso de datos. |
-| **[ChatGPT](https://chatgpt.com)** · OpenAI | Chat multimodal, imágenes y análisis de documentos. | Gratuito con límites; pago con mayor capacidad. Cuenta OpenAI. | Funciones según plan. Uso para entrenamiento desactivable en Controles de datos. |
-| **[Gemini + Gemini Notebook](https://gemini.google.com)** · Google | Asistente general y cuadernos fundamentados en fuentes. | Gratuito con límites; planes Google AI. Cuenta Google. | En personal, revisar actividad. La promoción estudiantil requiere cuenta personal y elegibilidad. |
-| **[Kimi](https://www.kimi.com)** · Moonshot AI | Chat, documentos, presentaciones, agentes e investigación. | Gratuito con límites. Cuenta Kimi; métodos de acceso según disponibilidad. | Funciones avanzadas según plan. Revisar privacidad antes de subir documentos. |
+| **[Copilot Chat](https://copilot.microsoft.com)** · Microsoft | Chat, búsqueda, documentos e imágenes. | Cuenta Microsoft: institucional GVA solo si el servicio está habilitado; personal NO GVA con condiciones distintas. | Comprueba sesión, licencia y autorización. Ninguna modalidad permite datos personales reales en las prácticas. |
+| **[ChatGPT](https://chatgpt.com)** · OpenAI | Chat multimodal, imágenes y análisis de documentos. | Cuenta OpenAI personal NO GVA; planes gratuitos, de pago o educativos según condiciones. | Revisa controles de datos y condiciones del plan. Un plan Edu no acredita autorización GVA. |
+| **[Gemini + Gemini Notebook](https://gemini.google.com)** · Google | Asistente general y cuadernos fundamentados en fuentes. | Cuenta Google personal NO GVA o Workspace gestionado por una institución; acceso según plan y habilitación. | Workspace o una promoción estudiantil no equivalen a autorización GVA. Revisa actividad y condiciones. |
+| **[Kimi](https://www.kimi.com)** · Moonshot AI | Chat, documentos, presentaciones, agentes e investigación. | Cuenta Kimi externa NO GVA; acceso y capacidades según plan y disponibilidad. | Para investigar y crear con fuentes sin datos personales. Revisa condiciones antes de adjuntar archivos. |
 {: .radar-table tabindex="0" aria-labelledby="herramientas-de-chat-y-asistencia-docente" }
 
 ### 📚 Documentos, investigación y fuentes
@@ -101,11 +106,11 @@ En pantallas pequeñas puedes desplazar las tablas horizontalmente. Con teclado,
 
 | Herramienta | Uso recomendado | Acceso y cuenta | A tener en cuenta |
 |---|---|---|---|
-| **[Gemini Notebook](https://notebooklm.google.com)** · Google | Consultar fuentes, sintetizar y crear materiales. | Gratuito con límites de fuentes y consultas. Google personal o Workspace habilitado. | Condiciones de datos distintas según cuenta; consulta la nota siguiente. |
-| **[Copilot Pages](https://support.microsoft.com/en-us/microsoft-365-copilot/get-started-with-microsoft-365-copilot-pages)** · Complementaria | Convertir respuestas en páginas editables y colaborativas. | Cuenta Microsoft; disponibilidad e integración según cuenta y licencia. | Revisar permisos al compartir. Protección según entorno personal o institucional. |
+| **[Gemini Notebook](https://notebooklm.google.com)** · Google | Consultar fuentes, sintetizar y crear materiales. | Google personal NO GVA o Workspace habilitado por su administrador; límites según cuenta. | Revisa condiciones de datos y permisos del cuaderno; una cuenta educativa no autoriza por sí sola el tratamiento. |
+| **[Copilot Pages](https://support.microsoft.com/en-us/microsoft-365-copilot/get-started-with-microsoft-365-copilot-pages)** · Complementaria | Convertir respuestas en páginas editables y colaborativas. | Cuenta Microsoft; acceso institucional solo si está habilitado, o personal según disponibilidad. | Comprueba entorno y permisos de lectura y edición; no compartas datos personales ni enlaces a documentos internos. |
 {: .radar-table tabindex="0" aria-labelledby="herramientas-de-gestión-documental" }
 
-**Privacidad de Gemini Notebook:** Google indica que los datos no se usan para entrenar Gemini Notebook salvo que se envíen comentarios para mejorar el servicio; estos pueden permitir revisar el contexto, incluidos los archivos. En cuentas Workspace y Education se aplican protecciones específicas. Consulta la [documentación oficial sobre cuentas y datos](https://support.google.com/gemininotebook/answer/16164461?hl=es) antes de cargar fuentes.
+**Privacidad de Gemini Notebook:** consulta las condiciones que correspondan a tu cuenta personal, Workspace o Education en la [documentación oficial sobre cuentas y datos](https://support.google.com/gemininotebook/answer/16164461?hl=es), incluidos los comentarios que envías al proveedor y los permisos de las fuentes compartidas. No atribuyas las mismas condiciones a todas las cuentas. En las prácticas, carga solo materiales sin datos personales.
 
 ### 🎨 Imagen y diseño
 {: id="herramientas-de-creación-visual-y-presentaciones" }
@@ -114,20 +119,20 @@ En pantallas pequeñas puedes desplazar las tablas horizontalmente. Con teclado,
 
 | Herramienta | Uso recomendado | Acceso y cuenta | A tener en cuenta |
 |---|---|---|---|
-| **[Canva](https://www.canva.com/education/)** | Presentaciones, infografías, imágenes y vídeos. | Cuenta Canva. Plan gratuito; Education para docentes y centros elegibles verificados. | Las funciones de IA dependen del plan. La protección educativa no equivale a autorización institucional automática. |
-| **[Adobe Firefly](https://firefly.adobe.com)** · Complementaria | Generar imágenes para materiales didácticos. | Cuenta Adobe. Acceso gratuito con créditos limitados; planes de pago. | Revisar condiciones del modelo utilizado, derechos de uso y requisitos de edad. |
+| **[Canva](https://www.canva.com/education/)** | Presentaciones, infografías, imágenes y vídeos. | Cuenta Canva externa NO GVA; plan gratuito, de pago o Education para personas o centros elegibles. | Education no equivale a autorización GVA. Crea con textos e imágenes sin personas identificables. |
+| **[Adobe Firefly](https://firefly.adobe.com)** · Complementaria | Generar imágenes para materiales didácticos. | Cuenta Adobe externa NO GVA; funciones, créditos y modelos según plan. | Revisa condiciones del modelo y derechos de uso; no cargues fotografías de personas identificables. |
 {: .radar-table tabindex="0" aria-labelledby="herramientas-de-creación-visual-y-presentaciones" }
 
-Canva Education está dirigido a educación escolar —primaria y secundaria, según sus criterios de elegibilidad— e incluye compromisos específicos sobre datos del alumnado. En Firefly, no atribuyas las mismas condiciones de entrenamiento a todos los modelos: comprueba si utilizas un modelo de Adobe o de otro proveedor.
+Canva Education está dirigido a educación escolar —primaria y secundaria, según sus criterios de elegibilidad—; revisa las condiciones de datos de tu plan sin asumir autorización GVA. En Firefly, no atribuyas las mismas condiciones de entrenamiento a todos los modelos: comprueba si utilizas un modelo de Adobe o de otro proveedor.
 
 ### 🔊 Audio y voz
 {: id="herramientas-de-audio-y-voz" }
 
-**Opciones complementarias.** Empieza por la lectura de respuestas o por tu propia narración si cubren la actividad.
+**Opciones complementarias.** Empieza por la lectura de respuestas con voces sintéticas de catálogo o por una narración grabada y editada localmente, sin subir voces identificables a la IA.
 
 | Herramienta | Uso recomendado | Acceso y cuenta | A tener en cuenta |
 |---|---|---|---|
-| **[ElevenLabs](https://elevenlabs.io)** | Síntesis de voz, narración y funciones de clonación. | Cuenta ElevenLabs. Gratuito con límites; funciones según plan. | La clonación requiere consentimiento. Revisar derechos de uso y tratamiento de grabaciones. |
+| **[ElevenLabs](https://elevenlabs.io)** | Síntesis de voz, narración y funciones de clonación. | Cuenta ElevenLabs externa NO GVA; funciones y límites según plan. | En el curso usa texto ficticio y voces sintéticas de catálogo; no subas grabaciones identificables ni clones voces reales. |
 | **Copilot / Gemini** | Escuchar respuestas mediante lectura en voz alta. | Ver cuentas en el radar de chat. Disponibilidad según servicio. | Función básica de narración; no equivale a una herramienta de clonación. |
 {: .radar-table tabindex="0" aria-labelledby="herramientas-de-audio-y-voz" }
 
@@ -138,11 +143,11 @@ Canva Education está dirigido a educación escolar —primaria y secundaria, se
 
 | Herramienta | Uso recomendado | Acceso y cuenta | A tener en cuenta |
 |---|---|---|---|
-| **[HeyGen](https://www.heygen.com)** | Vídeos con avatar y traducción audiovisual. | Cuenta HeyGen. Plan gratuito limitado; pago para ampliar capacidad. | Duración, avatares y exportación según plan. Consentimiento para usar imagen o voz ajenas. |
-| **[Synthesia](https://www.synthesia.io)** | Vídeos didácticos con presentador virtual. | Cuenta Synthesia. Modalidad gratuita limitada y planes de pago. | Revisar minutos, descarga y avatares incluidos; mismas precauciones con imagen y voz. |
+| **[HeyGen](https://www.heygen.com)** | Vídeos con avatar y traducción audiovisual. | Cuenta HeyGen externa NO GVA; funciones y límites según plan. | Utiliza guiones ficticios y avatares de catálogo. No subas rostros, vídeos o voces identificables. |
+| **[Synthesia](https://www.synthesia.io)** | Vídeos didácticos con presentador virtual. | Cuenta Synthesia externa NO GVA; funciones, minutos y exportación según plan. | Usa avatares de catálogo y textos sin datos personales; no crees avatares a partir de personas reales en las prácticas. |
 {: .radar-table tabindex="0" aria-labelledby="herramientas-de-vídeo-con-avatar-ia" }
 
-Antes de elegir un plan de vídeo, considera si una presentación de Canva narrada por ti o un audio de ElevenLabs permite alcanzar el mismo objetivo pedagógico.
+Antes de elegir un plan de vídeo, considera si una presentación narrada localmente, sin subir la voz a la IA, o un audio de ElevenLabs con voz sintética de catálogo permite alcanzar el mismo objetivo pedagógico.
 
 ### 🧪 Herramientas experimentales o emergentes
 {: id="herramientas-experimentales-y-de-laboratorio" }
@@ -151,8 +156,8 @@ Antes de elegir un plan de vídeo, considera si una presentación de Canva narra
 
 | Herramienta | Qué explorar | Acceso y cuenta | A tener en cuenta |
 |---|---|---|---|
-| **[Google Labs](https://labs.google)** | Experimentos de IA y nuevas formas de crear. | Requisitos y gratuidad según experimento. | Posibles listas de espera y restricciones regionales. |
-| **[Gemini en Classroom](https://edu.google.com/ai/gemini-for-education/)** | IA integrada en tareas educativas. | Google Workspace for Education; funciones según edición y habilitación. | Servicio educativo en evolución. No equivale a Gemini con cuenta personal. |
+| **[Google Labs](https://labs.google)** | Experimentos de IA y nuevas formas de crear. | Servicio externo NO GVA; cuenta Google, edad, región y disponibilidad según experimento. | Revisa las condiciones de cada experimento; no es un servicio GVA por permitir un correo educativo. |
+| **[Gemini en Classroom](https://edu.google.com/ai/gemini-for-education/)** | IA integrada en tareas educativas. | Google Workspace for Education gestionado por la institución; funciones según edición y habilitación. | No es automáticamente un servicio institucional GVA ni equivale a Gemini personal. Verifica autorización y cuenta. |
 {: .radar-table tabindex="0" aria-labelledby="herramientas-experimentales-y-de-laboratorio" }
 
 Las ampliaciones de capacidad de Gemini Notebook se consultan en la sección de documentos: no son un experimento de Google Labs.
@@ -162,7 +167,7 @@ Las ampliaciones de capacidad de Gemini Notebook se consultan en la sección de 
 
 **En el curso trabajamos con Copilot Chat cuando esté disponible.** La cuenta `@edu.gva.es` permite identificarte en el entorno corporativo, pero no garantiza por sí sola que todas las funciones de IA estén habilitadas.
 
-- **Copilot Chat institucional:** comprueba con tu cuenta qué funciones de chat, búsqueda, archivos, imágenes o páginas colaborativas permite tu organización. Su protección corporativa y los permisos de acceso se rigen por ese entorno.
+- **Copilot Chat institucional:** comprueba con tu cuenta qué funciones de chat, búsqueda, archivos, imágenes o páginas colaborativas permite tu organización. Sus condiciones corporativas dependen del servicio, la licencia y la configuración. Confirma la autorización para la tarea; una insignia de protección no permite introducir cualquier dato.
 - **[Microsoft 365 Copilot](https://www.microsoft.com/es-es/microsoft-365/copilot/copilot-for-work):** integración de IA en Word, Excel, PowerPoint, Outlook y Teams. Requiere la licencia correspondiente; no lo des por incluido en tu cuenta GVA. Consulta al responsable TIC —tecnologías de la información y la comunicación— del centro.
 - **Cuenta personal:** utiliza las condiciones y ajustes de la versión de consumo. No traslades a ella las garantías del entorno institucional.
 
@@ -171,9 +176,11 @@ No confundas los dos productos por compartir el nombre Copilot. Si el servicio i
 ## 🔐 Privacidad y uso responsable
 {: id="privacidad-y-uso-responsable" }
 
-La cuenta importa tanto como la herramienta. Antes de subir contenido:
+La cuenta importa tanto como la herramienta. **Anonimizar no es cambiar el nombre.** Iniciales, números de alumno o seudónimos siguen siendo datos personales si permiten reconocer a alguien. Revisa identificadores indirectos (centro, grupo pequeño, edad, fechas o situaciones singulares), metadatos, comentarios, imágenes y enlaces. Si no puedes impedir la reidentificación, sustituye el material por un caso completamente ficticio. Que una información sea pública no autoriza a introducir datos personales en las prácticas.
 
-- No introduzcas datos personales del alumnado en servicios no autorizados.
+Antes de subir contenido:
+
+- No introduzcas datos personales reales de ninguna persona en las prácticas, también cuando uses una cuenta institucional.
 - Anonimiza documentos y elimina información sensible; si no puedes hacerlo de forma suficiente, no los subas.
 - Utiliza preferentemente el entorno institucional autorizado para la tarea y respeta los permisos al compartir.
 - Revisa las políticas de privacidad, el uso para entrenamiento y los ajustes de actividad. Las condiciones pueden cambiar.
@@ -183,6 +190,8 @@ Para ampliar: [protección de datos y uso seguro]({{ '/bloque1-seguridad.html' |
 
 ## 👩‍🏫 Herramientas y ventajas gratuitas para profesorado
 {: id="ventajas-docentes" }
+
+**Una ventaja educativa no es una autorización de uso con datos personales.** Una cuenta universitaria, la verificación docente, una licencia Education o una promoción personal gratuita o premium no convierten el servicio en una herramienta institucional GVA ni implican autorización de la Conselleria de Educación para tratar datos personales en enseñanzas no universitarias. Esto no afirma que una promoción concreta esté prohibida: consulta las instrucciones oficiales aplicables.
 
 Ser docente puede darnos acceso a **planes educativos gratuitos, funciones premium o herramientas específicamente diseñadas para el profesorado**. Pero no todas funcionan igual:
 
@@ -223,24 +232,24 @@ Antes de registrarnos, conviene comprobar los requisitos y condiciones vigentes.
 #### Cómo acceder si eres profesor o profesora
 {: .no_toc }
 
-1. Comprueba si tu centro ya utiliza Google Workspace for Education.
-2. Consulta con coordinación TIC y con el equipo directivo.
-3. Localiza al administrador de Workspace del centro o de la organización.
-4. Comprueba con él si Gemini está habilitado para tu cuenta.
-5. Accede a [Gemini](https://gemini.google.com) con la cuenta educativa correspondiente.
+- Comprueba si tu centro ya utiliza Google Workspace for Education.
+- Consulta con coordinación TIC y con el equipo directivo.
+- Localiza al administrador de Workspace del centro o de la organización.
+- Comprueba con él si Gemini está habilitado para tu cuenta.
+- Accede a [Gemini](https://gemini.google.com) con la cuenta educativa correspondiente.
 
 #### Si tu centro no dispone de Workspace for Education
 {: .no_toc }
 
 Estos pasos corresponden a la persona autorizada por la institución:
 
-1. Revisar los [requisitos oficiales de elegibilidad](https://knowledge.workspace.google.com/admin/getting-started/editions/qualifications-for-google-workspace-for-education?hl=es).
-2. Disponer de un dominio controlado por la institución y de acceso a su configuración DNS.
-3. Solicitar Education Fundamentals desde la página oficial.
-4. Verificar el dominio: Google proporciona un **registro TXT** que el administrador añade al DNS. Es una prueba de control del dominio; por sí sola no valida la condición educativa. Consulta la [guía de verificación TXT](https://knowledge.workspace.google.com/admin/domains/verify-your-domain-with-a-txt-record?hl=es).
-5. Completar la validación institucional solicitada por Google.
-6. Crear las cuentas y configurar sus permisos.
-7. Habilitar Gemini y los servicios autorizados para los usuarios correspondientes.
+- Revisar los [requisitos oficiales de elegibilidad](https://knowledge.workspace.google.com/admin/getting-started/editions/qualifications-for-google-workspace-for-education?hl=es).
+- Disponer de un dominio controlado por la institución y de acceso a su configuración DNS.
+- Solicitar Education Fundamentals desde la página oficial.
+- Verificar el dominio: Google proporciona un **registro TXT** que el administrador añade al DNS. Es una prueba de control del dominio; por sí sola no valida la condición educativa. Consulta la [guía de verificación TXT](https://knowledge.workspace.google.com/admin/domains/verify-your-domain-with-a-txt-record?hl=es).
+- Completar la validación institucional solicitada por Google.
+- Crear las cuentas y configurar sus permisos.
+- Habilitar Gemini y los servicios autorizados para los usuarios correspondientes.
 
 La [guía oficial de preparación](https://support.google.com/edu/setup/answer/6265879?hl=en) permite planificar el alta con el equipo técnico.
 
@@ -271,9 +280,9 @@ Un centro que utiliza Microsoft 365, Teams u Outlook puede estudiar Workspace fo
 
 **Cómo acceder:**
 
-1. **Opción 1 · Correo educativo reconocido.** Regístrate en Canva Educación con ese correo; si el dominio está verificado, el acceso puede ser directo.
-2. **Opción 2 · Verificación individual.** Si no se reconoce el dominio, solicita la verificación y aporta la documentación docente que pida Canva.
-3. **Opción 3 · A través del centro.** Si el centro gestiona Canva Educación, utiliza su invitación o su acceso institucional; los centros elegibles también pueden solicitarlo.
+- **Opción 1 · Correo educativo reconocido.** Regístrate en Canva Educación con ese correo; si el dominio está verificado, el acceso puede ser directo.
+- **Opción 2 · Verificación individual.** Si no se reconoce el dominio, solicita la verificación y aporta la documentación docente que pida Canva.
+- **Opción 3 · A través del centro.** Si el centro gestiona Canva Educación, utiliza su invitación o su acceso institucional; los centros elegibles también pueden solicitarlo.
 
 **Enlace oficial:** [Solicitar Canva Educación](https://www.canva.com/education/).
 
@@ -291,11 +300,11 @@ Un centro que utiliza Microsoft 365, Teams u Outlook puede estudiar Workspace fo
 
 **Cómo acceder:**
 
-1. Crea o utiliza tu cuenta GitHub.
-2. Entra en GitHub Education y solicita la verificación como docente.
-3. Aporta el correo institucional y los justificantes requeridos.
-4. Completa la verificación y espera su resolución.
-5. Activa Copilot Pro siguiendo las indicaciones de tu cuenta y comprueba que reconoce el beneficio gratuito.
+- Crea o utiliza tu cuenta GitHub.
+- Entra en GitHub Education y solicita la verificación como docente.
+- Aporta el correo institucional y los justificantes requeridos.
+- Completa la verificación y espera su resolución.
+- Activa Copilot Pro siguiendo las indicaciones de tu cuenta y comprueba que reconoce el beneficio gratuito.
 
 **Enlaces oficiales:** [Verificar GitHub Education](https://github.com/education/teachers) y [activar Copilot para profesorado verificado](https://docs.github.com/es/copilot/how-tos/copilot-on-github/set-up-copilot/enable-copilot/set-up-for-teachers-and-os-maintainers).
 
@@ -312,9 +321,9 @@ Un centro que utiliza Microsoft 365, Teams u Outlook puede estudiar Workspace fo
 
 **Cómo acceder:**
 
-1. Comprueba con el administrador qué licencia tiene asignada tu cuenta.
-2. Confirma que Copilot Chat está habilitado.
-3. Inicia sesión con la cuenta educativa o profesional y revisa qué funciones están disponibles.
+- Comprueba con el administrador qué licencia tiene asignada tu cuenta.
+- Confirma que Copilot Chat está habilitado.
+- Inicia sesión con la cuenta educativa o profesional y revisa qué funciones están disponibles.
 
 **Enlaces oficiales:** [Acceder a Copilot](https://m365.cloud.microsoft/chat) y [Copilot en educación: servicios y licencias](https://www.microsoft.com/en-us/education/products/copilot-in-education).
 
@@ -331,10 +340,10 @@ Un centro que utiliza Microsoft 365, Teams u Outlook puede estudiar Workspace fo
 
 **Cómo acceder:**
 
-1. Consulta si tu centro ya ofrece Adobe Express for Education.
-2. Utiliza el acceso institucional o la vía para docentes que muestre la página educativa oficial.
-3. Completa la verificación o inicia sesión con la cuenta escolar administrada.
-4. Comprueba que estás en el entorno educativo antes de crear o compartir materiales.
+- Consulta si tu centro ya ofrece Adobe Express for Education.
+- Utiliza el acceso institucional o la vía para docentes que muestre la página educativa oficial.
+- Completa la verificación o inicia sesión con la cuenta escolar administrada.
+- Comprueba que estás en el entorno educativo antes de crear o compartir materiales.
 
 **Enlace oficial:** [Acceder a Adobe Express for Education](https://www.adobe.com/education/express/).
 
@@ -351,10 +360,10 @@ Un centro que utiliza Microsoft 365, Teams u Outlook puede estudiar Workspace fo
 
 **Cómo acceder:**
 
-1. Revisa los requisitos de la institución en la documentación oficial.
-2. Completa la solicitud educativa con tus datos y la acreditación requerida.
-3. Espera la validación y accede al equipo Education concedido.
-4. Comprueba que trabajas en ese equipo, especialmente si ya tenías uno Free.
+- Revisa los requisitos de la institución en la documentación oficial.
+- Completa la solicitud educativa con tus datos y la acreditación requerida.
+- Espera la validación y accede al equipo Education concedido.
+- Comprueba que trabajas en ese equipo, especialmente si ya tenías uno Free.
 
 **Enlaces oficiales:** [Solicitar Miro Education](https://miro.com/education-whiteboard/) y [requisitos y límites de Education](https://help.miro.com/hc/en-us/articles/360017730473-Education-plan).
 
@@ -371,9 +380,9 @@ Un centro que utiliza Microsoft 365, Teams u Outlook puede estudiar Workspace fo
 
 **Cómo acceder:**
 
-1. Entra en la web oficial y selecciona el plan gratuito para educadores.
-2. Regístrate e instala la extensión si la función que vas a utilizar la requiere.
-3. Revisa los permisos y prueba una actividad con contenido ficticio o público.
+- Entra en la web oficial y selecciona el plan gratuito para educadores.
+- Regístrate e instala la extensión si la función que vas a utilizar la requiere.
+- Revisa los permisos y prueba una actividad con contenido ficticio o público.
 
 **Enlace oficial:** [Consultar el plan gratuito de Brisk](https://www.briskteaching.com/plans).
 
@@ -390,9 +399,9 @@ Un centro que utiliza Microsoft 365, Teams u Outlook puede estudiar Workspace fo
 
 **Cómo acceder:**
 
-1. Accede a la web oficial y crea una cuenta docente.
-2. Selecciona o conserva el plan Free.
-3. Elige una herramienta docente y comprueba los límites que aparecen en tu cuenta.
+- Accede a la web oficial y crea una cuenta docente.
+- Selecciona o conserva el plan Free.
+- Elige una herramienta docente y comprueba los límites que aparecen en tu cuenta.
 
 **Enlace oficial:** [Consultar MagicSchool Free y otros planes](https://www.magicschool.ai/pricing).
 
@@ -409,9 +418,9 @@ Un centro que utiliza Microsoft 365, Teams u Outlook puede estudiar Workspace fo
 
 **Cómo acceder:**
 
-1. Regístrate desde la web oficial de Diffit.
-2. Comprueba el plan de tu cuenta y las funciones disponibles en Basic.
-3. Aporta un tema o texto autorizado y revisa el nivel y la calidad del recurso generado.
+- Regístrate desde la web oficial de Diffit.
+- Comprueba el plan de tu cuenta y las funciones disponibles en Basic.
+- Aporta un tema o texto autorizado y revisa el nivel y la calidad del recurso generado.
 
 **Enlace oficial:** [Consultar Diffit Basic y los planes educativos](https://web.diffit.me/plans).
 
@@ -419,6 +428,8 @@ Un centro que utiliza Microsoft 365, Teams u Outlook puede estudiar Workspace fo
 
 ## 🎓 ¿También eres estudiante o universitario?
 {: id="estudiantes" }
+
+**Una ventaja educativa no es una autorización de uso con datos personales.** Una cuenta universitaria, la verificación docente, una licencia Education o una promoción personal gratuita o premium no convierten el servicio en una herramienta institucional GVA ni implican autorización de la Conselleria de Educación para tratar datos personales en enseñanzas no universitarias. Esto no afirma que una promoción concreta esté prohibida: consulta las instrucciones oficiales aplicables.
 
 Algunas plataformas ofrecen planes educativos, descuentos o acceso temporal a funciones premium. Google mantiene una promoción para estudiantes elegibles; comprueba la cuenta requerida, la verificación, la vigencia y las condiciones de renovación antes de solicitarla.
 

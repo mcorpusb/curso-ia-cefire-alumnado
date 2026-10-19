@@ -49,6 +49,8 @@ Et serveix per a comunicar-te, gestionar el teu treball i participar en formaci�
 
 ## 🏫 La teua identitat digital en l'entorn GVA
 
+**GVA i NO GVA:** el compte `@edu.gva.es` identifica el professorat en els servicis corporatius habilitats, segons permisos i llicències; no garantix accés a tota la IA ni autoritza qualsevol tractament de dades. Els comptes personals són externs a GVA i servixen ací per a crear recursos sense dades personals reals. Registrar-se amb correu GVA, tindre un compte universitari o un pla Education, gratuït o de pagament no equival a autorització institucional.
+
 - **Correu i Microsoft 365:** utilitza el teu compte `@edu.gva.es` per al [correu institucional a Outlook](https://outlook.office.com/) i les aplicacions habilitades. La disponibilitat de Copilot depèn del servei i de la configuració institucional.
 - **[ITACA 3](https://itaca3.edu.gva.es/):** gestió acadèmica i administrativa, amb els permisos corresponents al teu lloc de treball.
 - **[Aules](https://aules.edu.gva.es/):** selecciona l'entorn d'ensenyament corresponent; el professorat utilitza les credencials d'ITACA, segons la [guia oficial de plataformes docents GVA](https://ceice.gva.es/webitaca/docs/Bienvenida_Plataformas_val_cas_210209.pdf).
@@ -76,7 +78,7 @@ OVIDOC és la oficina virtual docent per a consultar informació i realitzar tr�
   </div>
   <div class="tool-card">
     <h3 class="tool-card__header">👤 Personal</h3>
-    <p class="tool-card__desc">El teu compte particular de Google, ChatGPT, Canva o Kimi. Les seues condicions i permisos poden diferir dels institucionals.</p>
+    <p class="tool-card__desc">El teu compte particular de Google, ChatGPT, Canva o Kimi. Compte NO GVA per a crear recursos sense dades personals reals; les condicions no equivalen a les institucionals.</p>
   </div>
   <div class="tool-card">
     <h3 class="tool-card__header">🎓 Estudiant o acadèmica</h3>
@@ -84,7 +86,7 @@ OVIDOC és la oficina virtual docent per a consultar informació i realitzar tr�
   </div>
 </div>
 
-> **Comprova la compte activa abans d'introduir informació:** revisa el correu del perfil i el tractament de dades del servei. Utilitzar un correu institucional per a registrar-se no converteix automàticament una eina externa en un servei autoritzat.
+> **Comprova la compte activa abans d'introduir informació:** revisa el correu del perfil i el tractament de dades del servei. Utilitzar un correu institucional per a registrar-se no convertix automàticament una ferramenta externa en un servici autoritzat. Comprova també l'organització, el servici i el perfil del navegador: la mateixa marca pot oferir versions personals i corporatives amb condicions diferents. Si tens dubtes, tanca la sessió i entra des de l'accés oficial indicat pel centre.
 
 ## 🔑 Protegeix les teues credencials
 
@@ -96,7 +98,7 @@ La **autenticació multifactor (MFA)** afegeix una altra comprovació, com una a
 
 - Utilitza contrasenyes llargues, úniques i un gestor.
 - Activa MFA i protegeix els seus mecanismes de recuperació.
-- No compartes ni reutilitzes la contrasenya institucional en serveis externs.
+- No compartisques ni reutilitzes la contrasenya institucional en servicis externs. No apegues contrasenyes, claus API, codis MFA ni enllaços d'accés en una IA; utilitza marcadors ficticis. En un accés federat, introduïx les credencials només en la pàgina oficial del proveïdor d'identitat i revisa els permisos sol·licitats.
 - Bloca la pantalla quan et ausentes.
 - Mantín actualitzats el sistema i el navegador.
 - Desconfia d'enllaços i sol·licituds d'accés inesperades.
@@ -111,13 +113,22 @@ La **autenticació multifactor (MFA)** afegeix una altra comprovació, com una a
 
 Els documents, webs o correus que processa una IA poden contenir instruccions malicioses o ocultes. **Revisa les fonts, les respostes i les accions proposades**, especialment si l'eina pot actuar sobre fitxers, correu o comptes.
 
-Aquests riscos es desenvoluparan amb major profunditat en [agents d'IA per a docents]({{ '/bloque4-agentes-ia.html' | relative_url }}). Per a començar, concedeix només els accessos necessaris i revisa qualsevol acció abans d'autoritzar-la.
+En les pràctiques amb agents, utilitza fitxers ficticis en una carpeta de prova i no connectes correu, expedients ni carpetes reals del centre. Revisa els permisos de connectors i extensions, i cada acció abans d'autoritzar-la. Si no pots aïllar l'entorn, simula el flux amb un prompt i fitxers d'exemple.
 
 ## 🔐 Abans d'introduir dades en una IA
 
-No introduïs indiscriminadament noms, expedients, qualificacions, informes de salut o altres dades personals de l'alumnat. Evita documents sensibles; utilitza exemples ficticis o anonimitza quan corresponga, comprovant que ningú no siga identificable pel context.
+{: .callout .callout--privacidad }
+**IMPORTANT: No introduïsques dades personals ni informació sensible de l'alumnat, del professorat, de les famílies o d'altres persones en les ferramentes d'intel·ligència artificial utilitzades en este curs.** Utilitza exemples ficticis, informació pública o materials degudament anonimitzats. Comprova sempre les condicions del servici i les instruccions del teu centre i de l'administració educativa.
 
-Utilitza els entorns institucionals autoritzats quan procedisca i revisa si el servei emmagatzema, processa o reutilitza la informació. Continua en [protecció de dades i seguretat]({{ '/bloque1-seguridad.html' | relative_url }}) i [ús responsable d'IA amb l'alumnat]({{ '/bloque4-alfabetizacion-alumnado.html' | relative_url }}).
+No carregues noms i cognoms, DNI/NIE, telèfons, adreces, correus personals, expedients, qualificacions individuals identificables, informes psicopedagògics, diagnòstics, dades de salut, discapacitat o necessitats específiques, situacions familiars o socials, actes amb noms, treballs identificables ni documents interns amb informació personal. Tampoc fotografies, vídeos o gravacions que identifiquen persones, ni credencials o codis d'accés.
+
+**Anonimitzar no és canviar el nom.** Inicials, números d'alumne o pseudònims continuen sent dades personals si permeten reconéixer algú. Revisa identificadors indirectes (centre, grup reduït, edat, dates o situacions singulars), metadades, comentaris, imatges i enllaços. Si no pots impedir la reidentificació, substituïx el material per un cas completament fictici. Que una informació siga pública no autoritza a introduir dades personals en les pràctiques.
+
+**Abans d'adjuntar un fitxer:** prepara una còpia local de pràctica, revisa totes les pàgines i fulls, comentaris, propietats, metadades i enllaços compartits. Comprova que no incloga informació oculta o identificable; ocultar una columna o tapar un nom visualment pot no eliminar la dada. No puges l'original a la IA per a demanar-li que l'anonimitze. Si no pots garantir-ho, crea un document fictici equivalent.
+
+Fora de les pràctiques, qualsevol tractament de dades personals en servicis institucionals s'ha d'ajustar a les autoritzacions i normes aplicables. Confirma amb el centre o responsable competent el servici, la finalitat i les dades permeses; este curs no concedix eixa autorització.
+
+Consulta l'[aclariment de l'AEPD sobre anonimització](https://www.aepd.es/preguntas-frecuentes/0-conceptos-basicos/FAQ-0005-sobre-los-datos-anonimizados).
 
 ## ✅ Abans de continuar
 
@@ -127,7 +138,7 @@ Utilitza els entorns institucionals autoritzats quan procedisca i revisa si el s
 - Distingeix les comptes institucionals i personals.
 - Tinc protegida la meua compte amb els mecanismes disponibles.
 - No reutilitze la meua contrasenya institucional en altres serveis.
-- Sé quines dades no he d'introduir indiscriminadament en una IA.
+- Sé que no he d’introduir dades personals reals en les IA del curs, ni tan sols amb compte GVA.
 - Comprove sempre amb quina compte estic treballant.
 {: .checklist-visual }
 

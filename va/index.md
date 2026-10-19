@@ -102,13 +102,14 @@ Copilot Chat i Microsoft 365 Copilot són productes diferents. Microsoft 365 Cop
 
 **Passos per a verificar-ho:**
 
-- Ves a [copilot.microsoft.com](https://copilot.microsoft.com) i inicia sessió amb el teu compte `@edu.gva.es`.
+- Accedix a Copilot Chat des de l’entorn Microsoft 365 indicat pel centre amb `@edu.gva.es`, si està habilitat. Comprova el perfil i el servici actius; poder iniciar sessió no autoritza qualsevol tractament.
 - Si funciona, escriu una pregunta de prova, per exemple: *«Explica què és la intel·ligència artificial en dues línies»*.
 - Si no funciona o veus un missatge d'error, utilitza alguna de les alternatives gratuïtes indicades en el [Radar de ferramentes]({{ '/va/herramientas-que-utilizaremos.html#radar' | relative_url }}) del curs.
 
 {: .callout .callout--privacidad }
-**Privacitat des del primer dia**
-No introduïsques dades personals de l'alumnat ni puges documentació interna o sensible a servicis no autoritzats. Un compte personal no equival a un entorn institucional: revisa sempre quina informació compartixes i en quines condicions.
+**IMPORTANT: No introduïsques dades personals ni informació sensible de l'alumnat, del professorat, de les famílies o d'altres persones en les ferramentes d'intel·ligència artificial utilitzades en este curs.** Utilitza exemples ficticis, informació pública o materials degudament anonimitzats. Comprova sempre les condicions del servici i les instruccions del teu centre i de l'administració educativa.
+
+**GVA i NO GVA:** el compte `@edu.gva.es` identifica el professorat en els servicis corporatius habilitats, segons permisos i llicències; no garantix accés a tota la IA ni autoritza qualsevol tractament de dades. Els comptes personals són externs a GVA i servixen ací per a crear recursos sense dades personals reals. Registrar-se amb correu GVA, tindre un compte universitari o un pla Education, gratuït o de pagament no equival a autorització institucional.
 
 ### La teua primera interacció amb la IA
 {: id="3--la-teua-primera-interaccio-amb-la-ia" }
@@ -134,13 +135,15 @@ Observa la resposta:
 **2. Torna a demanar l'activitat afegint context:**
 
 ```text
-Redissenya l'activitat tenint en compte estes dades:
+Utilitza únicament informació fictícia, pública sense dades personals o degudament anonimitzada. No inclogues dades personals de l'alumnat ni d'altres persones.
+
+Redissenya l’activitat tenint en compte estes dades:
 - Contingut o concepte: [completa]
 - Etapa o nivell: [completa]
 - Matèria o àmbit: [completa]
 - Duració: [completa]
 - Objectiu d'aprenentatge: [completa]
-- Característiques rellevants del grup: [completa]
+- Característiques didàctiques generals d’un grup fictici: [completa sense identificar persones]
 - Necessitat concreta: [completa]
 ```
 

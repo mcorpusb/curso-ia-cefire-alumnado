@@ -75,9 +75,9 @@ Hi trobaràs tres tipus de contingut:
 - **Ampliació:** possibilitats que pots explorar si resulten útils en el teu context.
 
 {: .callout .callout--privacidad }
-**Ús segur durant tot el bloc**  
-En les pràctiques no introduïsques noms reals, qualificacions, diagnòstics, situacions familiars, actes confidencials ni documentació interna no autoritzada. Utilitza dades fictícies o correctament anonimitzades.  
-**Compte institucional ≠ permís per a introduir qualsevol dada.**
+**IMPORTANT: No introduïsques dades personals ni informació sensible de l'alumnat, del professorat, de les famílies o d'altres persones en les ferramentes d'intel·ligència artificial utilitzades en este curs.** Utilitza exemples ficticis, informació pública o materials degudament anonimitzats. Comprova sempre les condicions del servici i les instruccions del teu centre i de l'administració educativa.
+
+**GVA i NO GVA:** el compte `@edu.gva.es` identifica el professorat en els servicis corporatius habilitats, segons permisos i llicències; no garantix accés a tota la IA ni autoritza qualsevol tractament de dades. Els comptes personals són externs a GVA i servixen ací per a crear recursos sense dades personals reals. Registrar-se amb correu GVA, tindre un compte universitari o un pla Education, gratuït o de pagament no equival a autorització institucional.
 
 ---
 
@@ -144,7 +144,7 @@ Exemple: necessite preparar una primera activitat per a introduir el concepte de
 
 **Què necessita saber la ferramenta per a entendre la teua situació?**
 
-Etapa, nivell, mòdul o matèria, duració, característiques rellevants del grup, coneixements previs, recursos disponibles…
+Etapa, nivell, mòdul o matèria, duració, característiques didàctiques generals d’un grup fictici, coneixements previs, recursos disponibles…
 
 ### Tasca
 
@@ -256,7 +256,7 @@ La IA pot ajudar-te a:
 
 - convertir notes en un primer esborrany;
 - ordenar informació;
-- resumir documents autoritzats;
+- resumir documents ficticis o públics sense dades personals, revisant metadades i comentaris abans d'adjuntar-los;
 - proposar una estructura;
 - transformar un contingut en un altre format.
 
@@ -317,7 +317,7 @@ Si Copilot no està disponible o no resulta adequat, utilitza una altra opció d
 
 | Criteri | Pregunta útil |
 |:---------|:--------------|
-| **Accés** | Puc utilitzar-la amb un compte autoritzat? |
+| **Accés** | Quin compte tinc actiu i està autoritzat el servici per a la tasca? Un compte educatiu no és suficient. |
 | **Privacitat** | Quina informació necessita realment esta tasca? |
 | **Tasca** | Necessite conversar, transformar, treballar amb documents o investigar? |
 | **Fonts** | Podré comprovar la informació important? |
@@ -385,7 +385,7 @@ Criteris:
 
 ### Comunicacions professionals
 
-També pot ajudar-te a preparar esborranys de missatges.
+També pot ajudar-te a preparar esborranys de missatges. No copies correus reals ni converses amb famílies: inventa el cas i deixa els destinataris en blanc.
 
 **Exemple:**
 
@@ -492,7 +492,7 @@ Després:
 - fes almenys una iteració;
 - modifica personalment el resultat.
 
-Conserva un xicotet exemple de la interacció per a explicar després com vas treballar.
+Conserva un xicotet exemple de la interacció per a explicar després com vas treballar. Revisa que les captures no mostren correu, avatar, enllaços privats ni codis d'accés.
 
 ---
 

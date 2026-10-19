@@ -50,6 +50,8 @@ Te sirve para comunicarte, gestionar tu trabajo y participar en formación. Tene
 
 ## 🏫 Tu identidad digital en el entorno GVA
 
+**GVA y NO GVA:** la cuenta `@edu.gva.es` identifica al profesorado en los servicios corporativos habilitados, según permisos y licencias; no garantiza acceso a toda la IA ni autoriza cualquier tratamiento de datos. Las cuentas personales son externas a GVA y sirven aquí para crear recursos sin datos personales reales. Registrarse con correo GVA, tener una cuenta universitaria o un plan Education, gratuito o de pago no equivale a autorización institucional.
+
 - **Correo y Microsoft 365:** utiliza tu cuenta `@edu.gva.es` para el [correo institucional en Outlook](https://outlook.office.com/) y las aplicaciones habilitadas. La disponibilidad de Copilot depende del servicio y de la configuración institucional.
 - **[ITACA 3](https://itaca3.edu.gva.es/):** gestión académica y administrativa, con los permisos correspondientes a tu puesto.
 - **[Aules](https://aules.edu.gva.es/):** selecciona el entorno de enseñanza correspondiente; el profesorado utiliza las credenciales de ITACA, según la [guía oficial de plataformas docentes GVA](https://ceice.gva.es/webitaca/docs/Bienvenida_Plataformas_val_cas_210209.pdf).
@@ -77,7 +79,7 @@ OVIDOC es la oficina virtual docente para consultar información y realizar trá
   </div>
   <div class="tool-card">
     <h3 class="tool-card__header">👤 Personal</h3>
-    <p class="tool-card__desc">Tu cuenta particular de Google, ChatGPT, Canva o Kimi. Sus condiciones y permisos pueden diferir de los institucionales.</p>
+    <p class="tool-card__desc">Tu cuenta particular de Google, ChatGPT, Canva o Kimi. Cuenta NO GVA para crear recursos sin datos personales reales; sus condiciones no equivalen a las institucionales.</p>
   </div>
   <div class="tool-card">
     <h3 class="tool-card__header">🎓 Estudiante o académica</h3>
@@ -85,7 +87,7 @@ OVIDOC es la oficina virtual docente para consultar información y realizar trá
   </div>
 </div>
 
-> **Comprueba la cuenta activa antes de introducir información:** revisa el correo del perfil y el tratamiento de datos del servicio. Usar un correo institucional para registrarse no convierte automáticamente una herramienta externa en un servicio autorizado.
+> **Comprueba la cuenta activa antes de introducir información:** revisa el correo del perfil y el tratamiento de datos del servicio. Usar un correo institucional para registrarse no convierte automáticamente una herramienta externa en un servicio autorizado. Comprueba también la organización, el servicio y el perfil del navegador: la misma marca puede ofrecer versiones personales y corporativas con condiciones diferentes. Si tienes dudas, cierra la sesión y entra desde el acceso oficial indicado por tu centro.
 
 ## 🔑 Protege tus credenciales
 
@@ -97,7 +99,7 @@ La **autenticación multifactor (MFA)** añade otra comprobación, como una apli
 
 - Utiliza contraseñas largas, únicas y un gestor.
 - Activa MFA y protege sus mecanismos de recuperación.
-- No compartas ni reutilices la contraseña institucional en servicios externos.
+- No compartas ni reutilices la contraseña institucional en servicios externos. No pegues contraseñas, claves API, códigos MFA ni enlaces de acceso en una IA; usa marcadores ficticios. En un acceso federado, introduce las credenciales solo en la página oficial del proveedor de identidad y revisa los permisos solicitados.
 - Bloquea la pantalla cuando te ausentes.
 - Mantén actualizados el sistema y el navegador.
 - Desconfía de enlaces y solicitudes de acceso inesperados.
@@ -112,13 +114,22 @@ La **autenticación multifactor (MFA)** añade otra comprobación, como una apli
 
 Los documentos, webs o correos que procesa una IA pueden contener instrucciones maliciosas u ocultas. **Revisa las fuentes, las respuestas y las acciones propuestas**, especialmente si la herramienta puede actuar sobre archivos, correo o cuentas.
 
-Estos riesgos se desarrollarán con mayor profundidad en [agentes de IA para docentes]({{ '/bloque4-agentes-ia.html' | relative_url }}). Para empezar, concede solo los accesos necesarios y revisa cualquier acción antes de autorizarla.
+En las prácticas con agentes, utiliza archivos ficticios en una carpeta de prueba y no conectes correo, expedientes ni carpetas reales del centro. Revisa los permisos de conectores y extensiones, y cada acción antes de autorizarla. Si no puedes aislar el entorno, simula el flujo con un prompt y archivos de ejemplo.
 
 ## 🔐 Antes de introducir datos en una IA
 
-No introduzcas indiscriminadamente nombres, expedientes, calificaciones, informes de salud u otros datos personales del alumnado. Evita documentos sensibles; utiliza ejemplos ficticios o anonimiza cuando corresponda, comprobando que nadie sea identificable por el contexto.
+{: .callout .callout--privacidad }
+**IMPORTANTE: No introduzcas datos personales ni información sensible del alumnado, profesorado, familias u otras personas en las herramientas de inteligencia artificial utilizadas en este curso.** Utiliza ejemplos ficticios, información pública o materiales debidamente anonimizados. Comprueba siempre las condiciones del servicio y las instrucciones de tu centro y de la administración educativa.
 
-Usa los entornos institucionales autorizados cuando proceda y revisa si el servicio almacena, procesa o reutiliza la información. Continúa en [protección de datos y seguridad]({{ '/bloque1-seguridad.html' | relative_url }}) y [uso responsable de IA con el alumnado]({{ '/bloque4-alfabetizacion-alumnado.html' | relative_url }}).
+No cargues nombres y apellidos, DNI/NIE, teléfonos, direcciones, correos personales, expedientes, calificaciones individuales identificables, informes psicopedagógicos, diagnósticos, datos de salud, discapacidad o necesidades específicas, situaciones familiares o sociales, actas con nombres, trabajos identificables ni documentos internos con información personal. Tampoco fotografías, vídeos o grabaciones que identifiquen a personas, ni credenciales o códigos de acceso.
+
+**Anonimizar no es cambiar el nombre.** Iniciales, números de alumno o seudónimos siguen siendo datos personales si permiten reconocer a alguien. Revisa identificadores indirectos (centro, grupo pequeño, edad, fechas o situaciones singulares), metadatos, comentarios, imágenes y enlaces. Si no puedes impedir la reidentificación, sustituye el material por un caso completamente ficticio. Que una información sea pública no autoriza a introducir datos personales en las prácticas.
+
+**Antes de adjuntar un archivo:** prepara una copia local de práctica, revisa todas sus páginas y hojas, comentarios, propiedades, metadatos y enlaces compartidos. Comprueba que no incluya información oculta o identificable; ocultar una columna o tapar un nombre visualmente puede no eliminar el dato. No subas el original a la IA para pedirle que lo anonimice. Si no puedes garantizarlo, crea un documento ficticio equivalente.
+
+Fuera de las prácticas, cualquier tratamiento de datos personales en servicios institucionales debe ajustarse a las autorizaciones y normas aplicables. Confirma con el centro o responsable competente el servicio, la finalidad y los datos permitidos; este curso no concede esa autorización.
+
+Consulta la [aclaración de la AEPD sobre anonimización](https://www.aepd.es/preguntas-frecuentes/0-conceptos-basicos/FAQ-0005-sobre-los-datos-anonimizados).
 
 ## ✅ Antes de continuar
 
@@ -128,7 +139,7 @@ Usa los entornos institucionales autorizados cuando proceda y revisa si el servi
 - Distingo las cuentas institucionales y personales.
 - Tengo protegida mi cuenta con los mecanismos disponibles.
 - No reutilizo mi contraseña institucional en otros servicios.
-- Sé qué datos no debo introducir indiscriminadamente en una IA.
+- Sé que no debo introducir datos personales reales en las IA del curso, ni siquiera con cuenta GVA.
 - Compruebo siempre con qué cuenta estoy trabajando.
 {: .checklist-visual }
 
