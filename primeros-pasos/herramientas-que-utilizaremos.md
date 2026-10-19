@@ -30,14 +30,14 @@ No dependeremos de una única plataforma. Elegiremos cada herramienta según la 
 ## 🔐 Antes de empezar: cuentas y acceso
 {: id="cuentas-y-acceso" }
 
-### 🏫 Cuenta institucional
+### 🏫 Cuenta institucional (GVA)
 {: .no_toc }
 
 La cuenta educativa puede dar acceso a Microsoft 365, Copilot y otros servicios habilitados por la administración. Con `@edu.gva.es`, comprueba qué aplicaciones están disponibles y qué condiciones de uso establece tu organización.
 
 Antes de utilizar las herramientas, revisa cómo proteger tu identidad y configurar tus cuentas en [Identidad digital y acceso]({{ '/primeros-pasos/identidad-digital.html' | relative_url }}).
 
-### 👤 Cuentas personales
+### 👤 Cuentas personales (NO GVA, CREAR RECURSOS)
 {: .no_toc }
 
 Algunas actividades pueden utilizar cuentas propias de OpenAI, Google, Canva, Kimi u otras plataformas. Créala solo cuando la necesites y revisa los requisitos de edad y uso de cada servicio. Una cuenta personal o universitaria no tiene necesariamente las mismas protecciones que la cuenta docente institucional.
