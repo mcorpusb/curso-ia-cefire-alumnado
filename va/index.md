@@ -21,7 +21,7 @@ nav_exclude: true
   <strong>Codi:</strong> 26IA92IN041 &nbsp;·&nbsp;
   <strong>Modalitat:</strong> A distància &nbsp;·&nbsp;
   <strong>Inici:</strong> 20/10/2026 &nbsp;·&nbsp;
-  <strong>Finalització:</strong> 22/11/2026 &nbsp;·&nbsp;
+  <strong>Finalització:</strong> 23/11/2026 &nbsp;·&nbsp;
   <strong>Duració:</strong> 32 hores &nbsp;·&nbsp;
   <strong>Edició:</strong> 2a edició de 2026
 </p>

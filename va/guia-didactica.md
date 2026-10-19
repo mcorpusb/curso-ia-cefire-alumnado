@@ -26,7 +26,7 @@ Eines d'Intel·ligència Artificial Generativa per a docents · 26IA92IN041
 | **Codi oficial** | 26IA92IN041 |
 | **Edició** | 2a edició de 2026 |
 | **Inici** | 20 d'octubre de 2026 |
-| **Finalització** | 22 de novembre de 2026 |
+| **Finalització** | 23 de novembre de 2026 |
 | **Duració** | 32 hores |
 | **Modalitat** | A distància |
 | **Organitza** | CEFIRE d'Intel·ligència Artificial i Pensament Computacional |
@@ -212,8 +212,8 @@ Cada bloc segueix el mateix cicle: veure com es fa → fer-ho tu → comparar re
     </tr>
     <tr>
       <td>Tancament del curs</td>
-      <td>17/11/2026 al 22/11/2026</td>
-      <td>22/11/2026</td>
+      <td>17/11/2026 al 23/11/2026</td>
+      <td>23/11/2026</td>
       <td style="text-align:right;">30 min</td>
       <td style="text-align:right;">30 min</td>
       <td>-</td>

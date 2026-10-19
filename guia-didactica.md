@@ -25,7 +25,7 @@ Herramientas de Inteligencia Artificial Generativa para docentes · 26IA92IN041
 | **Código oficial** | 26IA92IN041 |
 | **Edición** | 2.ª edición de 2026 |
 | **Inicio** | 20 de octubre de 2026 |
-| **Finalización** | 22 de noviembre de 2026 |
+| **Finalización** | 23 de noviembre de 2026 |
 | **Duración** | 32 horas |
 | **Modalidad** | A distancia |
 | **Organiza** | CEFIRE de Inteligencia Artificial y Pensamiento Computacional |
@@ -211,8 +211,8 @@ Cada bloque sigue el mismo ciclo: ver cómo se hace → hacerlo tú → comparar
     </tr>
     <tr>
       <td>Cierre del curso</td>
-      <td>17/11/2026 al 22/11/2026</td>
-      <td>22/11/202</td>
+      <td>17/11/2026 al 23/11/2026</td>
+      <td>23/11/2026</td>
       <td style="text-align:right;">30 min</td>
       <td style="text-align:right;">30 min</td>
       <td>-</td>

@@ -21,7 +21,7 @@ nav_exclude: false
   <strong>Código:</strong> 26IA92IN041 &nbsp;·&nbsp;
   <strong>Modalidad:</strong> A distancia &nbsp;·&nbsp;
   <strong>Inicio:</strong> 20/10/2026 &nbsp;·&nbsp;
-  <strong>Finalización:</strong> 22/11/2026 &nbsp;·&nbsp;
+  <strong>Finalización:</strong> 23/11/2026 &nbsp;·&nbsp;
   <strong>Duración:</strong> 32 horas &nbsp;·&nbsp;
   <strong>Edición:</strong> 2.ª edición de 2026
 </p>
