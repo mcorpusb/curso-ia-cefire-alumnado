@@ -35,7 +35,7 @@ La compte educativa pot donar accés a Microsoft 365, Copilot i altres serveis h
 
 Abans d'utilitzar les eines, revisa com protegir la teua identitat i configurar les teues comptes a [Identitat digital i accés]({{ '/primeros-pasos/identidad-digital.html' | relative_url }}).
 
-### 👤 Cuentas personales (NO GVA, CREAR RECURSOS)
+### 👤 Cuentas personales (NO GVA, PARA CREAR RECURSOS)
 {: .no_toc }
 
 Algunes activitats poden utilitzar comptes propis d'OpenAI, Google, Canva, Kimi o altres plataformes. Crea-la només quan la necessites i revisa els requisits d'edat i ús de cada servei. Una compte personal o universitària no té necessàriament les mateixes proteccions que la compte docent institucional.
