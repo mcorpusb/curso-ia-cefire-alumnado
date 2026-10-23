@@ -3,6 +3,7 @@ layout: page
 title: "Bloc 1 · IA Col·laborativa i Gestió GVA"
 nav_order: 4
 has_children: true
+has_toc: false
 lang: va
 translation_key: bloque1
 nav_exclude: true
@@ -42,6 +43,7 @@ Duració aproximada: **8 hores**.
 - [🗂️ No totes les peticions perseguixen el mateix](#5-no-totes-les-peticions-perseguixen-el-mateix)
 - [🛠️ La teua ferramenta](#6-la-teua-ferramenta)
 - [🤝 Aplicació · Tasques col·laboratives](#7-aplicacio--tasques-collaboratives)
+- [🧪 Laboratori de prompts educatius](#laboratori-de-prompts-educatius)
 - [🚀 Pràctiques del bloc](#practiques-del-bloc)
 - [✅ Tancament del bloc](#tancament-del-bloc)
 - [📤 Lliurament del bloc](#lliurament-del-bloc)
@@ -446,6 +448,15 @@ Tu decidixes:
 **què conservar → què eliminar → què adaptar → com utilitzar-ho**
 
 No utilitzes este tipus d'activitat per a delegar decisions sobre distribució de personal, horaris complexos o altres processos que depenguen d'informació sensible, normativa o responsabilitat organitzativa.
+
+---
+
+## Laboratori de prompts educatius
+{: id="laboratori-de-prompts-educatius" }
+
+Practica el mètode complet —petició inicial, prompt pedagògic, comparació, iteració i reflexió docent— amb **43 reptes organitzats per etapa**.
+
+[Obri el laboratori de prompts educatius →]({{ '/va/bloque1-actividades.html' | relative_url }})
 
 ---
 

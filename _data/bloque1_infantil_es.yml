@@ -1,0 +1,90 @@
+- id: INF-01
+  title: "Un cuento para comprender las emociones"
+  area: "Educación emocional"
+  goal: "Crear un cuento breve y revisable sobre convivencia, ajustado a 4–5 años, con preguntas para la asamblea."
+  simple: "Escribe un cuento infantil sobre las emociones."
+  context: "Asamblea de Educación Infantil sobre una situación cotidiana de convivencia."
+  students: "Grupo de 4–5 años; lenguaje oral en desarrollo y atención breve."
+  objective: "Identificar una emoción, expresarla con respeto y ensayar una estrategia sencilla de regulación o ayuda."
+  restrictions: "180–220 palabras, tres personajes, frases cortas, vocabulario concreto, sin moralina ni diagnósticos; incluye tres preguntas finales y cuatro posibles escenas ilustradas coherentes."
+  format: "Cuento listo para leer en voz alta, seguido de preguntas y tabla de escenas; señala qué debe revisar el docente."
+  iteration: "Reduce el cuento a 180 palabras, sustituye cualquier concepto abstracto por una acción observable y añade una frase repetitiva en la que pueda participar el grupo. Comprueba que no presenta ninguna emoción como mala."
+  result: "Un cuento breve, preguntas de conversación y un guion visual revisados para la asamblea."
+  adaptation: "En Primaria puede convertirse en una historia de resolución de conflictos; en Secundaria, en análisis narrativo y convivencia."
+  example_title: "Ejemplo visual · El miedo del pequeño Dino"
+  example_intro: "Este ejemplo muestra cómo podemos utilizar la inteligencia artificial para crear un cuento adaptado a Educación Infantil, trabajar las emociones y generar un recurso visual que acompañe la narración. El resultado siempre debe revisarse y ajustarse a las necesidades del grupo."
+  example_story: "Dino ve en clase un dinosaurio de juguete muy grande. Nota que su corazón va deprisa y da un paso atrás. Su maestra se acerca con calma, pone palabras a lo que siente y le propone respirar juntos. Después, Dino observa el juguete y decide acercarse poco a poco. Sigue notando un poquito de miedo, pero ahora sabe qué puede hacer y se siente acompañado."
+  example_question_label: "Pregunta para la asamblea"
+  example_question: "¿Qué te ayuda cuando sientes miedo?"
+  example_note: "La finalidad no es hacer desaparecer la emoción, sino reconocerla, expresarla y explorar estrategias adecuadas."
+  example_image: "/assets/img/Gemini_cuento infantil.png"
+  example_image_alt: "Cuento ilustrado sobre el pequeño dinosaurio Dino, que reconoce el miedo y aprende a afrontarlo acompañado por su maestra"
+  documented_prompt_title: "Prompt de partida documentado en la actividad original"
+  documented_prompt_note: "La actividad original propone este prompt para crear un primer borrador; no consta que fuese la instrucción exacta utilizada para generar la imagen mostrada."
+  documented_prompt: |-
+    Quiero crear un cuento breve para una asamblea de Educación Infantil.
+
+    Edad: [3/4/5 años]
+    Tema: [completa]
+    Objetivo: [completa]
+    Interés general del grupo: [completa]
+
+    Escribe un cuento de unas 200-300 palabras, pensado para leer en voz alta.
+
+    Criterios:
+    - vocabulario sencillo;
+    - frases cortas;
+    - un personaje cercano;
+    - una situación fácil de comprender;
+    - una estructura clara;
+    - repeticiones cuando ayuden;
+    - una pregunta final para conversar en asamblea.
+
+    No incluyas datos reales del alumnado ni inventes información sobre mi grupo.
+  image_practice_title: "Del cuento a la ilustración"
+  image_practice_intro: "Como práctica opcional, transforma una escena de tu propio cuento en una ilustración. Describe con precisión el personaje, la emoción, el escenario, la acción, el estilo y la edad del alumnado."
+  image_prompt: "Crea una ilustración para un cuento educativo dirigido a niños y niñas de 4–5 años. El protagonista es un pequeño dinosaurio que siente miedo el primer día de colegio. Representa una escena acogedora en la que su maestra le acompaña y le ayuda a sentirse seguro. Utiliza un estilo de cuento infantil, colores suaves, expresiones claras y un ambiente tranquilo. No incluyas nombres ni imágenes de menores reales."
+  image_iteration_title: "Iteración para una segunda escena"
+  image_iteration: "Crea una segunda escena con el mismo pequeño dinosaurio. Mantén exactamente sus rasgos, colores, proporciones, ropa y estilo de ilustración. Ahora aparece en el aula respirando despacio junto a su maestra y empezando a sentirse seguro. Conserva la misma paleta suave, iluminación y punto de vista. No incluyas nombres ni imágenes de menores reales."
+  image_reflection: "Compara el texto y la imagen: ¿la ilustración ayuda a reconocer la emoción y comprender la acción sin añadir mensajes contradictorios, estereotipos o elementos que no aparecen en el cuento?"
+  original_example_url: "/bloque1-actividad-infantil.html"
+  original_example_label: "Ver el ejemplo completo del cuento de Dino"
+- id: INF-02
+  title: "¿Qué ocurre primero?"
+  area: "Secuencias y autonomía"
+  goal: "Diseñar tarjetas visuales coherentes para ordenar una rutina cotidiana y hablar sobre antes y después."
+  simple: "Haz una secuencia para lavarse las manos."
+  context: "Rincón de autonomía y lenguaje en Educación Infantil."
+  students: "Alumnado de 4 años con distintos niveles de comprensión verbal."
+  objective: "Ordenar acciones, anticipar consecuencias y explicar una rutina sencilla."
+  restrictions: "Elige una rutina entre lavarse las manos, preparar la mochila, plantar una semilla o recoger materiales; usa 4–6 pasos, una acción por tarjeta, apoyos visuales claros y alternativas de respuesta oral, gestual o manipulativa."
+  format: "Tabla con número, acción, frase breve y prompt de ilustración; mantén personaje, encuadre y estilo coherentes y evita texto dentro de la imagen."
+  iteration: "Revisa la secuencia como si una tarjeta estuviera fuera de orden: detecta ambigüedades, simplifica las acciones y mejora los prompts visuales para conservar personaje, colores y punto de vista."
+  result: "Una secuencia imprimible y prompts para imágenes sencillas que el docente comprobará antes de usar."
+  adaptation: "En Primaria enlaza con algoritmos; en Secundaria, con diagramas de flujo."
+- id: INF-03
+  title: "Música, emociones y movimiento"
+  area: "Expresión corporal y musical"
+  goal: "Preparar una experiencia de movimiento que conecte ritmos, emociones y participación sin necesitar instrumentos."
+  simple: "Prepara una actividad de música y movimiento."
+  context: "Sesión breve de expresión corporal en un aula de Infantil con espacio limitado."
+  students: "Grupo de 3–5 años, heterogéneo en movilidad, comunicación y tolerancia al sonido."
+  objective: "Explorar contrastes de ritmo y expresar emociones mediante movimiento, pausa, gesto o elección."
+  restrictions: "15 minutos, sin instrumentos, con percusión corporal y sonidos vocales suaves; ofrece opción sentada, volumen regulable, señal de pausa y participación sin contacto físico obligatorio."
+  format: "Secuencia de bienvenida, tres contrastes musicales y cierre; tabla con consigna, emoción, movimiento y alternativa de participación."
+  iteration: "Adapta la propuesta para un día de alta activación: reduce el volumen, añade anticipación visual, acorta cada fase y ofrece una opción de observación activa sin penalización."
+  result: "Una sesión inclusiva de movimiento con variantes realistas."
+  adaptation: "En Primaria puede evolucionar hacia ritmos cooperativos y en Secundaria hacia paisajes sonoros."
+- id: INF-04
+  title: "Todos participamos"
+  area: "Juego inclusivo y DUA"
+  goal: "Diseñar un juego de clasificación que mantenga el mismo objetivo y ofrezca distintas formas de participar."
+  simple: "Inventa un juego para clasificar colores y formas."
+  context: "Juego por pequeños grupos en un aula de Infantil con materiales cotidianos."
+  students: "Alumnado de 5 años con niveles diversos de autonomía, lenguaje, percepción y motricidad."
+  objective: "Clasificar objetos por un criterio visible, explicar la decisión y cambiar de criterio con apoyo."
+  restrictions: "Usa materiales seguros y ficticios, apoyos visuales, tres niveles de ayuda y respuestas mediante señalar, mover, nombrar o emparejar; evita etiquetar perfiles y no presupongas diagnósticos."
+  format: "Ficha con preparación, reglas, apoyos graduados, formas de participación, observación docente y dos variantes."
+  iteration: "Revisa el juego desde el DUA: elimina barreras innecesarias, conserva el objetivo cognitivo y añade una forma de participación para quien no quiera hablar o manipular piezas."
+  result: "Un juego de clasificación inclusivo con apoyos graduados y criterios observables."
+

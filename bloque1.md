@@ -3,6 +3,7 @@ layout: page
 title: "Bloque 1 · IA Colaborativa y Gestión GVA"
 nav_order: 4
 has_children: true
+has_toc: false
 lang: es
 translation_key: bloque1
 nav_exclude: false
@@ -42,6 +43,7 @@ Duración aproximada: **8 horas**.
 - [🗂️ No todas las peticiones persiguen lo mismo](#5-no-todas-las-peticiones-persiguen-lo-mismo)
 - [🛠️ Tu herramienta](#6-tu-herramienta)
 - [🤝 Aplicación · Tareas colaborativas](#7-aplicación--tareas-colaborativas)
+- [🧪 Laboratorio de prompts educativos](#laboratorio-de-prompts-educativos)
 - [🚀 Prácticas del bloque](#prácticas-del-bloque)
 - [✅ Cierre del bloque](#cierre-del-bloque)
 - [📤 Entrega del bloque](#entrega-del-bloque)
@@ -446,6 +448,15 @@ Tú decides:
 **qué conservar → qué eliminar → qué adaptar → cómo utilizarlo**
 
 No utilices este tipo de actividad para delegar decisiones sobre distribución de personal, horarios complejos u otros procesos que dependan de información sensible, normativa o responsabilidad organizativa.
+
+---
+
+## Laboratorio de prompts educativos
+{: id="laboratorio-de-prompts-educativos" }
+
+Practica el método completo —petición inicial, prompt pedagógico, comparación, iteración y reflexión docente— con **43 retos organizados por etapa**.
+
+[Abrir el laboratorio de prompts educativos →]({{ '/bloque1-actividades.html' | relative_url }})
 
 ---
 
