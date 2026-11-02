@@ -3,7 +3,7 @@ layout: page
 title: "Actividad · FP"
 parent: "Bloque 3: Generación Multimodal"
 nav_order: 13
-nav_exclude: false
+nav_exclude: true
 ---
 
 # Actividad · Formación Profesional
