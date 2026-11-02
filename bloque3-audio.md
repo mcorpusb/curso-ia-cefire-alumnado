@@ -18,7 +18,7 @@ nav_exclude: false
 
 Escucha qué ocurre después del estallido del globo. ¿En qué momento cambia el ritmo de la narración? ¿Qué hace la voz para que puedas seguir el ejercicio de respiración?
 
-<audio controls preload="none" aria-label="Cuento de Sarah y Salsa" src="https://mcorpusb.github.io/curso-ia-cefire-V2/assets/audio/sarah-salsa-emociones-elevenlabs.mp3"></audio>
+<audio controls preload="metadata" aria-label="Cuento de Sarah y Salsa" src="https://mcorpusb.github.io/curso-ia-cefire-V2/assets/audio/sarah-salsa-emociones-elevenlabs.mp3"></audio>
 
 [Escuchar o descargar Sarah y Salsa](https://mcorpusb.github.io/curso-ia-cefire-V2/assets/audio/sarah-salsa-emociones-elevenlabs.mp3)
 
@@ -28,7 +28,7 @@ Escucha qué ocurre después del estallido del globo. ¿En qué momento cambia e
 
 Este fragmento termina cuando Popi salta hacia atrás. Escucha los segundos anteriores al salto. ¿Qué te permite anticipar la sorpresa?
 
-<audio controls preload="none" aria-label="Primera parte de Tomás y Popi" src="https://mcorpusb.github.io/curso-ia-cefire-V2/assets/audio/tomas-popi-superheroes-parte1.mp3"></audio>
+<audio controls preload="metadata" aria-label="Primera parte de Tomás y Popi" src="https://mcorpusb.github.io/curso-ia-cefire-V2/assets/audio/tomas-popi-superheroes-parte1.mp3"></audio>
 
 [Escuchar o descargar Tomás y Popi](https://mcorpusb.github.io/curso-ia-cefire-V2/assets/audio/tomas-popi-superheroes-parte1.mp3) · [Leer los guiones y ver las viñetas]({{ '/bloque3-comics-ejemplos.html' | relative_url }})
 
@@ -123,7 +123,7 @@ Genera la canción cantada con acompañamiento musical.
 
 **Escucha la canción generada en Gemini Música.**
 
-<audio controls preload="none" aria-label="El viaje del aire, canción de Biología para 3.º de ESO" src="https://mcorpusb.github.io/curso-ia-cefire-V2/assets/audio/El_viaje_del_aire.mp3"></audio>
+<audio controls preload="metadata" aria-label="El viaje del aire, canción de Biología para 3.º de ESO" src="https://mcorpusb.github.io/curso-ia-cefire-V2/assets/audio/El_viaje_del_aire.mp3"></audio>
 
 [Escuchar o descargar «El viaje del aire»](https://mcorpusb.github.io/curso-ia-cefire-V2/assets/audio/El_viaje_del_aire.mp3)
 
@@ -133,7 +133,7 @@ Genera la canción cantada con acompañamiento musical.
 
 **Escucha la canción generada en Gemini Música.**
 
-<audio controls preload="none" aria-label="Turn Left at the Library, canción de inglés A2" src="https://mcorpusb.github.io/curso-ia-cefire-V2/assets/audio/Turn_Left_at_the_Library.mp3"></audio>
+<audio controls preload="metadata" aria-label="Turn Left at the Library, canción de inglés A2" src="https://mcorpusb.github.io/curso-ia-cefire-V2/assets/audio/Turn_Left_at_the_Library.mp3"></audio>
 
 [Escuchar o descargar «Turn Left at the Library»](https://mcorpusb.github.io/curso-ia-cefire-V2/assets/audio/Turn_Left_at_the_Library.mp3)
 
