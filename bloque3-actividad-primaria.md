@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Actividad · Primaria
-parent: "Bloque 3: Generación Multimodal"
-nav_order: 11
 nav_exclude: true
 ---
 
