@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Actividad · EOI
-parent: "Bloque 3: Generación Multimodal"
-nav_order: 14
 nav_exclude: true
 ---
 
