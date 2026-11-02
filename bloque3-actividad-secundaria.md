@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Actividad · Secundaria
-parent: "Bloque 3: Generación Multimodal"
-nav_order: 12
 nav_exclude: true
 ---
 
