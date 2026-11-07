@@ -17,6 +17,8 @@ nav_exclude: false
 
 Este es el último bloque. Utiliza lo que ya has creado en los bloques anteriores: **elige una o dos actividades de las seis propuestas**, adaptándolas a tu materia y etapa. No es obligatorio completar las seis; puedes recuperar un recurso previo. La evaluación y la verificación final siempre corresponden al profesorado.
 
+[Abrir «Detectives de IA»]({{ '/detectives-ia/' | relative_url }}){: .btn }
+
 [Ver las actividades prácticas]({{ '/bloque4-actividades.html' | relative_url }}){: .btn .btn-primary }
 
 ## Qué aprenderás
