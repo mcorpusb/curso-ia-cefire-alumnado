@@ -19,6 +19,8 @@ Este es el último bloque. Utiliza lo que ya has creado en los bloques anteriore
 
 [Abrir «Detectives de IA»]({{ '/detectives-ia/' | relative_url }}){: .btn }
 
+[Guía de Aules y manuscritos]({{ '/bloque4-aules.html' | relative_url }}){: .btn }
+
 [Ver las actividades prácticas]({{ '/bloque4-actividades.html' | relative_url }}){: .btn .btn-primary }
 
 ## Qué aprenderás
