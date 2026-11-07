@@ -60,6 +60,9 @@ Devuelve material adaptado y tabla barrera → cambio → justificación.
 
 ## 4.4 · Detectives de errores: el alumnado corrige a la IA
 
+**[Probar la aplicación interactiva «Detectives de IA»]({{ '/detectives-ia/' | relative_url }})** · Biología y Geología, 3.º ESO. Diez afirmaciones, cinco errores, pistas, correcciones y posibilidad de repetir. El solucionario se mantiene en la guía del profesorado de la V2.
+
+
 Prepara una respuesta con tres errores **verificables**; el alumnado debe detectar, contrastar, corregir y justificar. Incluye un solucionario separado para el docente.
 
 ```text
