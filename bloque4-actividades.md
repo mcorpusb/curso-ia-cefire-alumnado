@@ -29,6 +29,8 @@ indicadores observables y comentarios de mejora. No inventes normativa.
 
 **Entrega:** dos instrumentos y por qué sirven para esa tarea.
 
+[Tutorial paso a paso de Aules y ejemplos manuscritos]({{ '/bloque4-aules.html' | relative_url }})
+
 ## 4.2 · App interactiva y Aules
 
 Diseña un cuestionario, juego o miniaplicación HTML con pistas, explicaciones y posibilidad de repetir. Comprueba respuestas y accesibilidad. **Publica o exporta** y elige una vía permitida en tu centro: recurso URL (preferible), iframe autorizado o archivo HTML probado. El iframe puede estar filtrado; HTML con JavaScript puede no ejecutarse y los resultados no se sincronizan por defecto con las calificaciones de Moodle.
