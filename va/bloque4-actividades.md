@@ -63,6 +63,9 @@ Retorna el material adaptat i una taula barrera → canvi → motiu.
 
 ## 4.4 · Detectius d'errors: l'alumnat corregix la IA
 
+**[Prova l'aplicació interactiva «Detectius d'IA»]({{ '/detectives-ia/' | relative_url }})** · Biologia i Geologia, 3r d'ESO. Deu afirmacions, cinc errors, pistes, explicacions i reintents. El solucionari es manté en la guia del professorat de la V2.
+
+
 Prepara un text amb tres errors **verificables**. L'alumnat els ha d'identificar, contrastar, corregir i justificar. Separa el solucionari del material de l'alumnat.
 
 ```text
