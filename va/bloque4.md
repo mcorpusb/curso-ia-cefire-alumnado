@@ -17,6 +17,8 @@ nav_exclude: true
 
 Este és l'últim bloc. Aprofita els recursos dels blocs anteriors: **tria una o dues activitats de les sis propostes** i adapta-les a l'etapa i l'especialitat. No cal fer-les totes. La verificació i les decisions d'avaluació sempre corresponen al professorat.
 
+[Obri «Detectius d'IA»]({{ '/detectives-ia/' | relative_url }}){: .btn }
+
 [Consulta les activitats pràctiques]({{ '/va/bloque4-actividades.html' | relative_url }}){: .btn .btn-primary }
 
 ## Què aprendràs?
