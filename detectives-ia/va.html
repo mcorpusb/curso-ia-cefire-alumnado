@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="ca-valencia">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light">
+<title>Detectius d'IA · Troba els errors</title>
+<style>
+:root{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;color:#17324b;background:#f1f6fb;line-height:1.55}
+*{box-sizing:border-box}body{margin:0}main{max-width:1060px;margin:auto;padding:clamp(1rem,3vw,2rem)}
+header{padding:2.2rem 0 1rem}.eyebrow{font-size:.82rem;letter-spacing:.1em;text-transform:uppercase;color:#166d86;font-weight:800}
+h1{font-size:clamp(2rem,4.5vw,3.2rem);margin:.2rem 0 .45rem;line-height:1.15}h2{margin:.4rem 0 1rem}
+.lead{font-size:1.07rem;max-width:760px;color:#456079}
+.panel{background:#fff;border:1px solid #d4e2ec;border-radius:20px;padding:clamp(1.1rem,3vw,2rem);box-shadow:0 8px 28px #193e5910;margin-top:1.15rem}
+.pill{display:inline-block;padding:.35rem .85rem;border-radius:50px;background:#e6f5f2;color:#166c59;font-weight:750;font-size:.85rem}
+button{font:inherit;cursor:pointer;min-height:44px;border-radius:12px;border:2px solid #0b597b;background:#0b597b;color:white;padding:.68rem 1.2rem;font-weight:750}
+button:focus-visible,input:focus-visible{outline:3px solid #e59a28;outline-offset:3px}
+button.secondary{color:#0b597b;background:white}button:disabled{opacity:.55;cursor:not-allowed}
+.actions{display:flex;gap:.7rem;flex-wrap:wrap;margin:1rem 0}
+.instructions{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:.8rem}
+.tip{padding:.85rem;border-radius:12px;background:#f0f7fb}.tip strong{display:block}
+#activity[hidden],#intro[hidden],#results[hidden],#teacher[hidden]{display:none}
+.quote{border-left:4px solid #2097ac;padding:.75rem 1rem;background:#f6fbfd;margin:1.2rem 0}
+.statement{display:flex;align-items:flex-start;gap:.85rem;border:2px solid #d7e5ee;border-radius:14px;padding:1rem;margin:.65rem 0;cursor:pointer;background:#fff}
+.statement:has(input:checked){border-color:#08688c;background:#e8f5fb}
+.statement input{width:1.4rem;height:1.4rem;flex:none;accent-color:#08688c;margin:.2rem 0}
+.statement .num{font-weight:800;color:#0a647d}.statement .line{flex:1}
+.statement .feedback{display:block;margin-top:.4rem;font-size:.95rem}
+.statement.is-correct{border-color:#268365;background:#f0faf3}
+.statement.is-wrong{border-color:#b35a32;background:#fff6ee}
+.progress{font-weight:700;color:#326075}
+.hint{border-radius:12px;background:#fff7df;border-left:4px solid #d59618;padding:1rem;margin-top:1rem}
+.score{font-size:2rem;font-weight:900;color:#0b597b;margin:0}
+details{margin-top:1rem}summary{font-weight:700;cursor:pointer}
+footer{font-size:.88rem;color:#526b7f;padding:1.5rem 0}
+@media(max-width:640px){.instructions{grid-template-columns:1fr}.panel{border-radius:12px}.statement{padding:.8rem}}
+@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
+</style>
+</head>
+<body>
+<main>
+<header><span class="eyebrow">Laboratori de pensament crític · 3r d'ESO</span>
+<h1>🕵️ Detectius d'IA</h1>
+<p class="lead">Troba els cinc errors d'una explicació fictícia sobre l'aparell respiratori. La teua missió no és donar per bona una resposta: has de comprovar-la i justificar per què és correcta o incorrecta.</p>
+<span class="pill">Sense registre · Sense recopilació de dades · Funciona sense connexió</span></header>
+<section class="panel" id="intro" aria-labelledby="introTitle">
+<h2 id="introTitle">La teua missió</h2>
+<div class="instructions">
+<div class="tip"><strong>1 · Llig</strong>Examinaràs deu afirmacions que una IA fictícia ha escrit sobre la respiració.</div>
+<div class="tip"><strong>2 · Detecta</strong>Marca només les cinc afirmacions que contenen errors científics.</div>
+<div class="tip"><strong>3 · Comprova</strong>Revisa les explicacions. Contrasta-les sempre amb els teus apunts i fonts fiables.</div>
+</div>
+<p><strong>Temps orientatiu:</strong> 10–15 minutos. Les pistes ajuden sense revelar directament la resposta. Pots repetir l'activitat sense penalització.</p>
+<div class="actions"><button id="start">Comença el repte</button></div>
+</section>
+<section class="panel" id="activity" hidden aria-labelledby="taskTitle">
+<h2 id="taskTitle">Quines cinc afirmacions són errònies?</h2>
+<p class="quote">«Ací tens una explicació sobre com funciona l'aparell respiratori humà». <em>Text fictici preparat per a detectar errors, no per a estudiar-lo sense contrastar-lo.</em></p>
+<p class="progress" id="count" role="status" aria-live="polite">0 de 5 errors marcats</p>
+<div id="statements"></div>
+<div class="actions">
+<button id="check">Comprova les respostes</button>
+<button class="secondary" id="hintBtn">Demana una pista</button>
+<button class="secondary" id="reset">Torna a començar</button>
+</div>
+<div id="hint" class="hint" role="status" aria-live="polite" hidden></div>
+</section>
+<section class="panel" id="results" hidden aria-labelledby="resultsTitle">
+<h2 id="resultsTitle">Resultat del repte</h2>
+<p id="score" class="score" aria-live="polite"></p>
+<p id="summary"></p>
+<p><strong>La puntuació és orientativa:</strong> mostra encerts en este qüestionari, però no és una qualificació escolar automàtica.</p>
+<div class="actions"><button id="retry">Torna-ho a intentar</button><button class="secondary" id="explainAll">Mostra totes les explicacions</button></div>
+<div id="review" hidden></div>
+</section>
+<section class="panel">
+<h2>Per a continuar investigant</h2>
+<p>Contrasta les idees amb el material de classe i amb fonts científiques fiables. Pregunta't: què ocorre en els alvèols? Quina funció té el diafragma? En què es diferencien l'aire inspirat, l'aire expirat i la respiració cel·lular?</p>
+<p>El solucionari complet es troba en la guia per al professorat, separat de l'activitat de l'alumnat.</p>
+</section>
+<footer>Recurs didàctic original. No guarda ni envia respostes, noms, qualificacions ni cap dada personal. Cal sempre la revisió docent.</footer>
+</main>
+<script>
+"use strict";
+const items=[
+{t:"L'aire entra normalment pel nas o la boca i passa per la faringe, la laringe i la tràquea.",bad:false,why:"Correcte: és el recorregut principal cap a les vies respiratòries inferiors."},
+{t:"L'intercanvi d'oxigen i diòxid de carboni es produïx principalment dins de la tràquea.",bad:true,why:"Incorrecte: l'intercanvi gasós es produïx en els alvèols pulmonars i els capil·lars, no principalment en la tràquea."},
+{t:"La tràquea es dividix en dos bronquis principals, un cap a cada pulmó.",bad:false,why:"Correcte: cada bronqui principal conduïx l'aire cap a un pulmó."},
+{t:"Durant la inspiració normal, el diafragma es relaxa i puja perquè els pulmons reben aire.",bad:true,why:"Incorrecte: en la inspiració normal el diafragma es contrau i baixa; augmenta el volum toràcic i entra aire."},
+{t:"Els alvèols tenen parets molt fines que faciliten l'intercanvi de gasos amb la sang.",bad:false,why:"Correcte: les parets fines afavorixen la difusió dels gasos."},
+{t:"La sang transporta l'oxigen des dels teixits fins als pulmons perquè allí s'utilitze per primera vegada.",bad:true,why:"Incorrecte: la sang capta oxigen als pulmons i el porta als teixits; després recull diòxid de carboni."},
+{t:"L'aire expirat conserva part de l'oxigen inspirat, però en conté menys que l'aire que entra.",bad:false,why:"Correcte: no es consumix tot l'oxigen de l'aire inspirat."},
+{t:"El pulmó esquerre té tres lòbuls i el dret dos, perquè el cor ocupa espai a la dreta.",bad:true,why:"Incorrecte: el pulmó dret sol tindre tres lòbuls i l'esquerre dos; este últim deixa espai al cor."},
+{t:"La respiració pulmonar i la respiració cel·lular són processos relacionats, però no idèntics.",bad:false,why:"Correcte: la ventilació i l'intercanvi gasós aporten oxigen; la respiració cel·lular l'utilitza per a obtindre energia a les cèl·lules."},
+{t:"En expirar tranquil·lament, el diafragma es contrau encara més i el tòrax augmenta el seu volum.",bad:true,why:"Incorrecte: en l'expiració tranquil·la el diafragma es relaxa i el retrocés elàstic reduïx el volum toràcic."}
+];
+const hints=[
+"Pensa on els gasos poden travessar una paret molt fina i arribar als capil·lars.",
+"Pensa si el diafragma es contrau o es relaxa quan entra aire als pulmons.",
+"Compara la direcció de l'oxigen i del diòxid de carboni en el transport sanguini.",
+"Recorda quin pulmó té dos lòbuls i quin en té tres.",
+"Relaciona el moviment del diafragma amb els canvis del volum toràcic."
+];
+const $=id=>document.getElementById(id);
+let shown=0,attempts=0,latest=[];
+function render(){
+ $("statements").replaceChildren();
+ items.forEach((item,i)=>{
+  const lab=document.createElement("label");lab.className="statement";
+  const input=document.createElement("input");input.type="checkbox";input.value=i;input.setAttribute("aria-label","Marcar afirmación "+(i+1)+" como errónea");
+  input.addEventListener("change",()=>{const c=document.querySelectorAll('#statements input:checked').length;$("count").textContent=c+" de 5 errors marcats";});
+  const box=document.createElement("span");box.className="line";
+  const num=document.createElement("span");num.className="num";num.textContent="Afirmació "+(i+1)+". ";
+  box.append(num,document.createTextNode(item.t));lab.append(input,box);$("statements").append(lab);
+ });
+ $("count").textContent="0 de 5 errors marcats";$("hint").hidden=true;shown=0;attempts=0;
+ $("results").hidden=true;$("review").hidden=true;$("review").replaceChildren();
+}
+function showResults(){
+ const checked=[...document.querySelectorAll('#statements input')].map(n=>n.checked);
+ const hit=checked.reduce((acc,was,i)=>acc+(was===items[i].bad?1:0),0);
+ latest=checked;attempts++;
+ $("score").textContent=hit+" / "+items.length+" decisions correctes";
+ $("summary").textContent=hit===10?"Molt bé! Has identificat els cinc errors sense assenyalar afirmacions correctes.":"Revisa els comentaris: per a millorar, explica quines evidències mostren que cada afirmació és correcta o incorrecta.";
+ $("results").hidden=false;
+ document.querySelectorAll(".statement").forEach((lab,i)=>{lab.classList.toggle("is-correct",checked[i]===items[i].bad);lab.classList.toggle("is-wrong",checked[i]!==items[i].bad);});
+ const review=$("review");review.replaceChildren();
+ items.forEach((item,i)=>{const p=document.createElement("p");const b=document.createElement("strong");b.textContent=(i+1)+". "+(item.bad?"Error intencionat. ":"Afirmació correcta. ");p.append(b,document.createTextNode(item.why));review.append(p);});
+ $("results").scrollIntoView({block:"start",behavior:"auto"});
+}
+$("start").addEventListener("click",()=>{$("intro").hidden=true;$("activity").hidden=false;render();$("taskTitle").focus?.();});
+$("check").addEventListener("click",()=>{if(document.querySelectorAll('#statements input:checked').length!==5){$("count").textContent="Marca exactament cinc afirmacions abans de comprovar.";return;}showResults();});
+$("hintBtn").addEventListener("click",()=>{$("hint").hidden=false;$("hint").textContent=hints[Math.min(shown,hints.length-1)];shown++;});
+$("reset").addEventListener("click",render);
+$("retry").addEventListener("click",()=>{render();$("taskTitle").scrollIntoView({block:"start"});});
+$("explainAll").addEventListener("click",()=>{$("review").hidden=!$("review").hidden;$("explainAll").textContent=$("review").hidden?"Mostra totes les explicacions":"Oculta les explicacions";});
+</script>
+</body>
+</html>
