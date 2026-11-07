@@ -31,6 +31,8 @@ No inventes normativa ni criteris.
 
 **Entrega:** dos instruments i justificació breu de la tria.
 
+[Tutorial d'Aules i exemples manuscrits]({{ '/va/bloque4-aules.html' | relative_url }})
+
 ## 4.2 · Aplicació interactiva i Aules
 
 Crea un qüestionari, joc o aplicació HTML amb pistes, explicacions i reintents. Comprova les respostes i l'accessibilitat. Comparteix-ho com a **URL**, mitjançant **iframe** si està permés o pujant **HTML** si Aules l'admet i funciona. Un iframe pot ser filtrat i l'HTML pot no executar JavaScript; les qualificacions no es transferixen automàticament.
@@ -63,7 +65,7 @@ Retorna el material adaptat i una taula barrera → canvi → motiu.
 
 ## 4.4 · Detectius d'errors: l'alumnat corregix la IA
 
-**[Prova l'aplicació interactiva «Detectius d'IA»]({{ '/detectives-ia/' | relative_url }})** · Biologia i Geologia, 3r d'ESO. Deu afirmacions, cinc errors, pistes, explicacions i reintents. El solucionari es manté en la guia del professorat de la V2.
+**[Prova l'aplicació interactiva «Detectius d'IA»]({{ '/detectives-ia/va.html' | relative_url }})** · Biologia i Geologia, 3r d'ESO. Deu afirmacions, cinc errors, pistes, explicacions i reintents. El solucionari es manté en la guia del professorat de la V2.
 
 
 Prepara un text amb tres errors **verificables**. L'alumnat els ha d'identificar, contrastar, corregir i justificar. Separa el solucionari del material de l'alumnat.
