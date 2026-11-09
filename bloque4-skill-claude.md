@@ -40,7 +40,7 @@ generador-gift-aules.zip
     └── SKILL.md
 ~~~
 
-**Archivo de ejemplo disponible en el repositorio:** [Ver SKILL.md «generador-gift-aules»]({{ '/assets/docs/bloque4/claude/generador-gift-aules/SKILL.md' | relative_url }}). También puedes consultar su [versión de texto en GitHub](https://github.com/mcorpusb/curso-ia-cefire-V2/blob/main/assets/docs/bloque4/claude/generador-gift-aules/SKILL.md) y utilizarla como plantilla.
+**Archivo de ejemplo disponible en el repositorio:** [Ver SKILL.md «generador-gift-aules»]({{ '/assets/docs/bloque4/claude/generador-gift-aules/SKILL.md' | relative_url }}). También puedes consultar su [versión de texto en GitHub](https://github.com/mcorpusb/curso-ia-cefire-alumnado/blob/main/assets/docs/bloque4/claude/generador-gift-aules/SKILL.md) y utilizarla como plantilla.
 
 ### Paso 3 · Crear el archivo \`SKILL.md\`
 
