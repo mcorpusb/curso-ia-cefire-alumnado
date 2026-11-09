@@ -12,6 +12,9 @@ nav_exclude: false
 ---
 
 ## Taller guiado · Crea una Gem en Gemini
+
+> **📄 Manual PDF complementario para Aules:** [Descargar «Cómo crear una Gem en Gemini»]({{ '/assets/docs/bloque4/Manual_creacion_Gem_Gemini_Bloque4_Aules.pdf' | relative_url }}). Incluye capturas e instrucciones del taller.
+
 {: id="taller-gem-gemini" }
 
 **Objetivo:** configurar, probar y mejorar un asistente docente sin programar. **Tiempo orientativo:** 20–25 minutos en formación. Puedes trabajar con una Gem de Gemini, si tu cuenta permite crearla, o con el mismo prompt en un chat; lo importante es **conservar las instrucciones y comprobar su comportamiento**.
